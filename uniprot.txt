@@ -1,0 +1,2876 @@
+TTD Target ID	Target Name	Target Type	Uniprot ID
+TTDC00001	RNA-dependent RNA polymerase	Clinical trial target	P87764
+TTDC00002	Hemagglutinin	Clinical trial target	P03437
+TTDC00005	Serine/threonine-protein kinase Chk1	Clinical trial target	O14757
+TTDC00006	Aurora kinase A	Clinical trial target	O14965
+TTDC00007	Toll-like receptor 3	Discontinued target	O15455
+TTDC00009	5-hydroxy-tryptamine 3B receptor	Clinical trial target	O95264
+TTDC00010	Serine/threonine-protein kinase Chk2	Clinical trial target	O96017
+TTDC00012	Fibronectin	Clinical trial target	P02751
+TTDC00013	Plasma kallikrein	Successful target	P03952
+TTDC00014	Glucosylceramidase	Clinical trial target	P04062
+TTDC00015	Protein kinase C gamma type	Clinical trial target	P05129
+TTDC00016	Alpha-galactosidase A	Clinical trial target	P06280
+TTDC00017	Calcitonin gene-related peptide 1	Clinical trial target	P06881
+TTDC00018	Heat shock protein HSP 90	Clinical trial target	P07900
+TTDC00019	Cathepsin G	Clinical trial target	P08311
+TTDC00020	Integrin alpha-5	Clinical trial target	P08648
+TTDC00022	mRNA of Myb proto-oncogene protein	Clinical trial target	P10242
+TTDC00023	Lysosomal alpha-glucosidase	Clinical trial target	P10253
+TTDC00024	Basic fibroblast growth factor receptor 1	Clinical trial target	P11362
+TTDC00025	Phospholipase A2, membrane associated	Clinical trial target	P14555
+TTDC00026	Interleukin-2 receptor subunit beta	Clinical trial target	P14784
+TTDC00027	Histidine decarboxylase	Clinical trial target	P19113
+TTDC00028	Tissue kallikrein	Clinical trial target	P20151
+TTDC00029	Atrial natriuretic peptide receptor B	Clinical trial target	P20594
+TTDC00030	P-glycoprotein	Clinical trial target	P21439
+TTDC00031	Integrin beta-7	Clinical trial target	P26010
+TTDC00032	Tyrosine-protein phosphatase non-receptor type 6	Clinical trial target	P29350
+TTDC00033	Interleukin-12	Successful target	P29459
+TTDC00034	Somatostatin receptor type 4	Clinical trial target	P31391
+TTDC00037	Prostaglandin E2 receptor EP3 subtype	Clinical trial target	P43115
+TTDC00038	Voltage-dependent anion-selective channel protein 2	Clinical trial target	P45880
+TTDC00039	Glycine receptor	Clinical trial target	P48167
+TTDC00040	Neuropeptide Y receptor type 2	Clinical trial target	P49146
+TTDC00041	Parathyroid hormone receptor	Clinical trial target	P49190
+TTDC00042	Matrix metalloproteinase-14	Clinical trial target	P50281
+TTDC00043	Neuropeptide Y receptor type 4	Clinical trial target	P50391
+TTDC00044	MAP kinase p38	Clinical trial target	P53778
+TTDC00045	Ephrin type-B receptor 4	Clinical trial target	P54760
+TTDC00046	Nuclear factor NF-kappa-B	Clinical trial target	Q00653
+TTDC00048	Induced myeloid leukemia cell differentiation protein Mcl-1	Clinical trial target	Q07820
+TTDC00049	Transient receptor potential cation channel subfamily V member 1	Clinical trial target	Q8NER1
+TTDC00050	Glucose-dependent insulinotropic receptor	Clinical trial target	Q8TDV5
+TTDC00051	Gamma-secretase	Clinical trial target	Q8WW43
+TTDC00052	NAD-dependent deacetylase sirtuin-1	Clinical trial target	Q96EB6
+TTDC00053	Carboxypeptidase B2	Clinical trial target	Q96IY4
+TTDC00054	Hypoxia-inducible factor-prolyl hydroxylase	Clinical trial target	Q96KS0
+TTDC00055	Telomerase protein component 1	Clinical trial target	Q99973
+TTDC00056	Toll-like receptor 8	Clinical trial target	Q9NR97
+TTDC00057	Sphingomyelin phosphodiesterase 4	Clinical trial target	Q9NXE4
+TTDC00058	Sphingosine kinase; Sphingosine kinase 2	Clinical trial target	Q9NRA0
+TTDC00059	Serine/threonine-protein kinase 13	Clinical trial target	Q9UQB9
+TTDC00060	Heparanase	Successful target	Q9Y251
+TTDC00061	Voltage-dependent anion-selective channel protein 3	Clinical trial target	Q9Y277
+TTDC00062	5-lipoxygenase activating protein	Clinical trial target	P20292
+TTDC00063	Nitric-oxide synthase, brain	Clinical trial target	P29475
+TTDC00064	Centromeric protein E	Clinical trial target	Q02224
+TTDC00065	Farnesyltransferase	Clinical trial target	P49354; Q8IHP6
+TTDC00066	Protein kinase C, epsilon type	Clinical trial target	Q02156
+TTDC00067	Cathepsin S	Clinical trial target	P25774
+TTDC00068	Cathepsin K	Clinical trial target	P43235
+TTDC00069	Peroxisome proliferator activated receptor delta	Clinical trial target	Q03181
+TTDC00070	Corticosteroid 11-beta-dehydrogenase, isozyme 1	Clinical trial target	P28845
+TTDC00071	Proteinase activated receptor 1	Clinical trial target	P25116
+TTDC00072	Melanocortin-4 receptor	Clinical trial target	P32245
+TTDC00073	Corticotropin releasing factor receptor 1	Clinical trial target	P34998
+TTDC00074	Corticotropin releasing factor receptor 2	Clinical trial target	Q13324
+TTDC00075	Thioredoxin	Clinical trial target	P10599
+TTDC00076	92 kDa type IV collagenase	Clinical trial target	P14780
+TTDC00077	Protein kinase C, delta type	Clinical trial target	Q05655
+TTDC00078	Coagulation factor IX	Clinical trial target	P00740
+TTDC00079	Histamine H3 receptor	Clinical trial target	Q9Y5N1
+TTDC00080	Interleukin-6	Clinical trial target	P05231
+TTDC00081	Interleukin-4 receptor alpha chain	Clinical trial target	P24394
+TTDC00082	Cholecystokinin type A receptor	Clinical trial target	P32238
+TTDC00084	Tyrosine-protein kinase JAK3	Successful target	P52333
+TTDC00085	Complement C1s component	Successful target	P09871
+TTDC00086	Thromboxane-A synthase	Clinical trial target	P24557
+TTDC00087	High affinity interleukin-8 receptor B	Clinical trial target	P25025
+TTDC00088	Cell division protein kinase 2	Clinical trial target	P24941
+TTDC00089	Neuropeptide Y receptor type 5	Clinical trial target	Q15761
+TTDC00090	Substance-K receptor	Clinical trial target	P21452
+TTDC00091	Purine nucleoside phosphorylase	Clinical trial target	P00491; Q8T9Z7
+TTDC00093	Calcitonin gene-related peptide type 1 receptor	Clinical trial target	Q16602
+TTDC00094	Cell division protein kinase 7	Clinical trial target	P50613
+TTDC00095	Cell division protein kinase 9	Clinical trial target	P50750
+TTDC00096	Interferon gamma	Clinical trial target	P01579
+TTDC00097	Nitric-oxide synthase, endothelial	Clinical trial target	P29474
+TTDC00098	E-selectin	Clinical trial target	P16581
+TTDC00099	Glycogen phosphorylase, muscle form	Clinical trial target	P11217
+TTDC00100	Metabotropic glutamate receptor 5	Clinical trial target	P41594
+TTDC00101	Hypoxia-inducible factor 1 alpha	Clinical trial target	Q16665
+TTDC00102	Mitogen-activated protein kinase 8	Clinical trial target	P45983
+TTDC00103	Macrophage migration inhibitory factor	Clinical trial target	P14174
+TTDC00104	72 kDa type IV collagenase	Clinical trial target	P08253
+TTDC00105	Stromelysin-1	Clinical trial target	P08254
+TTDC00106	Farnesyl-diphosphate farnesyltransferase	Clinical trial target	P37268
+TTDC00107	Toll-like receptor 9	Clinical trial target	Q9NR96
+TTDC00108	Von Willebrand factor	Clinical trial target	P04275
+TTDC00110	Hepatocyte growth factor receptor	Successful target	P08581
+TTDC00111	B2 bradykinin receptor	Clinical trial target	P30411
+TTDC00112	Somatostatin receptor type 1	Clinical trial target	P30872
+TTDC00113	STAT-1 transcription factor	Clinical trial target	P42224
+TTDC00114	Receptor protein-tyrosine kinase erbB-4	Clinical trial target	Q15303
+TTDC00116	Platelet-activating factor acetylhydrolase	Clinical trial target	Q13093
+TTDC00117	Nigral tachykinin NK(3) receptor	Clinical trial target	P29371
+TTDC00118	Cellular tumor antigen p53	Clinical trial target	P04637
+TTDC00119	Transcription factor AP-1	Clinical trial target	P05412
+TTDC00120	Protein-glutamine gamma-glutamyltransferase	Clinical trial target	P21980
+TTDC00121	C-X-C chemokine receptor type 4	Successful target	P61073
+TTDC00122	C-C chemokine receptor type 2	Clinical trial target	P41597
+TTDC00123	Microsomal triglyceride transfer protein, large subunit	Clinical trial target	P55157
+TTDC00124	Cholesteryl ester transfer protein	Clinical trial target	P11597
+TTDC00125	C-X-C chemokine receptor type 3	Clinical trial target	P49682
+TTDC00126	Metabotropic glutamate receptor 3	Clinical trial target	Q14832
+TTDC00127	Growth hormone secretagogue receptor type 1	Clinical trial target	Q92847
+TTDC00128	Potassium voltage-gated channel subfamily KQT member 3	Clinical trial target	O43525
+TTDC00129	Leukotriene B4 receptor 1	Clinical trial target	Q15722
+TTDC00130	Leukotriene A-4 hydrolase	Clinical trial target	P09960
+TTDC00131	Fibroblast growth factor receptor 3	Clinical trial target	P22607
+TTDC00132	RAC-alpha serine/threonine kinase; AkT	Clinical trial target	P31749
+TTDC00133	Melanin-concentrating hormone receptor 1	Clinical trial target	Q99705
+TTDC00134	Heme oxygenase 1	Clinical trial target	P09601
+TTDC00135	B-lymphocyte antigen CD19	Clinical trial target	P15391
+TTDC00136	Interleukin-7 receptor alpha chain	Clinical trial target	P16871
+TTDC00137	Neural-cadherin	Clinical trial target	P19022
+TTDC00138	NRH dehydrogenase [quinone] 2	Clinical trial target	P16083
+TTDC00139	Serine/threonine protein kinase 12	Clinical trial target	Q96GD4
+TTDC00140	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform	Clinical trial target	P48736
+TTDC00141	Hexokinase D	Clinical trial target	P35557
+TTDC00142	mRNA of Clusterin	Clinical trial target	P10909
+TTDC00143	Kinesin-like protein KIF11	Clinical trial target	P52732
+TTDC00144	Neurotensin receptor type 1	Clinical trial target	P30989
+TTDC00145	Ribosomal protein S6 kinase	Clinical trial target	P23443
+TTDC00147	Interstitial collagenase	Clinical trial target	P03956
+TTDC00148	Integrin beta-1	Clinical trial target	P05556
+TTDC00149	Steryl-sulfatase	Clinical trial target	P08842
+TTDC00150	Collagenase 3	Clinical trial target	P45452
+TTDC00151	Prostaglandin E2 receptor, EP4 subtype	Clinical trial target	P35408
+TTDC00152	Fructose-1,6-bisphosphatase	Clinical trial target	P09467
+TTDC00153	Orexin receptor type 1	Clinical trial target	O43613
+TTDC00155	Motilin receptor	Clinical trial target	O43193
+TTDC00156	Tyrosine-protein kinase SYK	Clinical trial target	P43405
+TTDC00157	Macrophage metalloelastase	Clinical trial target	P39900
+TTDC00158	Sodium/glucose cotransporter 2	Successful target	Q9NY91
+TTDC00159	Histone deacetylase 4	Clinical trial target	P56524
+TTDC00160	Serine/threonine-protein kinase PLK1	Clinical trial target	P53350
+TTDC00161	Angiopoietin 1 receptor	Discontinued target	Q02763
+TTDC00162	Glycogen synthase kinase-3 beta	Clinical trial target	P49841
+TTDC00163	Protein kinase C, beta type	Clinical trial target	P05771
+TTDC00165	Cell division protein kinase 4	Clinical trial target	P11802
+TTDC00166	Cell division control protein 2 homolog	Clinical trial target	P06493
+TTDC00168	Antiapoptotic protein BCL-XL	Clinical trial target	Q07817
+TTDC00169	Cell division protein kinase 6	Clinical trial target	Q00534
+TTDC00171	Guanylyl cyclase C	Clinical trial target	P25092
+TTDC00176	Placenta growth factor	Clinical trial target	P49763
+TTDC00177	Interleukin-13	Clinical trial target	P35225
+TTDC00178	Protein kinase C, theta type	Clinical trial target	Q04759
+TTDC00179	P2Y purinoceptor 2	Clinical trial target	P41231
+TTDC00180	Amyloid beta A4 protein	Successful target	Q96BI3; Q8WW43; Q9NZ42; Q92542; P49768
+TTDC00182	Protein kinase C, alpha type	Clinical trial target	P17252
+TTDC00183	Neuropilin-1	Clinical trial target	O14786
+TTDC00184	Beta-3 adrenergic receptor	Successful target	P13945
+TTDC00185	5-hydroxytryptamine 6 receptor	Clinical trial target	P50406
+TTDC00186	Interleukin-9	Clinical trial target	P15248
+TTDC00187	Tyrosine-protein kinase JAK2	Clinical trial target	O60674
+TTDC00188	Tumor necrosis factor receptor superfamily member 5	Clinical trial target	P25942
+TTDC00189	Tumor necrosis factor receptor superfamily member 16	Clinical trial target	P08138
+TTDC00190	High affinity interleukin-8 receptor A	Clinical trial target	P25024
+TTDC00191	mRNA of Protein-tyrosine phosphatase, non-receptor type 1	Clinical trial target	P18031
+TTDC00192	mRNA of Intercellular adhesion molecule-1	Clinical trial target	P05362
+TTDC00193	Neuropeptide Y receptor type 1	Clinical trial target	P25929
+TTDC00194	Hepatocyte growth factor	Clinical trial target	P14210
+TTDC00195	Telomerase	Clinical trial target	Q37967
+TTDC00196	Tumor necrosis factor ligand superfamily member 13B	Clinical trial target	Q9Y275
+TTDC00197	P-selectin	Clinical trial target	P16109
+TTDC00198	HCV polymerase	Clinical trial target	Q68929
+TTDC00199	Myeloperoxidase	Clinical trial target	P05164
+TTDC00200	NAD(P)H dehydrogenase [quinone] 1	Clinical trial target	P15559
+TTDC00201	Mitogen-activated protein kinase 14	Clinical trial target	Q16539
+TTDC00202	Rho-associated protein kinase 1	Clinical trial target	Q13464
+TTDC00204	Vasoactive intestinal polypeptide receptor 1	Clinical trial target	P32241
+TTDC00205	Glucagon-like peptide 1	Successful target	P01275 (92-128)
+TTDC00206	Ubiquitin-protein ligase E3 Mdm2	Successful target	Q00987
+TTDC00207	C-C chemokine receptor type 3	Clinical trial target	P51677
+TTDC00208	T-cell-specific surface glycoprotein CD28	Successful target	P10747
+TTDC00209	Toll-like receptor 4	Clinical trial target	O00206
+TTDC00210	Angiopoietin-2	Clinical trial target	O15123
+TTDC00211	HIV integrase	Successful target	P03366 (1160-1447)
+TTDC00213	Connective tissue growth factor	Clinical trial target	P29279
+TTDC00214	Interleukin-17	Clinical trial target	Q16552
+TTDC00215	C-C chemokine receptor type 1	Clinical trial target	P32246
+TTDC00216	mRNA of C-reactive protein	Clinical trial target	P02741
+TTDC00217	Interleukin-5 receptor	Clinical trial target	Q14633
+TTDC00218	P2X purinoceptor 7	Clinical trial target	Q99572
+TTDC00219	Tumor necrosis factor receptor superfamily member 4	Clinical trial target	P43489
+TTDC00220	Metabotropic glutamate receptor 1	Clinical trial target	Q13255
+TTDC00221	Interleukin-18	Clinical trial target	Q14116
+TTDC00222	Inhibitor of nuclear factor kappa-B kinase	Clinical trial target	O14920; O15111; Q14164
+TTDC00224	Tumor necrosis factor ligand superfamily member 11	Successful target	O14788
+TTDC00225	Macrophage inflammatory protein-2-alpha	Clinical trial target	P19875
+TTDC00226	C-C chemokine receptor type 4	Clinical trial target	P51679
+TTDC00227	Sodium- and chloride-dependent glycine transporter 1	Clinical trial target	P48067
+TTDC00228	mRNA of Eukaryotic translation initiation factor 4E	Clinical trial target	P06730
+TTDC00230	Gastrin-releasing peptide receptor	Clinical trial target	P30550
+TTDC00231	G-protein coupled receptor 54	Clinical trial target	Q969F8
+TTDC00232	Cytochrome P450 26	Clinical trial target	O43174
+TTDC00234	Interleukin-1 receptor, type II	Clinical trial target	P27930
+TTDC00237	Putative G-protein coupled receptor 44	Clinical trial target	Q9Y5Y4
+TTDC00238	EGF-like domain-containing protein 7	Clinical trial target	Q9UHF1
+TTDC00239	Neuronal acetylcholine receptor subunit alpha-9	Clinical trial target	Q9UGM1
+TTDC00240	Voltage-dependent calcium channel subunit alpha-2/delta-2	Clinical trial target	Q9NY47
+TTDC00241	mRNA of HIF-1 responsive protein RTP801	Clinical trial target	Q9NX09
+TTDC00242	Neuronal acetylcholine receptor subunit alpha-10	Clinical trial target	Q9GZZ6
+TTDC00243	Solute carrier family 22 member 12	Clinical trial target	Q96S37
+TTDC00244	Bcl-2-like protein 2	Clinical trial target	Q92843
+TTDC00245	NEDD8-activating enzyme E1 catalytic subunit	Clinical trial target	Q8TBC4
+TTDC00246	Synaptic vesicle glycoprotein 2A	Clinical trial target	Q7L0J3
+TTDC00247	Angiopoietin-1	Clinical trial target	Q15389
+TTDC00248	Mucosal addressin cell adhesion molecule 1	Clinical trial target	Q13477
+TTDC00249	Puromycin-sensitive aminopeptidase	Clinical trial target	P55786
+TTDC00250	Glutamate receptor 1	Clinical trial target	P42261
+TTDC00251	Interleukin-15	Clinical trial target	P40933
+TTDC00252	Pigment epithelium-derived factor	Clinical trial target	P36955
+TTDC00253	Somatostatin receptor type 5	Clinical trial target	P35346
+TTDC00254	Somatostatin receptor type 3	Clinical trial target	P32745
+TTDC00255	Sodium-dependent serotonin transporter	Clinical trial target	P31645
+TTDC00256	Wee1-like protein kinase	Clinical trial target	P30291
+TTDC00257	Ciliary neurotrophic factor receptor alpha	Clinical trial target	P26992
+TTDC00258	Sphingosine 1-phosphate receptor 1	Successful target	P21453
+TTDC00259	Cytotoxic T-lymphocyte protein 4	Successful target	P16410
+TTDC00260	Sodium/glucose cotransporter 1	Clinical trial target	P13866
+TTDC00263	Macrophage colony-stimulating factor 1	Clinical trial target	P09603
+TTDC00264	Beta-2-glycoprotein 1	Clinical trial target	P02749
+TTDC00265	T-cell surface glycoprotein CD4	Clinical trial target	P01730
+TTDC00266	Tumor necrosis factor receptor superfamily member 10B	Clinical trial target	O14763
+TTDC00267	Tumor necrosis factor receptor superfamily member 10A	Discontinued target	O00220
+TTDC00269	mRNA of Heat shock 27 kDa protein	Clinical trial target	P04792
+TTDC00271	Myc proto-oncogene protein	Clinical trial target	P01106
+TTDC00272	Transforming growth factor beta 2	Clinical trial target	P61812
+TTDC00273	Baculoviral IAP repeat-containing protein 5	Clinical trial target	O15392
+TTDC00279	mRNA of respiratory syncytial virus nucleocapsid protein	Clinical trial target	P15130
+TTDC00280	mRNA of Inhibitor of apoptosis protein	Clinical trial target	P98170
+TTDC00281	MARK3	Clinical trial target	P27448
+TTDC00290	Vascular endothelial growth factor receptor 3	Successful target	P35916
+TTDC00291	D(4) dopamine receptor	Clinical trial target	P21917
+TTDC00292	Alpha-1A adrenergic receptor	Clinical trial target	P35348
+TTDC00293	Alpha-2B adrenergic receptor	Clinical trial target	P18089
+TTDC00295	Triacylglycerol lipase, pancreatic	Clinical trial target	P16233
+TTDC00298	Vasopressin V1b receptor	Clinical trial target	P47901
+TTDC00299	Glutamate [NMDA] receptor subunit epsilon 2	Clinical trial target	Q13224
+TTDC00301	Neuronal acetylcholine receptor protein, beta-2 chain	Clinical trial target	P17787
+TTDC00303	Potassium voltage-gated channel subfamily A member 5	Clinical trial target	P22460
+TTDC00304	Sodium-dependent noradrenaline transporter	Successful target	P23975
+TTDC00307	FK506-binding protein 1A	Clinical trial target	P20071
+TTDC00310	mRNA of RAF proto-oncogene serine/threonine-protein kinase	Clinical trial target	P04049
+TTDC00311	Alpha platelet-derived growth factor receptor	Clinical trial target	P16234
+TTDC00312	Urokinase-type plasminogen activator	Clinical trial target	P00749
+TTDC00313	Acetyl-CoA acetyltransferase, mitochondrial	Clinical trial target	P24752
+TTDC00314	Cannabinoid receptor 2	Clinical trial target	P34972
+TTDC00315	Phosphodiesterase	Clinical trial target	Q08497
+TTDC00318	High affinity nerve growth factor receptor	Successful target	P04629
+TTDC00319	Apoptosis regulator Bcl-2	Clinical trial target	P10415
+TTDC00322	HCV NS5A protein; NS5A protein	Clinical trial target	K7X7T4
+TTDC00325	mRNA of copper zinc superoxide dismutase 1	Clinical trial target	P00441
+TTDC00326	Complement factor D	Clinical trial target	P00746
+TTDC00327	Lymphotoxin alpha	Clinical trial target	P01374
+TTDC00328	mRNA of ApoC-III	Clinical trial target	P02656
+TTDC00329	mRNA of transthyretin	Clinical trial target	P02766
+TTDC00330	mRNA of Factor XI	Clinical trial target	P03951
+TTDC00331	Apolipoprotein B-100	Successful target	P04114
+TTDC00332	mRNA of androgen receptor	Clinical trial target	P10275
+TTDC00333	Prolactin receptor	Clinical trial target	P16471
+TTDC00334	mRNA of VEGFR1	Clinical trial target	P17948
+TTDC00335	mRNA of connective tissue growth factor	Clinical trial target	P29279
+TTDC00336	mRNA of sodium-glucose transporter-2	Clinical trial target	P31639
+TTDC00337	CD70	Clinical trial target	P32970
+TTDC00338	Activin receptor-like kinase-1	Clinical trial target	P37023
+TTDC00339	mRNA of kinesin spindle protein	Clinical trial target	P52732
+TTDC00340	Choline transporter-like protein 4	Clinical trial target	Q53GD3
+TTDC00341	Scavenger decapping enzyme DcpS	Clinical trial target	Q96C86
+TTDC00342	Calcium-release activated calcium channel	Clinical trial target	Q96D31
+TTDC00343	Nectin-4	Clinical trial target	Q96NY8
+TTDC00344	Smoothened	Clinical trial target	Q99835
+TTDC00345	mRNA of growth hormone receptor	Clinical trial target	P10912
+TTDI00001	Granulin	Research target	P28799
+TTDI00002	Linear ubiquitin chain assembly complex	Research target	Q96EP0; Q9H0F6; Q9BYM8
+TTDI00003	C-X-C motif chemokine 13	Research target	O43927
+TTDI00004	Collagen VI	Research target	P12109; P12110; P12111
+TTDI00005	Sgt1	Research target	Q9Y2Z0
+TTDI00006	Lactate dehydrogenase A	Research target	P00338
+TTDI00007	Metastasis associated gene-1	Research target	Q13330
+TTDI00008	FHL1	Research target	Q13642
+TTDI00010	C-X-C motif ligand 13	Research target	O43927
+TTDI00011	Monocarboxylate transporter 4	Research target	O15427
+TTDI00012	Mertk	Research target	Q12866
+TTDI00013	Ras gtpase-activating protein SH3 domain-binding protein 1	Research target	Q13283
+TTDI00017	Acylglycerol kinase	Research target	Q53H12
+TTDI00019	Adenomatous polyposis coli 2	Research target	O95996
+TTDI00021	Forkhead box Q1	Research target	Q9C009
+TTDI00022	Dnaj-1	Research target	P25685
+TTDI00023	Contactin-1	Research target	Q12860
+TTDI00024	Liver receptor homolog-1	Research target	O00482
+TTDI00026	Astrocyte Elevated Gene-1	Research target	Q86UE4
+TTDI00028	Regulators of G protein signaling 12	Research target	O14924
+TTDI00029	Heat shock protein A12B	Research target	Q96MM6
+TTDI00030	L-type amino acid transporter 1	Research target	Q01650
+TTDI00031	Polypyrimidine tract-binding protein	Research target	P26599
+TTDI00033	Zeb2	Research target	O60315
+TTDI00034	ABCG5	Research target	Q9H222
+TTDI00037	Cytokine signaling 1	Research target	O15524
+TTDI00038	Cyclin-dependent kinase inhibitor 1A	Research target	P38936
+TTDI00040	HOXA13	Research target	P31271
+TTDI00041	Methyl cpg binding protein 2	Research target	P51608
+TTDI00042	Gamma-Glutamyl transferase 7	Research target	Q9UJ14
+TTDI00043	CCL20	Research target	P78556
+TTDI00045	Src-associated in mitosis of 68 kda	Research target	Q07666
+TTDI00046	Charged multivesicular body protein 4B	Research target	Q9H444
+TTDI00047	Matriptase	Research target	Q9Y5Y6
+TTDI00050	SOX2 	Research target	P48431
+TTDI00052	FBXO11	Research target	Q86XK2
+TTDI00053	Phosphorylation of H2AX	Research target	P16104
+TTDI00054	Kallikrein-related-peptidase-4	Research target	Q9Y5K2
+TTDI00057	Cyclin E2	Research target	O96020
+TTDI00058	SKP2	Research target	Q13309
+TTDI00061	ATF4	Research target	P18848
+TTDI00064	Mixed-lineage leukemia protein (MLL) complex	Research target	Q03164
+TTDI00065	Mitochondrial Cyclophilin D	Research target	Q08752
+TTDI00066	Insulin-like growth factor-binding proteins 7	Research target	Q16270
+TTDI00069	CCL22	Research target	O00626
+TTDI00072	ITCH	Research target	Q96J02
+TTDI00074	Eukaryotic translation initiation factor 4E	Research target	P06730
+TTDI00075	G protein-coupled receptor 35	Research target	Q9HC97
+TTDI00076	Discoidin domain receptor 2	Research target	Q16832
+TTDI00077	PTPN14	Research target	Q15678
+TTDI00078	PTEN	Research target	P60484
+TTDI00079	MAP4K4	Research target	O95819
+TTDI00080	S100 calcium-binding protein A6	Research target	P06703
+TTDI00081	Ku80	Research target	P13010
+TTDI00082	Eukaryotic translation initiation factor 5A2	Research target	Q9GZV4
+TTDI00083	LATS2	Research target	Q9NRM7
+TTDI00084	PLEKHA5	Research target	Q9HAU0
+TTDI00086	Id (DNA binding and/or differentiation) protein 2	Research target	Q02363
+TTDI00087	SLC26A9	Research target	Q7LBE3
+TTDI00088	HAX-1	Research target	O00165
+TTDI00089	Grainyhead-like 2	Research target	Q6ISB3
+TTDI00090	Histidine-rich calcium binding protein	Research target	P23327
+TTDI00091	Transforming acidic coiled-coil protein 3	Research target	Q9Y6A5
+TTDI00092	Daam2	Research target	Q86T65
+TTDI00094	MTOR complex 2	Research target	Q6R327
+TTDI00095	Herpesvirus entry mediator	Research target	Q92956
+TTDI00096	YOD1	Research target	Q5VVQ6
+TTDI00100	PLP2	Research target	Q04941
+TTDI00101	BCAM-AKT2 fusion gene	Research target	P50895; P31751
+TTDI00102	Telomeric repeat-binding factor 1	Research target	P54274
+TTDI00103	Telomeric repeat-binding factor 2	Research target	Q15554
+TTDI00104	Surfactant protein D	Research target	P35247
+TTDI00105	Osteoclast-associated receptor	Research target	Q8IYS5
+TTDI00106	Non-catalytic region of tyrosine kinase adaptor protein 1	Research target	P16333
+TTDI00108	Beclin-1	Research target	Q14457
+TTDI00109	Cullin7	Research target	Q14999
+TTDI00111	SYVN1 	Research target	Q86TM6
+TTDI00112	Peroxisome proliferator-activated receptor gamma coactivator 1beta	Research target	Q86YN6
+TTDI00114	Stomatin-like protein 2	Research target	Q9UJZ1
+TTDI00115	Apelin	Research target	Q9ULZ1
+TTDI00116	HOXA5	Research target	P20719
+TTDI00119	Signal peptide-CUB-epidermal growth factor-like domain-containing protein 2	Research target	Q9NQ36
+TTDI00120	Activating enhancer-binding protein-2 alpha	Research target	P05549
+TTDI00121	Musashi2	Research target	Q96DH6
+TTDI00122	Lymphocyte adaptor protein LNK	Research target	Q9UQQ2
+TTDI00123	Thioredoxin-interacting protein	Research target	Q9H3M7
+TTDI00126	T lymphoma invasion and metastasis 1	Research target	Q13009
+TTDI00127	High-mobility group protein 2	Research target	P26583
+TTDI00128	Kinesin family member 26B	Research target	Q2KJY2
+TTDI00130	FAM83D	Research target	Q9H4H8
+TTDI00132	Shugoshin-like protein 1	Research target	Q5FBB7
+TTDI00133	Annexin II receptor	Research target	Q3ZCQ2
+TTDI00134	Homeobox (HOX) A11	Research target	P31270
+TTDI00137	KDM5B	Research target	Q9UGL1
+TTDI00139	WW domain containing E3 ubiquitin protein ligase 2	Research target	O00308
+TTDI00140	ADP-ribosylation factor-like protein 2	Research target	P36404
+TTDI00142	Src homology region 2 domain-containing phosphatase 1	Research target	P29350
+TTDI00144	Stathmin 1	Research target	P16949
+TTDI00146	CXXC5	Research target	Q7LFL8
+TTDI00148	CBX7	Research target	O95931
+TTDI00149	Srrp35	Research target	Q8WXF0
+TTDI00151	JAG2	Research target	Q9Y219
+TTDI00152	High mobility group protein HMGI-C	Research target	P52926
+TTDI00153	PNPLA6	Research target	Q8IY17
+TTDI00154	Uncoupling protein-2	Research target	P55851
+TTDI00155	Phosphoglycerate dehydrogenase	Research target	O43175
+TTDI00156	Transcription factor sex determining region Y-box protein 5	Research target	P35711
+TTDI00157	Allograft inflammatory factor-1	Research target	P55008
+TTDI00158	GLUT12	Research target	Q8TD20
+TTDI00159	Thyroid hormone receptor-interacting protein 12	Research target	Q14669
+TTDI00160	Optic atrophy protein 1	Research target	O60313
+TTDI00161	Thioredoxin-like protein 2b	Research target	Q86XW9
+TTDI00165	DEK	Research target	P35659
+TTDI00166	Citrate synthase	Research target	O75390
+TTDI00168	Gamma-H2AX	Research target	P16104
+TTDI00169	Cytoplasmic DRAK1	Research target	Q9UEE5
+TTDI00170	ATG7 	Research target	O95352
+TTDI00173	Septin-6	Research target	Q14141
+TTDI00174	P300/CBP-associated factor	Research target	Q92831
+TTDI00176	Interleukin (IL)-35	Research target	P29459; Q14213
+TTDI00178	RECK 	Research target	O95980
+TTDI00181	Rab22a 	Research target	Q9UL26
+TTDI00182	Sialic acid-binding immunoglobulin-like lectin 15	Research target	Q6ZMC9
+TTDI00183	Beta-Arrestin1	Research target	P49407
+TTDI00184	C-terminal tensin-like (Cten) protein	Research target	Q8IZW8
+TTDI00185	CX3CL1	Research target	P78423
+TTDI00188	Endoplasmic reticulum aminopeptidase 1	Research target	Q9NZ08
+TTDI00189	Calpain 2	Research target	P17655
+TTDI00190	Lysosome-associated protein transmembrane 4b-35 protein	Research target	Q86VI4
+TTDI00192	G protein-coupled estrogen receptor 30	Research target	Q99527
+TTDI00193	SPAG6	Research target	O75602
+TTDI00194	STK33	Research target	Q9BYT3
+TTDI00195	N-acylethanolamine-hydrolyzing acid amidase	Research target	Q02083
+TTDI00196	Forkhead box protein C2	Research target	Q99958
+TTDI00197	Activating transcription factor 4	Research target	P18848
+TTDI00198	Fos-related antigen 2	Research target	P15408
+TTDI00200	E-cadherin	Research target	P12830
+TTDI00202	Musashi RNA-binding protein 1	Research target	O43347
+TTDI00204	Beta-Arrestin 2	Research target	P32121
+TTDI00205	Proprotein Convertase 5/6A	Research target	Q92824
+TTDI00207	Glyoxalase I	Research target	Q04760
+TTDI00208	Transducin (beta)-like 1 X-linked receptor 1	Research target	Q9BZK7
+TTDI00210	Metadherin	Research target	Q86UE4
+TTDI00212	Autophagy-related 2B	Research target	Q96BY7
+TTDI00213	SET and MYND domain-containing protein 2	Research target	Q9NRG4
+TTDI00214	Resistance to inhibitors of cholinesterase (Ric-8)A	Research target	Q9NPQ8
+TTDI00215	Resistance to inhibitors of cholinesterase (Ric-8)B	Research target	Q9NVN3
+TTDI00217	TAGLN	Research target	Q01995
+TTDI00222	Multidrug resistance protein 4	Research target	O15439
+TTDI00223	Hippo-Yes-associated protein 1	Research target	P46937
+TTDI00224	Ubiquitin-specific protease 37	Research target	Q86T82
+TTDI00226	NM23-H1	Research target	P15531
+TTDI00227	HS-1-associated protein X-1	Research target	O00165
+TTDI00228	MPHOSPH1	Research target	Q96Q89
+TTDI00229	Annexin A8	Research target	P13928
+TTDI00230	Borealin/Dasra B	Research target	Q53HL2
+TTDI00232	TNF receptor-associated factor 6	Research target	Q9Y4K3
+TTDI00233	ATP-binding cassette G1 transporter	Research target	P45844
+TTDI00236	PSMD10	Research target	O75832
+TTDI00240	PRL-1	Research target	Q93096
+TTDI00242	PRL-2	Research target	Q12974
+TTDI00244	PRL-3	Research target	O75365
+TTDI00245	Cdc2-like kinase 1	Research target	P49759
+TTDI00246	Cullin 3	Research target	Q13618
+TTDI00290	Sphingosine kinase 2	Clinical trial target	Q9NRA0
+TTDI00319	Purine nucleoside phosphorylase	Clinical trial target	P00491
+TTDI00342	CXCR4 chemokine	Clinical trial target	P61073
+TTDI00350	AKT1 protein kinase	Clinical trial target	P31749
+TTDI00462	Nicotinic acid receptor 1	Clinical trial target	Q8TDS4
+TTDI00558	Interleukin-16 ligand	Clinical trial target	Q14005
+TTDI00587	GTP cyclohydrolase-I	Clinical trial target	P30793
+TTDI00605	Proliferating cell nuclear antigen	Clinical trial target	P12004
+TTDI00607	12/15-lipoxygenase	Discontinued target	P16050
+TTDI00641	Protein phosphatase 2A	Clinical trial target	P67775
+TTDI00662	Connecting peptide (C-peptide)	Clinical trial target	P02765 (301-340)
+TTDI00711	Methionine aminopeptidase-2	Clinical trial target	P50579
+TTDI00747	Stearoyl CoA desaturase-1	Clinical trial target	O00767
+TTDI00764	Bacteria chorismate synthase	Discontinued target	P12008
+TTDI00816	Glutathione reductase	Research target	P00390
+TTDI00862	Dihydroorotate dehydrogenase	Clinical trial target	Q02127
+TTDI00870	DNA topoisomerase I	Clinical trial target	Q969P6
+TTDI00909	Ryanodine receptor	Clinical trial target	P21817
+TTDI00915	Angiotensin-converting enzyme	Clinical trial target	P12821
+TTDI00931	DHFR	Clinical trial target	P00374
+TTDI00934	RNA polymerase	Discontinued target	P9WGZ1; P9WGY9; P9WGY7; P9WGY5
+TTDI00939	Estrogen receptor alpha	Clinical trial target	P03372
+TTDI00956	Thioredoxin reductase	Discontinued target	P30044
+TTDI00964	Thymidylate synthase	Clinical trial target	P04818
+TTDI00965	Squalene epoxidase	Clinical trial target	Q14534
+TTDI00967	Tubulin beta-1 chain	Clinical trial target	Q9H4B7
+TTDI00990	Farnesyl pyrophosphate synthase	Clinical trial target	P14324
+TTDI01008	Voltage-dependent calcium channel subunit alpha-2/delta-1	Clinical trial target	P54289
+TTDI01014	Carnitine palmitoyltransferase-I	Discontinued target	Q92523
+TTDI01022	CD11a	Clinical trial target	P20701
+TTDI01040	Hemoglobin	Clinical trial target	P69905
+TTDI01041	Hemoglobin subunit beta	Clinical trial target	P68871
+TTDI01745	Integrin alpha-4/beta-4	Clinical trial target	P13612; P16144
+TTDI01746	Interleukin-12 ligand	Clinical trial target	P29459; P29460
+TTDI01749	Muscarinic receptor	Successful target	P11229; P08172; P20309; P08173; P08912
+TTDI01750	Alpha 2 adrenoceptor	Successful target	P08913; P18825
+TTDI01752	Nicotinic ACh receptor	Clinical trial target	P02708; Q15822; P32297; P43681; P30532; Q15825; P36544; Q9UGM1; Q9GZZ6; P11230; P17787; Q05901; P30926; Q07001; P07510; Q04844
+TTDI01753	Acetyl CoA carboxylase	Discontinued target	Q13085; O00763
+TTDI01755	Acetylcholine receptor	Successful target	P02708; Q15822; P32297; P43681; P30532; Q15825; P36544; Q9UGM1; Q9GZZ6; P11230; P17787; Q05901; P30926; Q07001; Q04844; P07510; P11229; P08172; P20309; P08173; P08912
+TTDI01756	Beta adrenoceptor	Successful target	P08588; P07550; P13945
+TTDI01760	Gelatinase	Discontinued target	P08253; P14780
+TTDI01762	Alpha 1 adrenoceptor	Successful target	P35348; P25100
+TTDI01763	ACTH releasing factor receptor	Discontinued target	P34998; Q13324
+TTDI01764	Alpha adrenoceptor	Successful target	P35348; P25100; P08913; P18825
+TTDI01765	Fibrinogen	Discontinued target	P02671; P02675; P02679
+TTDI01766	Melatonin receptor	Discontinued target	P49286; P48039
+TTDI01767	Ras GTPase	Clinical trial target	P01112; P01116; P01111
+TTDI01768	Integrin alpha-5/beta-1	Clinical trial target	P08648; P05556
+TTDI01769	Bradykinin receptor	Discontinued target	P46663; P30411
+TTDI01771	Inosine monophosphate dehydrogenase	Successful target	P20839; P12268
+TTDI01772	CC chemokine receptor	Discontinued target	P32246; P41597; P51677; P51679; P51681; P51684; P32248; P51685; P51686; P46092
+TTDI01773	Selectin	Discontinued target	P16581; P14151; P16109
+TTDI01774	GABA A receptor	Successful target	P14867; P47869; P34903; P48169; P31644; Q16445; P18505; P47870; P28472; Q8N1C3; P18507; Q99928
+TTDI01775	MEK protein kinase	Clinical trial target	Q02750; P36507
+TTDI01776	Phosphodiesterase (PDE) 7	Discontinued target	Q13946; Q9NP56
+TTDI01777	Aurora protein kinase	Clinical trial target	O14965; Q96GD4; Q9UQB9
+TTDI01778	Bombesin receptor	Clinical trial target	P28336; P30550; P32247
+TTDI01779	Notch receptor	Clinical trial target	P46531; Q04721; Q9UM47; Q99466
+TTDI01781	Integrin alpha-V/beta-5	Clinical trial target	P06756; P18084
+TTDI01784	Adenosine A2 receptor	Clinical trial target	P29274; P29275
+TTDI01785	Leukotriene B4 receptor	Clinical trial target	Q15722; Q9NPC1
+TTDI01786	Integrin alpha-2/beta-1	Clinical trial target	P17301; P05556
+TTDI01787	Integrin alpha-M/beta-2	Clinical trial target	P11215; P05107
+TTDI01789	Integrin alpha-5/beta-3	Clinical trial target	P08648; P05106
+TTDI01790	Integrin alpha-V/beta-1	Clinical trial target	P06756; P05556
+TTDI01793	Heme oxygenase	Research target	P09601; P30519
+TTDI01795	Integrin alpha-5/beta-5	Clinical trial target	P08648; P18084
+TTDI01796	Interleukin-17 ligand	Clinical trial target	Q16552; Q9UHF5; Q9P0M4; Q8TAD2; Q9H293
+TTDI01797	Integrin alpha-4/beta-1	Clinical trial target	P13612; P05556
+TTDI01799	Interferon alpha ligand	Successful target	P01566; P01570; P05015; P01571; P01568; P01562; P01563; P05014; P01569; P05013; P01567; P32881
+TTDI01800	Interleukin-3 receptor	Clinical trial target	P26951; P32927
+TTDI01801	Cyclin D	Discontinued target	P24385; P30279; P30281
+TTDI01803	Galanin receptor	Discontinued target	P47211; O43603; O60755
+TTDI01804	CXCR chemokine	Discontinued target	P25024; P25025; P49682; P61073
+TTDI01805	Integrin alpha-1/beta-1	Discontinued target	P56199; P05556
+TTDI01807	Trk receptor	Clinical trial target	P04629; Q16620; Q16288
+TTDI01808	Interleukin-23 ligand	Clinical trial target	P29459; Q9NPF7
+TTDI01809	Integrin alpha-1/beta-3	Clinical trial target	P56199; P05106
+TTDI01813	Integrin alpha-V/beta-6	Clinical trial target	P06756; P18564
+TTDI01814	Nerve growth factor ligand	Clinical trial target	P01138; P20783
+TTDI01815	Activin type-II receptor	Clinical trial target	P27037; Q13705
+TTDI01816	Alpha-4/beta-2 nicotinic receptor	Clinical trial target	P43681; P17787
+TTDI01817	Bone morphogenetic protein receptor	Research target	P36894; O00238; Q13873
+TTDI01819	Natriuretic peptide receptor	Clinical trial target	P16066; P20594; P17342
+TTDI01820	Aggrecanase	Research target	O75173; Q9UNA0
+TTDI01821	Amiloride sensitive sodium channel	Research target	P78348; Q16515; Q9UHC3
+TTDI01825	Histone acetyltransferase	Research target	Q09472; Q92830; O95251; Q92794; Q92993; Q92831; Q9H7Z6; Q8WYB5
+TTDI01826	Alkaline phosphatase	Research target	P05186; P09923; P05187; P10696
+TTDI01868	ATP sensitive potassium channel	Successful target	Q15842; Q14654; Q09428; O60706
+TTDI01869	Colony stimulating factor ligand	Successful target	P09603; P04141; P09919
+TTDI01904	CD80	Clinical trial target	P33681
+TTDI01905	Protein kinase C epsilon	Clinical trial target	Q02156
+TTDI01906	Trace amine-associated receptor-1	Clinical trial target	Q96RJ0
+TTDI01907	Androgen receptor	Clinical trial target	P10275
+TTDI01908	GCSF receptor	Clinical trial target	Q99062
+TTDI01909	GABA A receptor delta subunit	Clinical trial target	O14764
+TTDI01914	Bacterial DNA gyrase	Successful target	P20831; P0A0K8
+TTDI01915	Bacteria 50S ribosomal subunit	Clinical trial target	P0A7L0; P60422; P60438; P0AG55; P0A7K2; P0A7J3
+TTDI01916	Leukotriene CysLT2 receptor	Clinical trial target	Q9NS75
+TTDI01917	Erythropoietin ligand	Clinical trial target	P01588
+TTDI01918	Folate receptor alpha	Clinical trial target	P15328
+TTDI01919	Respiratory syncytial virus protein F	Clinical trial target	P03420
+TTDI01920	HIV GAG protein	Clinical trial target	P04591
+TTDI01921	Interferon alpha 2 ligand	Clinical trial target	P01563
+TTDI01922	Interferon beta ligand	Clinical trial target	P01574
+TTDI01923	Tubulin receptor	Clinical trial target	Q9BQE3
+TTDI01924	HIV envelope glycoprotein gp120	Clinical trial target	O70902 (29-500)
+TTDI01925	Hepatitis C virus serine protease NS3	Clinical trial target	P26664 (1027-1657)
+TTDI01926	Hepatitis C virus NS5B polymerase	Clinical trial target	P26664 (2421-3011)
+TTDI01927	Hepatitis C virus protease	Clinical trial target	P26662 (810-1657)
+TTDI01928	Leishmania donovani DNA topoisomerase I	Clinical trial target	Q9NJG8
+TTDI01929	Schistosoma mansoni purine nucleoside phosphorylase	Clinical trial target	Q9BMI9
+TTDI01931	AP1 transcription factor	Discontinued target	P05412
+TTDI01932	CD86	Clinical trial target	P42081
+TTDI01933	ICAM-1	Clinical trial target	P05362
+TTDI01934	Protein tyrosine phosphatase-1B	Clinical trial target	P18031
+TTDI01935	Interleukin-1 alpha ligand	Clinical trial target	P01583
+TTDI01939	Coagulation factor XIII	Discontinued target	P00488; P05160
+TTDI01940	Endostatin	Clinical trial target	P39060
+TTDI01941	Diacylglycerol O acyltransferase 1	Clinical trial target	O75907
+TTDI01942	Fungal 1,3-beta-glucan synthase	Clinical trial target	P38631; P40989
+TTDI01943	Cytochrome P450 reductase	Discontinued target	P16435
+TTDI01944	Parathyroid hormone ligand	Clinical trial target	P01270
+TTDI01945	Microtubule-associated protein tau	Clinical trial target	P10636
+TTDI01948	Deoxycytidine kinase	Discontinued target	P27707
+TTDI01949	Protein kinase C iota	Discontinued target	P41743
+TTDI01950	Protein kinase C theta	Discontinued target	Q04759
+TTDI01951	Phosphodiesterase (PDE) 7A	Discontinued target	Q13946
+TTDI01952	Phosphodiesterase (PDE) 7B	Discontinued target	Q9NP56
+TTDI01954	E3 ubiquitin protein ligase COP1	Discontinued target	Q8NHY2
+TTDI01955	Streptokinase	Discontinued target	P00779
+TTDI01956	Histone deacetylase-3	Clinical trial target	O15379
+TTDI01958	Fungal aureus leucyl-tRNA synthetase	Successful target	A6QHU1
+TTDI01959	HIV env	Clinical trial target	O70902
+TTDI01960	Collagen I	Clinical trial target	P02452; P08123
+TTDI01961	Fibroblast growth factor-4	Clinical trial target	P08620
+TTDI01962	Dihydropyrimidinase related protein 2	Successful target	Q16555
+TTDI01963	Phenylalanine hydroxylase	Successful target	P00439
+TTDI01964	Coagulation factor XI	Clinical trial target	P03951
+TTDI01965	GABA B receptor subunit 2	Clinical trial target	O75899
+TTDI01966	Nuclear factor kappa B p105 subunit	Clinical trial target	P19838
+TTDI01967	Perlecan	Clinical trial target	P98160
+TTDI01968	Sodium channel protein type 2 subunit alpha	Clinical trial target	Q99250
+TTDI01969	Tryptophan 5-hydroxylase-1	Clinical trial target	P17752
+TTDI01970	Glutamate receptor 2	Clinical trial target	P42262
+TTDI01971	Potassium channel KCa1.1	Clinical trial target	Q12791
+TTDI01972	DNA topoisomerase II alpha	Clinical trial target	P11388
+TTDI01973	Interleukin-10 receptor	Clinical trial target	Q13651; Q08334
+TTDI01974	Glutamate receptor 3	Clinical trial target	P42263
+TTDI01975	Glutamate receptor 4	Research target	P48058
+TTDI01980	Calcium activated potassium KCNMA1 (maxiK) channel	Clinical trial target	Q12791; Q16558; Q9Y691; Q9NPA1; Q86W47
+TTDI01981	Maxi K potassium channel	Clinical trial target	Q16558; Q9Y691; Q9NPA1; Q86W47
+TTDI01982	Asparaginase	Clinical trial target	Q7L266
+TTDI01983	Bone morphogenetic protein-2 ligand	Clinical trial target	P12643
+TTDI01984	Varicella-zoster virus DNA polymerase	Clinical trial target	P09252
+TTDI01985	Duffy antigen chemokine receptor	Clinical trial target	Q16570
+TTDI01986	Epidermal growth factor ligand	Clinical trial target	P01133
+TTDI01987	Endoplasmin	Research target	P14625
+TTDI01988	Hepatitis B large envelope protein	Clinical trial target	P03141
+TTDI01989	Hyaluronic acid receptor	Clinical trial target	Q9Y5Y7
+TTDI01990	Pattern recognition receptor NOD2	Clinical trial target	Q9HC29
+TTDI01991	Prolyl 4-hydroxylase subunit alpha-1	Clinical trial target	P13674
+TTDI01992	Blood group Rh(D) polypeptide	Clinical trial target	Q02161
+TTDI01993	Kit ligand	Clinical trial target	P21583
+TTDI01994	Bifunctional aminoacyl tRNA synthetase	Clinical trial target	P07814
+TTDI01995	Bacterial penicillin-binding protein 2X (PBP2x)	Successful target	P59676
+TTDI01997	Influenza matrix protein 2	Research target	P06821
+TTDI02008	CaM kinase II	Clinical trial target	Q9UQM7; Q13554; Q13557; Q13555
+TTDI02010	HLA class II antigen DR10	Clinical trial target	Q30167
+TTDI02011	Solute carrier family 3 member 2	Clinical trial target	P08195
+TTDI02012	NADH or NADPH oxidoreductase	Clinical trial target	P22570
+TTDI02013	Aryl hydrocarbon receptor	Research target	P35869
+TTDI02014	Cytosine deaminase	Clinical trial target	Q9GZX7
+TTDI02015	AKT2 protein kinase	Clinical trial target	P31751
+TTDI02016	AKT3 protein kinase	Research target	Q9Y243
+TTDI02017	Plasmodium apical membrane protein	Clinical trial target	P22621
+TTDI02018	C-type natriuretic peptide ligand	Clinical trial target	P23582
+TTDI02019	Annexin A5	Research target	P08758
+TTDI02020	Apolipoprotein A-I	Clinical trial target	P02647
+TTDI02021	Arylsulfatase A	Clinical trial target	P15289
+TTDI02022	Na+ K+ ATPase alpha subunit 3	Clinical trial target	P13637
+TTDI02023	Serine threonine protein kinase ATR	Clinical trial target	Q13535
+TTDI02024	Apoptosis regulator Bcl-X	Research target	Q07817
+TTDI02025	Inhibitor of apoptosis protein 2	Clinical trial target	Q13490
+TTDI02026	Inhibitor of apoptosis protein 1	Clinical trial target	Q13489
+TTDI02027	Bone morphogenetic protein-10 ligand	Clinical trial target	O95393
+TTDI02028	Bactericidal permeability-increasing protein	Clinical trial target	P17213
+TTDI02029	Brachyury protein	Clinical trial target	O15178
+TTDI02030	Bromodomain-containing protein 2	Clinical trial target	P25440
+TTDI02031	Bromodomain-containing protein 3	Clinical trial target	Q15059
+TTDI02032	Bromodomain-containing protein 4	Clinical trial target	O60885
+TTDI02033	Bromodomain testis-specific protein	Clinical trial target	Q58F21
+TTDI02034	Cadherin-3	Research target	P22223
+TTDI02035	Catalase	Clinical trial target	P04040
+TTDI02036	Eotaxin ligand	Research target	P51671
+TTDI02037	RANTES ligand	Clinical trial target	P13501
+TTDI02038	CD34	Discontinued target	P28906
+TTDI02039	CDC7 protein kinase	Clinical trial target	O00311
+TTDI02040	Cytidine deaminase	Clinical trial target	P32320
+TTDI02041	Cyclin-dependent kinase-3	Clinical trial target	Q00526
+TTDI02042	Complement Factor H	Clinical trial target	P08603
+TTDI02043	Mitochondrial 10 kDa heat shock protein	Clinical trial target	P61604
+TTDI02044	Candida albicans chitin synthase 3	Clinical trial target	P30573
+TTDI02045	Claudin 18	Clinical trial target	P56856
+TTDI02046	Cytochrome P450 24	Clinical trial target	Q07973
+TTDI02047	Cholesterol 24-hydroxylase	Clinical trial target	Q9Y6A2
+TTDI02048	Thymic stromal lymphoprotein receptor	Research target	Q9HC73
+TTDI02049	Connective tissue growth factor ligand	Clinical trial target	P29279
+TTDI02050	CD55	Clinical trial target	P08174
+TTDI02051	Retinoic acid-inducible gene-1 (RIG-1)	Clinical trial target	O95786
+TTDI02052	Beta defensin 2	Clinical trial target	O15263
+TTDI02053	Dystrophin	Clinical trial target	P11532
+TTDI02054	Dopamine beta hydroxylase	Clinical trial target	P09172
+TTDI02055	HLA class II antigen DQ-2 alpha	Clinical trial target	P01909
+TTDI02056	E2F transcription factor 1	Clinical trial target	Q01094
+TTDI02057	Cholestenol delta-isomerase	Clinical trial target	Q15125
+TTDI02058	Bacterial elongation factor Tu	Clinical trial target	Q6GBT9
+TTDI02059	EGR-1 transcription factor	Clinical trial target	P18146
+TTDI02060	Tumor-associated hydroquinone oxidase (tNOX)	Clinical trial target	Q16206
+TTDI02061	Epha3 tyrosine kinase receptor	Clinical trial target	P29320
+TTDI02062	Epiregulin (EREG)	Clinical trial target	O14944
+TTDI02063	Enhancer of zeste homolog 2	Clinical trial target	Q15910
+TTDI02064	Major envelope protein p37	Clinical trial target	P33815
+TTDI02065	PFKFB3 kinase	Clinical trial target	Q16875
+TTDI02066	Escherichia coli NADH-dependent enoyl-ACP reductase	Clinical trial target	P0AEK4
+TTDI02067	Staphylococcus aureus Enoyl ACP reductase	Clinical trial target	Q2FZQ3
+TTDI02068	Fc-epsilon-RII (CD23)	Clinical trial target	P06734
+TTDI02069	Free fatty acid receptor 2	Clinical trial target	O15552
+TTDI02070	FGF-18 ligand	Clinical trial target	O76093
+TTDI02071	FGF-21 ligand	Discontinued target	Q9NSA1
+TTDI02072	FGF-23 ligand	Clinical trial target	Q9GZV9
+TTDI02073	Folate receptor gamma	Clinical trial target	P41439
+TTDI02074	Galactoside 3(4)-L-fucosyltransferase	Clinical trial target	P21217
+TTDI02075	Frizzled-7 receptor	Clinical trial target	O75084
+TTDI02076	Gastrin	Clinical trial target	P01350
+TTDI02077	Human cytomegalovirus glycoprotein B	Clinical trial target	P06473
+TTDI02078	Growth differentiation factor-5	Clinical trial target	P43026
+TTDI02079	Gelsolin	Clinical trial target	P06396
+TTDI02080	N-acetylmannosamine kinase	Clinical trial target	Q9Y223
+TTDI02081	Glioma pathogenesis-related protein 1	Clinical trial target	P48060
+TTDI02082	Glutamate decarboxylase	Clinical trial target	P15104
+TTDI02083	CD42b	Clinical trial target	P07359
+TTDI02084	Glypican-3	Clinical trial target	P51654
+TTDI02085	Platelet glycoprotein VI	Clinical trial target	Q9HCN6
+TTDI02086	Mortalin	Clinical trial target	P38646
+TTDI02087	78 kDa glucose-regulated protein	Clinical trial target	P11021
+TTDI02088	Glutathione S-transferase P	Clinical trial target	P09211
+TTDI02089	Histone H1.3	Clinical trial target	P16402
+TTDI02090	Hepcidin	Clinical trial target	P81172
+TTDI02091	CD74	Research target	P04233
+TTDI02092	Staphylococcus aureus alpha hemolysin	Clinical trial target	P09616
+TTDI02093	Interleukin-15 receptor subunit alpha	Clinical trial target	Q13261
+TTDI02094	Isocitrate dehydrogenase [NADP] cytoplasmic	Clinical trial target	O75874
+TTDI02095	Isocitrate dehydrogenase (IDH2)	Clinical trial target	P48735
+TTDI02096	Interferon alpha 5 ligand	Clinical trial target	P01569
+TTDI02097	Interferon omega ligand	Clinical trial target	P05000
+TTDI02099	Interleukin-21 receptor	Clinical trial target	Q9HBE5
+TTDI02100	Interleukin-31 ligand	Clinical trial target	Q6EBC2
+TTDI02101	Interleukin-33	Clinical trial target	O95760
+TTDI02102	Importin beta	Clinical trial target	Q14974
+TTDI02103	Staphylococcus aureus iron-regulated surface determinant protein B	Clinical trial target	Q8NX66
+TTDI02104	Lysine specific histone demethylase 1	Clinical trial target	O60341
+TTDI02105	CD158a	Clinical trial target	P43626
+TTDI02106	CD158b1	Clinical trial target	P43627
+TTDI02107	Killer cell immunoglobulin-like receptor 2DL3	Clinical trial target	P43628
+TTDI02108	Antigen KI-67	Clinical trial target	P46013
+TTDI02109	Kruppel like factor 4	Clinical trial target	O43474
+TTDI02110	Pyruvate kinase M2	Research target	P14618
+TTDI02111	Lecithin-cholesterol acyltransferase	Clinical trial target	P04180
+TTDI02112	Yersinia pestis virulence associated V antigen	Clinical trial target	P0C7U7
+TTDI02113	Leucine-rich repeat neuronal protein 1	Clinical trial target	Q96FE5
+TTDI02114	Epstein-Barr virus Latent membrane protein 2	Clinical trial target	P13285
+TTDI02115	Lysyl oxidase homolog 2	Clinical trial target	Q9Y4K0
+TTDI02116	Lysophosphatidate-3 receptor	Clinical trial target	Q9UBY5
+TTDI02117	Lymphocyte antigen 75	Clinical trial target	O60449
+TTDI02118	Lysozyme	Clinical trial target	P61626
+TTDI02119	MAPKAP kinase 2	Research target	P49137
+TTDI02120	MART-1 melanoma antigen	Clinical trial target	Q16655
+TTDI02121	MARCKS protein	Clinical trial target	P29966
+TTDI02122	Mannose binding protein	Clinical trial target	P11226
+TTDI02123	Melanocortin MC5 receptor	Clinical trial target	P33032
+TTDI02124	Tyrosine-protein kinase MELK	Clinical trial target	Q14680
+TTDI02125	Mycobacterium tuberculosis membrane protein mmpL3	Clinical trial target	P9WJV5
+TTDI02126	CI Man-6-P receptor	Clinical trial target	P11717
+TTDI02127	Mas-related gene 2 (MRGX2)	Clinical trial target	Q96LB1
+TTDI02128	Beta microseminoprotein	Clinical trial target	P08118
+TTDI02129	Plasmodium falciparum merozoite surface protein 1	Clinical trial target	P04933
+TTDI02130	Mucin 15	Clinical trial target	Q8N387
+TTDI02131	Myosin-7	Clinical trial target	P12883
+TTDI02132	Nicotinamide phosphoribosyltransferase	Clinical trial target	P43490
+TTDI02133	Respiratory syncytial virus N protein	Clinical trial target	P03418
+TTDI02134	Notch-2 receptor	Clinical trial target	Q04721
+TTDI02135	Notch-3 receptor	Clinical trial target	Q9UM47
+TTDI02136	NADPH oxidase 4	Clinical trial target	Q9NPH5
+TTDI02137	Nucleophosmin	Clinical trial target	P06748
+TTDI02138	Solute carrier family 34 member 2	Clinical trial target	O95436
+TTDI02139	Neuronal pentraxin-2	Clinical trial target	P47972
+TTDI02140	TrkC receptor	Clinical trial target	Q16288
+TTDI02141	Nucleolin	Clinical trial target	P19338
+TTDI02142	Pseudomonas PcrV protein type III	Clinical trial target	O30527
+TTDI02143	Membrane glycoprotein OX2	Research target	P41217
+TTDI02145	PAK-4 protein kinase	Research target	O96013
+TTDI02146	Programmed cell death ligand 2	Clinical trial target	Q16342
+TTDI02147	Phosphodiesterase (PDE) 3B	Clinical trial target	Q13370
+TTDI02148	Phosphodiesterase (PDE) 9	Clinical trial target	O76083
+TTDI02149	Platelet-derived growth factor D	Clinical trial target	Q9GZP0
+TTDI02150	Opioid receptor sigma 2	Clinical trial target	O00264
+TTDI02151	PIM-3 protein kinase	Clinical trial target	Q86V86
+TTDI02152	Porcupine (PORCN)	Clinical trial target	Q9H237
+TTDI02153	Tumor expressed melanoma antigen	Clinical trial target	P78395
+TTDI02154	Prominin 1	Clinical trial target	O43490
+TTDI02155	Protein tyrosine phosphatase beta	Clinical trial target	P23467
+TTDI02156	Glutaminyl cyclase	Clinical trial target	Q16769
+TTDI02157	HIV REV protein	Clinical trial target	P04618
+TTDI02158	AGS-16	Clinical trial target	O15492
+TTDI02159	Transforming protein RhoA	Clinical trial target	P61586
+TTDI02160	Ribosome-inactivating protein alpha-trichosanthin	Clinical trial target	P09989
+TTDI02161	Ring finger protein	Clinical trial target	Q969K3
+TTDI02162	Rho associated protein kinase 2	Clinical trial target	O75116
+TTDI02163	Roof plate-specific spondin 1	Clinical trial target	Q2MKA7
+TTDI02164	Reticulon 4	Clinical trial target	Q9NQC3
+TTDI02165	S100 calcium-binding protein B	Clinical trial target	P04271
+TTDI02166	S100 calcium binding protein A4	Clinical trial target	P26447
+TTDI02167	Sphingosine 1-phosphate receptor 5	Clinical trial target	Q9H228
+TTDI02168	Zinc transporter ZIP6	Clinical trial target	Q13433
+TTDI02169	Ganglioside GM2 activator	Clinical trial target	P17900
+TTDI02170	Syndecan-1	Clinical trial target	P18827
+TTDI02171	Semaphorin-4D	Clinical trial target	Q92854
+TTDI02172	Sarcoglycan gamma	Clinical trial target	Q13326
+TTDI02173	Sphingosine 1 phosphate lyase 1	Discontinued target	O95470
+TTDI02174	SH2 domain inositol phosphatase	Clinical trial target	Q92835
+TTDI02175	SLIT and NTRK-like family member 6 (SLITRK6)	Clinical trial target	Q9H5Y7
+TTDI02176	Survival motor neuron protein	Clinical trial target	Q16637
+TTDI02177	Mitochondrial manganese superoxide dismutase (MnSOD)	Clinical trial target	P04179
+TTDI02178	Transcription factor Sp1	Clinical trial target	P08047
+TTDI02179	Sphingosine kinase 1	Discontinued target	Q9NYA1
+TTDI02180	N-sulphoglucosamine sulphohydrolase	Clinical trial target	P51688
+TTDI02181	SPTBN1	Clinical trial target	Q01082
+TTDI02182	Sequestosome-1 p62	Clinical trial target	Q13501
+TTDI02183	Facilitates chromatin transcription complex (FACT)	Clinical trial target	Q9Y5B9; Q08945
+TTDI02184	STAT-3	Research target	P40763
+TTDI02185	Fungi/Bacteria isoleucyl t-RNA synthetase	Discontinued target	P09436
+TTDI02186	Alpha-synuclein	Clinical trial target	P37840
+TTDI02187	Valosin-containing protein p97	Clinical trial target	P55072
+TTDI02188	Trefoil factor-1	Clinical trial target	P04155
+TTDI02189	TGF beta-3 ligand	Clinical trial target	P10600
+TTDI02190	TGF-beta type II receptor	Clinical trial target	P37173
+TTDI02191	Toll-like receptor 5	Clinical trial target	O60602
+TTDI02192	Toll-like receptor 6	Clinical trial target	Q9Y2C9
+TTDI02193	TNF related apoptosis inducing ligand	Clinical trial target	P50591
+TTDI02194	OX40 ligand	Clinical trial target	P23510
+TTDI02195	Fast skeletal muscle troponin complex	Clinical trial target	P48788; P45378; P02585
+TTDI02196	TNF superfamily receptor 12A	Clinical trial target	Q9NP84
+TTDI02197	Activation-inducible TNFR family receptor	Clinical trial target	Q9Y5U5
+TTDI02198	Lymphotoxin beta receptor	Clinical trial target	P36941
+TTDI02199	CD95	Clinical trial target	P25445
+TTDI02200	Tumor susceptibility gene protein 101	Clinical trial target	Q99816
+TTDI02201	Thrombospondin-1 ligand	Clinical trial target	P07996
+TTDI02202	Tumor suppressor candidate 2	Clinical trial target	O75896
+TTDI02203	DHICA oxidase	Clinical trial target	P17643
+TTDI02204	Uteroglobin	Clinical trial target	P11684
+TTDI02205	Utrophin	Clinical trial target	P46939
+TTDI02206	Human papillomavirus E6 protein	Clinical trial target	P03126
+TTDI02207	Human papillomavirus E7 protein	Clinical trial target	P06465
+TTDI02208	VIP 2 receptor	Clinical trial target	P41587
+TTDI02209	HIV p17 matrix protein	Clinical trial target	P04591 (2-132)
+TTDI02210	Pituitary adenylate cyclase-activating polypeptide 38	Clinical trial target	P18509 (132-169)
+TTDI02211	Pancreatic hormone ligand	Clinical trial target	P01298 (30-65)
+TTDI02212	HIV p24 capsid protein	Clinical trial target	P03366 (133-363)
+TTDI02213	HIV p7 nucleocapsid protein	Clinical trial target	P03366 (378-432)
+TTDI02214	Hepatitis C virus protein NS4B	Research target	P26664 (1712-1972)
+TTDI02215	Hepatitis C virus E2 glycoprotein	Clinical trial target	P26662 (384-746)
+TTDI02216	Melanoma-associated antigen C1	Clinical trial target	O60732
+TTDI02217	Melanoma-associated antigen C2	Clinical trial target	Q9UBF1
+TTDI02218	Bone morphogenetic protein-9 ligand	Clinical trial target	Q9UK05
+TTDI02219	Beta-nerve growth factor	Discontinued target	P01138
+TTDI02220	Sarcoglycan alpha	Clinical trial target	Q16586
+TTDI02221	Wiskott-Aldrich syndrome protein	Clinical trial target	P42768
+TTDI02222	ATP-binding cassette sub-family A member 4 (ABCA4)	Clinical trial target	P78363
+TTDI02223	Kinetochore protein Nuf2	Clinical trial target	Q9BZD4
+TTDI02224	Quinone oxidoreductase	Clinical trial target	Q08257
+TTDI02226	Hedgehog protein	Research target	Q15465
+TTDI02227	Dibasic-processing enzyme (Furin)	Clinical trial target	P09958
+TTDI02228	Insulin-like growth factor-1 ligand	Research target	P05019
+TTDI02229	Opioid growth factor receptor	Clinical trial target	Q9NZT2
+TTDI02230	Mycobacterium tuberculosis antigen complex 85A	Clinical trial target	P9WQP3
+TTDI02231	Pyruvate dehydrogenase kinase isoform 2 (PDHK2)	Clinical trial target	Q15119
+TTDI02232	S-nitrosoglutathione reductase	Clinical trial target	P16152
+TTDI02233	mRNA of influenza virus Env protein	Clinical trial target	O70902
+TTDI02234	mRNA of Heat shock protein 27	Clinical trial target	Q12988
+TTDI02235	mRNA of VEGF	Discontinued target	P15692
+TTDI02236	mRNA of CCR5	Clinical trial target	P51681
+TTDI02237	mRNA of SYK	Research target	P43405
+TTDI02238	mRNA of glucocorticoid receptor	Clinical trial target	P04150
+TTDI02239	mRNA of PLK1	Research target	P53350
+TTDI02240	mRNA of ANGPTL3	Clinical trial target	Q9Y5C1
+TTDI02241	mRNA of glucagon receptor	Clinical trial target	P47871
+TTDI02242	mRNA of ebola virus VP35	Clinical trial target	Q5XX07
+TTDI02243	mRNA of KIF11	Clinical trial target	P52732
+TTDI02244	mRNA of Growth hormone receptor	Clinical trial target	P10912
+TTDI02245	mRNA of Insulin-like growth factor 1 receptor	Clinical trial target	P08069
+TTDI02246	mRNA of ebola virus VP24	Clinical trial target	Q5XX02
+TTDI02247	mRNA of GRB2	Clinical trial target	P62993
+TTDI02248	mRNA of Transferrin	Clinical trial target	P02787
+TTDI02249	mRNA of EGFR	Clinical trial target	P00533
+TTDI02250	mRNA of Sodium glucose transporter-2	Clinical trial target	P31639
+TTDI02251	mRNA of PCSK9	Clinical trial target	Q8NBP7
+TTDI02252	mRNA of Colony stimulating factor-1 receptor	Clinical trial target	P07333
+TTDI02253	mRNA of CCR3 chemokine	Clinical trial target	P51677
+TTDI02254	mRNA of GM-CSF/IL-3/IL-5 receptor common beta chain	Clinical trial target	P32927
+TTDI02255	mRNA of Caspase-2	Clinical trial target	P42575
+TTDI02256	mRNA of Beta 2 adrenoceptor	Clinical trial target	P07550
+TTDI02257	mRNA of DMPK	Clinical trial target	Q09013
+TTDI02259	mRNA of Ribonucleotide reductase R2 component	Clinical trial target	P31350
+TTDI02260	mRNA of BCL-2	Clinical trial target	P10415
+TTDI02261	mRNA of Plasma kallikrein	Clinical trial target	P03952
+TTDI02262	mRNA of CYP3A4	Clinical trial target	P08684
+TTDI02265	mRNA of C-myc binding protein	Clinical trial target	Q99417
+TTDI02266	mRNA of Apolipoprotein A	Clinical trial target	P08519
+TTDI02267	mRNA of marburg virus nucleoprotein NP	Clinical trial target	P27588
+TTDI02268	mRNA of Myc proto-oncogene protein	Clinical trial target	P01106
+TTDI02269	mRNA of STMN1	Clinical trial target	P16949
+TTDI02270	mRNA of Keratin 6A	Clinical trial target	P02538
+TTDI02271	ALK tyrosine kinase receptor	Clinical trial target	Q9UM73
+TTDI02272	N-acetylgalactosamine 6 sulfatase	Successful target	P34059
+TTDI02273	Lyn tyrosine kinase	Clinical trial target	P07948
+TTDI02274	MEK-2 protein kinase	Clinical trial target	P36507
+TTDI02276	Src tyrosine kinase	Clinical trial target	P12931
+TTDI02277	Fyn tyrosine kinase	Clinical trial target	P06241
+TTDI02278	Lck tyrosine kinase	Clinical trial target	P06239
+TTDI02279	Interleukin-12 subunit p40	Successful target	P29460
+TTDI02280	Proto-oncogene c-Met	Clinical trial target	P08581
+TTDI02281	Jak3 tyrosine kinase	Clinical trial target	P52333
+TTDI02282	VEGF-2 receptor	Successful target	P35968
+TTDI02283	Erbb2 tyrosine kinase receptor	Clinical trial target	P04626
+TTDI02284	Proto-oncogene B-Raf	Clinical trial target	P15056
+TTDI02285	FLT3 tyrosine kinase	Clinical trial target	P36888
+TTDI02286	Iduronate 2-sulfatase	Clinical trial target	P22304
+TTDI02287	Proto-oncogene c-RAF	Clinical trial target	P04049
+TTDI02288	Arylsulfatase B	Successful target	P15848
+TTDI02289	C1 esterase inhibitor	Successful target	P05155
+TTDI02290	Ret tyrosine kinase receptor	Clinical trial target	P07949
+TTDI02291	mRNA of Transthyretin	Clinical trial target	P02766
+TTDI02292	mRNA of Apolipoprotein C3	Clinical trial target	P02656
+TTDI02294	mRNA of Survival motor neuron protein	Research target	Q16637
+TTDI02295	Retinal pigment epithelium protein	Clinical trial target	Q16518
+TTDI02296	Interleukin-29 ligand	Clinical trial target	Q8IU54
+TTDI02297	Phosphoinositide-3 kinase beta	Clinical trial target	P42338
+TTDI02298	mRNA of Nuclear factor kappa B	Clinical trial target	Q00653
+TTDI02299	mRNA of Insulin receptor substrate-1	Clinical trial target	P35568
+TTDI02300	mRNA of Dystrophin	Clinical trial target	P11532
+TTDI02301	Mitochondrial complex I	Clinical trial target	O15239; O43678; O95167; O00483; Q16718; P56556; O95182; P51970; Q16795; O95299; Q86Y39; Q9UI09; Q9P0J0
+TTDI02302	CD6	Clinical trial target	P30203
+TTDI02303	Lysosomal acid lipase	Clinical trial target	P38571
+TTDI02304	Bacterial DNA-directed RNA polymerase beta' chain	Clinical trial target	Q2G0N5
+TTDI02305	SLAM family member 7 (SLAMF7) (CS1)	Clinical trial target	Q9NQ25
+TTDI02306	mRNA of TGF beta-2 ligand	Clinical trial target	P61812
+TTDI02307	Relaxin receptor 1	Clinical trial target	Q9HBX9
+TTDI02308	mRNA of BIRC5	Research target	O15392
+TTDI02309	Hepatitis C virus non-structural protein 5A	Clinical trial target	P26662 (1973-2420)
+TTDI02310	Zonulin	Clinical trial target	P00738
+TTDI02311	mRNA of AKT1	Research target	P31749
+TTDI02312	Leukocyte proteinase-3	Clinical trial target	P24158
+TTDI02313	Proto-oncogene Mas	Clinical trial target	P04201
+TTDI02314	Human cytomegalovirus terminase subunit UL56	Clinical trial target	P16724
+TTDI02315	Cyclin-dependent kinase-4	Clinical trial target	P11802
+TTDI02316	Cyclin-dependent kinase-6	Clinical trial target	Q00534
+TTDI02317	PDGF-B ligand	Clinical trial target	P01127
+TTDI02318	Interleukin-5 ligand	Clinical trial target	P05113
+TTDI02319	Mucin 16	Clinical trial target	Q8WXI7
+TTDI02320	Glutamate decarboxylase 2	Clinical trial target	Q05329
+TTDI02321	Telomerase	Clinical trial target	O14746
+TTDI02322	Aurora kinase B	Research target	Q96GD4
+TTDI02323	Keratinocyte growth factor 2	Clinical trial target	O15520
+TTDI02324	Myelin basic protein	Clinical trial target	P02686
+TTDI02325	mRNA of p53	Research target	P04637
+TTDI02326	Chemokine receptor 3	Clinical trial target	P25106
+TTDI02327	ADAM 10	Clinical trial target	O14672
+TTDI02328	mRNA of Hypoxia inducible factor-1 alpha	Research target	Q16665
+TTDI02329	CMV 65kDa lower matrix phosphoprotein	Clinical trial target	P06725
+TTDI02330	Tissue factor pathway inhibitor	Clinical trial target	P10646
+TTDI02331	Melanocytes lineage-specific antigen GP100	Clinical trial target	P40967
+TTDI02332	Picornavirus capsid protein VP1	Clinical trial target	Q83884
+TTDI02333	X-linked inhibitor of apoptosis protein	Clinical trial target	P98170
+TTDI02334	Superoxide dismutase 1	Clinical trial target	P00441
+TTDI02335	Interleukin-24 ligand	Clinical trial target	Q13007
+TTDI02336	Interleukin-23 receptor	Clinical trial target	Q5VWK5
+TTDI02337	HLA class I antigen B-7	Clinical trial target	P01889
+TTDI02338	Melanoma associated antigen 1	Clinical trial target	P43355
+TTDI02339	MHC class II antigen DR (HLA-DR)	Clinical trial target	P01903; P01911; P79483; P13762; Q30154
+TTDI02341	Interleukin-22 ligand	Clinical trial target	Q9GZX6
+TTDI02342	Gastric inhibitory polypeptide receptor	Clinical trial target	P48546
+TTDI02343	NKG2 D activating NK receptor	Clinical trial target	P26718
+TTDI02344	mRNA of Ribonucleotide reductase R1 component	Clinical trial target	P23921
+TTDI02345	Enterobacteria phage shiga like toxin II B subunit	Clinical trial target	P09386
+TTDI02346	Nucleolin (aptamer)	Clinical trial target	P19338
+TTDI02347	mRNA of CD49d	Clinical trial target	P13612
+TTDI02348	Complement C1q subcomponent	Discontinued target	P02745; P02746
+TTDI02350	Fatty acid binding protein	Discontinued target	P00505
+TTDI02351	Apolipoprotein A-IV	Discontinued target	P06727
+TTDI02352	Cadherin-11	Discontinued target	P55287
+TTDI02353	Cathepsin V	Discontinued target	O60911
+TTDI02354	Complement Factor B	Discontinued target	P00751
+TTDI02355	Complement factor I	Discontinued target	P05156
+TTDI02356	Chitinase	Discontinued target	Q13231
+TTDI02357	Transcriptional repressor CTCFL	Discontinued target	Q8NI51
+TTDI02358	Glycogen synthase kinase-3	Discontinued target	P49840
+TTDI02359	Porphobilinogen deaminase	Discontinued target	P08397
+TTDI02360	Laminin gamma-2 subunit	Discontinued target	Q13753
+TTDI02361	Leukemia inhibitory factor receptor	Discontinued target	P42702
+TTDI02362	Membrane cofactor protein	Discontinued target	P15529
+TTDI02363	Neurotrophin-4 ligand	Discontinued target	P34130
+TTDI02364	D-amino acid oxidase	Discontinued target	P14920
+TTDI02365	Ras-related C3 botulinum toxin substrate 1	Discontinued target	P63000
+TTDI02366	Plasma retinol-binding protein	Discontinued target	P02753
+TTDI02367	Glycine transporter-2	Discontinued target	Q9Y345
+TTDI02368	Alanine glyoxylate aminotransferase	Discontinued target	P21549
+TTDI02369	Translationally controlled tumor protein	Discontinued target	P13693
+TTDI02370	HIV virion infectivity factor	Discontinued target	P69723
+TTDI02371	Zap70 tyrosine kinase	Discontinued target	P43403
+TTDI02372	Apoptosis regulator BAK	Discontinued target	Q16611
+TTDI02373	Transferrin	Discontinued target	P02787
+TTDI02374	Golgi alpha-mannosidase II	Discontinued target	Q16706
+TTDI02375	Complement factor P	Discontinued target	P27918
+TTDI02377	Epha4 tyrosine kinase receptor	Discontinued target	P54764
+TTDI02378	mRNA of protein kinase A Rialpha regulatory subunit	Discontinued target	P10644
+TTDI02379	mRNA of influenza virus neuraminidase	Discontinued target	Q9IGQ6
+TTDI02380	mRNA of TNF alpha ligand	Research target	P01375
+TTDI02381	mRNA of Adenosine A1 receptor	Discontinued target	P30542
+TTDI02382	mRNA of Erbb2 tyrosine kinase receptor	Discontinued target	P04626
+TTDI02383	mRNA of Protein kinase C alpha	Discontinued target	P17252
+TTDI02384	mRNA of Antigen KI-67	Discontinued target	P46013
+TTDI02385	mRNA of Abl	Discontinued target	P00519
+TTDI02386	mRNA of HIV GAG	Discontinued target	P04591
+TTDI02387	mRNA of BORIS	Discontinued target	Q8NI51
+TTDI02388	mRNA of TGF-alpha	Discontinued target	P01135 (40-89)
+TTDI02390	VEGF 165 isoform (aptamer)	Successful target	P15692-4
+TTDI02391	Mycobacterium tuberculosis aminoglycoside 2'-N-acetyltransferase	Research target	P0A5N0
+TTDI02392	Bcl 2 binding component 3	Research target	Q9BXH1
+TTDI02393	Amphiregulin ligand	Research target	P15514
+TTDI02394	CD31	Research target	P16284
+TTDI02395	FGF-14 ligand	Research target	Q92915
+TTDI02396	CD160	Research target	O95971
+TTDI02397	Killer cell immunoglobulin-like receptor 3DL2	Research target	P43630
+TTDI02398	CD58	Research target	P19256
+TTDI02399	Centrosomal protein	Research target	Q9NXG0
+TTDI02400	Anterior gradient protein 2 homolog	Research target	O95994
+TTDI02401	Bone marrow stromal antigen 2	Research target	Q10589
+TTDI02402	TRP cation channel M5	Research target	Q9NZQ8
+TTDI02403	Desmoglein-3	Research target	P32926
+TTDI02404	Gap junction alpha-8 protein	Research target	P48165
+TTDI02405	Myosin-2	Research target	Q9UKX2
+TTDI02406	Tubulin beta-3 chain	Research target	Q13509
+TTDI02407	Dysferlin	Research target	O75923
+TTDI02408	Prostate derived ETS factor	Research target	O95238
+TTDI02409	Orotate phosphoribosyltransferase	Research target	P11172
+TTDI02410	Major prion protein	Research target	P04156
+TTDI02411	Heat shock factor protein 1	Research target	Q00613
+TTDI02412	Thioredoxin reductase 3	Research target	Q86VQ6
+TTDI02413	Runt-related transcription factor 2	Research target	Q13950
+TTDI02414	Runt-related transcription factor 3	Research target	Q13761
+TTDI02415	Tissue transglutaminase	Research target	P21980
+TTDI02416	Secreted frizzled related protein-4	Research target	Q6FHJ7
+TTDI02417	Botulinum toxin B	Research target	P10844
+TTDI02419	E3 ubiquitin protein ligase CBLB	Research target	Q13191
+TTDI02420	Myotubularin	Research target	Q13496
+TTDI02421	Sodium calcium exchanger 1	Research target	P32418
+TTDI02422	Gastric triacylglycerol lipase	Research target	P07098
+TTDI02423	CD47	Research target	Q08722
+TTDI02424	Aspartate beta-hydroxylase	Research target	Q12797
+TTDI02426	ADAM 30	Research target	Q9UKF2
+TTDI02427	Integrin beta-3	Research target	P05106
+TTDI02428	Mucin 5A	Research target	P98088
+TTDI02429	Follistatin	Research target	P19883
+TTDI02430	Peroxiredoxin 4	Research target	Q13162
+TTDI02431	Protein arginine N-methyltransferase 4	Research target	Q86X55
+TTDI02432	Cathelicidin antimicrobial peptide	Research target	P49913
+TTDI02433	HIF prolyl hydroxylase-2	Research target	Q9GZT9
+TTDI02434	Mannose receptor	Research target	P22897
+TTDI02435	Proto-oncogene c-Cbl	Research target	P22681
+TTDI02436	Thyroid peroxidase	Research target	P07202
+TTDI02437	Cyclophilin D	Research target	P30405
+TTDI02438	B-type natriuretic peptide (BNP)	Research target	P16860
+TTDI02440	Rhodopsin	Research target	P08100
+TTDI02441	CD97	Research target	P48960
+TTDI02442	Proteoglycan 4	Research target	Q92954
+TTDI02443	LDL receptor related protein-2	Research target	P98164
+TTDI02444	Low-density lipoprotein receptor	Research target	P01130
+TTDI02445	Activin type-IIB receptor	Research target	Q13705
+TTDI02446	Ribonuclease L	Research target	Q05823
+TTDI02447	MST-1 protein kinase	Research target	Q13043
+TTDI02448	Apolipoprotein H	Research target	P02749
+TTDI02449	IGF binding protein-2	Research target	P18065
+TTDI02450	Integrin alpha-E	Research target	P38570
+TTDI02451	Protein kinase C binding protein NELL1	Research target	Q92832
+TTDI02452	Estrogen related receptor alpha	Research target	P11474
+TTDI02453	Insulin receptor substrate-1	Research target	P35568
+TTDI02454	Phosphodiesterase (PDE) 1B	Research target	Q01064
+TTDI02455	Solute carrier family 12A2	Research target	P55011
+TTDI02456	Ubiquitin thioesterase-7	Research target	Q93009
+TTDI02457	Ubiquitin thioesterase-8	Research target	P40818
+TTDI02458	TRP cation channel V4	Research target	Q9HBA0
+TTDI02459	SCN3A sodium channel subunit	Research target	Q9NY46
+TTDI02460	Potassium channel KCNA1 Kv1.1	Research target	Q09470
+TTDI02461	SCN8A sodium channel subunit	Research target	Q9UQD0
+TTDI02462	Serine protease HTRA1	Research target	Q92743
+TTDI02463	Caspase-8	Research target	Q14790
+TTDI02464	CASP8-FADD-like regulator	Research target	O15519
+TTDI02465	Histone deacetylase-4	Research target	P56524
+TTDI02466	Potassium channel KCNJ18 Kir2.6	Research target	B7U540
+TTDI02467	DNA mismatch repair protein PMS1	Research target	P54277
+TTDI02468	Apolipoprotein B-100	Research target	P04114
+TTDI02469	NADPH oxidase 2	Research target	P04839
+TTDI02470	Butyrophilin like protein 3	Research target	Q6UXE8
+TTDI02471	Activated CDC42 kinase 1	Research target	Q07912
+TTDI02472	Focal adhesion kinase-2	Research target	Q14289
+TTDI02473	Retinol dehydrogenase	Research target	P40394
+TTDI02474	G protein coupled receptor 49	Research target	O75473
+TTDI02475	VIP 1 receptor	Research target	P32241
+TTDI02476	GTPase activating protein	Research target	P20936
+TTDI02477	Bone morphogenetic protein-4 ligand	Research target	P12644
+TTDI02478	Nodal homolog ligand	Research target	Q96S42
+TTDI02479	Collagen VII	Research target	Q02388
+TTDI02480	Roundabout homolog 4	Research target	Q8WZ75
+TTDI02481	Protein kinase D	Research target	Q15139
+TTDI02482	Polo-like kinase 2	Research target	Q9NYY3
+TTDI02483	Hepatocyte growth factor activator	Research target	Q04756
+TTDI02484	Mannan-binding lectin serine protease-2	Research target	O00187
+TTDI02485	Neurotrypsin	Research target	P56730
+TTDI02486	Wnt-1 induced signal pathway protein 1	Research target	O95388
+TTDI02487	Cyclin A2	Research target	P20248
+TTDI02488	Stabilin 1	Research target	Q9NY15
+TTDI02489	Histone acetyltransferase p300	Research target	Q09472
+TTDI02490	TRP cation channel C5	Research target	Q9UL62
+TTDI02491	Potassium channel H-ERG	Research target	Q12809
+TTDI02492	Caspase-2	Research target	P42575
+TTDI02493	Caspase-9	Research target	P55211
+TTDI02494	Neuropilin 2	Research target	O60462
+TTDI02495	Metabotropic glutamate receptor 4	Research target	Q14833
+TTDI02496	Metabotropic glutamate receptor 7	Research target	Q14831
+TTDI02497	NMDA receptor subunit NR1	Research target	Q05586
+TTDI02498	Integrin alpha-11	Research target	Q9UKX5
+TTDI02499	HLA class I antigen A-33 alpha	Research target	P16190
+TTDI02500	Activated leukocyte cell adhesion molecule	Research target	Q13740
+TTDI02501	Integrin-linked kinase	Research target	Q13418
+TTDI02502	TIE 1 tyrosine kinase receptor	Research target	P35590
+TTDI02503	CD132	Research target	P31785
+TTDI02504	Biglycan	Research target	P21810
+TTDI02505	Decorin	Research target	P07585
+TTDI02506	CC-chemokine receptor 7	Research target	P32248
+TTDI02507	CXCR6 chemokine	Research target	O00574
+TTDI02508	CXCR7 chemokine	Research target	P25106
+TTDI02509	G-protein coupled receptor 120	Research target	Q5NUL3
+TTDI02510	N-formyl peptide receptor	Research target	P21462
+TTDI02511	G protein coupled receptor 101	Research target	Q96P66
+TTDI02512	G protein coupled receptor 182	Research target	O15218
+TTDI02513	G-protein coupled receptor-39	Research target	O43194
+TTDI02514	G-protein coupled receptor 85	Research target	P60893
+TTDI02515	G protein coupled receptor 87	Research target	Q9BY21
+TTDI02516	G protein coupled receptor 81	Research target	Q9BXC0
+TTDI02517	Neuropeptide S receptor	Research target	Q6W5P4
+TTDI02518	P2Y1 purinoceptor	Research target	P47900
+TTDI02519	P2Y8 purinoceptor	Research target	Q86VZ1
+TTDI02520	Protease-activated receptor-2	Research target	P55085
+TTDI02521	Prokineticin receptor-1	Research target	Q8TCW9
+TTDI02522	Sphingosine-1-phosphate receptor-2	Research target	O95136
+TTDI02523	Sphingosine-1-phosphate receptor-3	Research target	Q99500
+TTDI02524	ACTH receptor	Research target	Q01718
+TTDI02525	Heat shock protein beta 8	Research target	Q9UJY1
+TTDI02526	GDF-15 ligand	Research target	Q99988
+TTDI02527	Glial cell neurotrophic factor ligand	Research target	P39905
+TTDI02528	ODF receptor	Research target	Q9Y6Q6
+TTDI02529	CD59	Research target	P13987
+TTDI02530	Cyclic nucleotide-gated channel beta-3 (CNGB3)	Research target	Q9NQW8
+TTDI02531	Keratin 19	Research target	P08727
+TTDI02532	Nestin	Research target	P48681
+TTDI02533	Homeobox protein Nkx 3.1	Research target	Q99801
+TTDI02534	CD320 antigen	Research target	Q9NPF0
+TTDI02535	CD209 antigen	Research target	Q9NNX6
+TTDI02536	Early activation antigen CD69	Research target	Q07108
+TTDI02537	C-type lectin domain family 9 member A	Research target	Q6UXN8
+TTDI02538	Cellular retinol binding protein III	Research target	P82980
+TTDI02539	Prostacyclin synthase	Research target	Q16647
+TTDI02540	Cell division cycle 2-like protein kinase 1	Research target	P21127
+TTDI02541	I-kappa B kinase epsilon	Research target	Q14164
+TTDI02542	MAPKAPK5	Research target	Q8IW41
+TTDI02543	Jun N terminal kinase-3	Research target	P53779
+TTDI02544	Interleukin-1 receptor-associated kinase 4 (IRAK4)	Research target	Q9NWZ3
+TTDI02545	Mycobacterium tuberculosis serine/threonine-protein kinase PknB	Research target	P9WI81
+TTDI02546	I-kappa B kinase alpha	Research target	O15111
+TTDI02547	GTPase HRas	Research target	P01112
+TTDI02548	TAR DNA binding protein 43	Research target	Q13148
+TTDI02549	Serpin I2	Research target	O75830
+TTDI02550	Granzyme B	Research target	P10144
+TTDI02551	Kallikrein 2	Research target	P20151
+TTDI02552	Kallikrein 1	Research target	P06870
+TTDI02553	Polycomb complex protein BMI-1	Research target	P35226
+TTDI02554	Placenta specific protein 1	Research target	Q9HBJ0
+TTDI02555	Estradiol 17 beta dehydrogenase 1	Research target	P14061
+TTDI02556	Protein Wnt-5a ligand	Research target	P41221
+TTDI02557	Protein Wnt-7a ligand	Research target	O00755
+TTDI02558	Vasoactive intestinal polypeptide	Research target	P01282
+TTDI02559	Kynurenine oxoglutarate transaminase II	Research target	Q8N5Z0
+TTDI02560	Peptide YY ligand	Research target	P10082
+TTDI02561	Ubiquitin-protein ligase E2	Research target	Q96LR5
+TTDI02562	Carbonic anhydrase IV	Research target	P22748
+TTDI02563	Histidine ammonia lyase	Research target	P42357
+TTDI02564	Tumor necrosis factor 14 ligand	Research target	O43557
+TTDI02565	Vascular endothelial cell growth inhibitor	Research target	O95150
+TTDI02566	14-3-3 protein eta	Research target	Q04917
+TTDI02567	Forkhead box protein O1 (FOXO1)	Research target	Q12778
+TTDI02568	L-dopachrome tautomerase	Research target	P40126
+TTDI02569	Ornithine decarboxylase	Research target	P11926
+TTDI02570	Ketohexokinase	Research target	P50053
+TTDI02571	Solute carrier family 12A5	Research target	Q9H2X9
+TTDI02572	Leukocyte antigen MIC3	Research target	P21926
+TTDI02573	Galectin-1	Research target	P09382
+TTDI02574	Galectin-2	Research target	P05162
+TTDI02575	Geranyltranstransferase	Research target	O95749
+TTDI02576	Microtubule associated protein 4	Research target	P27816
+TTDI02577	Ubiquitin thioesterase-2	Research target	O75604
+TTDI02578	Protein phosphatase 1D	Research target	O15297
+TTDI02579	TRP cation channel M2	Research target	O94759
+TTDI02580	TRP cation channel A1	Research target	O75762
+TTDI02581	Hemoglobin scavenger receptor	Research target	Q86VB7
+TTDI02582	T-cell surface glycoprotein CD5	Research target	P06127
+TTDI02583	RalA binding protein 1	Research target	Q15311
+TTDI02584	Muscleblind like protein 1	Research target	Q5VZF2
+TTDI02585	Sulfonylurea receptor-1	Research target	Q09428
+TTDI02586	Insulin degrading enzyme	Research target	P14735
+TTDI02587	dUTP pyrophosphatase	Research target	P33316
+TTDI02588	Retinoschisin	Research target	O15537
+TTDI02589	Claudin 4	Research target	O14493
+TTDI02590	Histone deacetylase-8	Research target	Q9BY41
+TTDI02591	Amiloride sensitive cation channel 1	Research target	Q16515
+TTDI02592	Amiloride sensitive cation channel 3	Research target	Q9UHC3
+TTDI02593	Potassium channel KCNJ3 Kir3.1	Research target	P48549
+TTDI02594	Potassium channel KCNJ5 Kir3.4	Research target	P48544
+TTDI02595	5'-methylthioadenosine phosphorylase	Research target	Q13126
+TTDI02596	Clusterin	Research target	P10909
+TTDI02597	Lipophilin B	Research target	O95969
+TTDI02598	DNA mismatch repair protein Mlh1	Research target	P40692
+TTDI02599	Leukotriene C4 synthase	Research target	Q16873
+TTDI02600	Heme oxygenase 1	Research target	P09601
+TTDI02601	Prohibitin	Research target	P35232
+TTDI02602	Caveolin 1	Research target	Q03135
+TTDI02603	Lysyl oxidase	Research target	P28300
+TTDI02604	CD107	Research target	P11279
+TTDI02605	Kynurenine 3-hydroxylase	Research target	O15229
+TTDI02606	Zinc transporter 8	Research target	Q8IWU4
+TTDI02607	Divalent metal transporter 1	Research target	P49281
+TTDI02608	Sphingosine-1-phosphate phosphatase 1	Research target	Q9BX95
+TTDI02609	Interleukin-1 receptor accessory protein	Research target	Q9NPH3
+TTDI02610	Interleukin-18 receptor	Research target	O95256
+TTDI02611	Polyamine oxidase	Research target	Q6QHF9
+TTDI02612	Legumain	Research target	Q99538
+TTDI02613	Von Hippel-Lindau disease tumor suppressor (VHL)	Research target	P40337
+TTDI02614	Galactocerebrosidase	Research target	P54803
+TTDI02615	Sirtuin-2 (SIRT2)	Research target	Q8IXJ6
+TTDI02616	Cyclin-dependent kinase inhibitor 1B	Research target	P46527
+TTDI02617	Niemann-Pick C1-like protein-1	Research target	Q9UHC9
+TTDI02618	Periostin	Research target	Q15063
+TTDI02619	Sentrin specific protease-1	Research target	Q9P0U3
+TTDI02620	Somatostatin ligand	Research target	P61278
+TTDI02621	Ghrelin O acyltransferase	Research target	Q96T53
+TTDI02622	Cyclin dependent kinase 5 activator 1	Research target	Q15078
+TTDI02623	mRNA cap guanine N7 methyltransferase	Research target	O43148
+TTDI02624	Fructosamine 3-kinase	Research target	Q9H479
+TTDI02625	IKK complex associated protein	Research target	O95163
+TTDI02626	MCSF ligand	Research target	P09603
+TTDI02627	N-acetylgalactosaminyltransferase 2	Research target	Q8IZ52
+TTDI02628	Interleukin-27 ligand	Research target	Q8TAD2
+TTDI02629	Tyrosyl DNA phosphodiesterase 1	Research target	Q9NUW8
+TTDI02630	Fascin	Research target	Q16658
+TTDI02631	Torsin 1A	Research target	O14656
+TTDI02632	Cardiotrophin-like cytokine factor 1	Research target	Q9UBD9
+TTDI02633	Protein O-GlcNAcase	Research target	O60502
+TTDI02634	CD83	Research target	Q01151
+TTDI02635	Junctional adhesion molecule A	Research target	Q9Y624
+TTDI02636	Myelin oligodendrocyte glycoprotein	Research target	Q16653
+TTDI02637	SLAM family member 6	Research target	Q96DU3
+TTDI02638	Immune costimulatory protein B7H4	Research target	Q7Z7D3
+TTDI02639	TGF-beta activated kinase-1	Research target	O43318
+TTDI02640	FGF4 receptor	Research target	P22455
+TTDI02641	Protein BTG1	Research target	P62324
+TTDI02642	B melanoma antigen 1	Research target	Q13072
+TTDI02643	Protein ARMET	Research target	P55145
+TTDI02644	Angiomotin	Research target	Q4VCS5
+TTDI02645	Huntingtin	Research target	P42858
+TTDI02646	Monoglyceride lipase	Research target	Q99685
+TTDI02647	Alpha N acetylglucosaminidase	Research target	P54802
+TTDI02648	Signal transducer CD24	Research target	P25063
+TTDI02649	Interleukin-28B ligand	Research target	Q8IZI9
+TTDI02650	Kidney associated antigen 1	Research target	Q9UBP8
+TTDI02651	mRNA of HRas	Research target	P01112
+TTDI02652	mRNA of GLI2	Research target	P10070
+TTDI02653	mRNA of HNRNPA2B1	Research target	P22626
+TTDI02654	mRNA of ID1	Research target	P41134
+TTDI02655	mRNA of ISG15	Research target	P05161
+TTDI02656	mRNA of COPS5	Research target	Q92905
+TTDI02657	mRNA of HD	Research target	P42858
+TTDI02658	mRNA of CD74	Research target	P04233
+TTDI02659	mRNA of MMP2	Research target	P08253
+TTDI02660	mRNA of MMP9	Research target	P14780
+TTDI02661	mRNA of COP1	Research target	Q8NHY2
+TTDI02662	mRNA of SOD1	Research target	P00441
+TTDI02663	mRNA of SNCA	Research target	P37840
+TTDI02664	mRNA of TRPV1	Research target	Q8NER1
+TTDI02666	mRNA of WEE1	Research target	P30291
+TTDI02667	mRNA of Hepcidin	Research target	P81172
+TTDI02675	mRNA of IGFBP2	Research target	P18065
+TTDI02676	mRNA of IGFBP5	Research target	P24593
+TTDI02677	mRNA of Coagulation factor XII	Research target	P00748
+TTDI02678	mRNA of TGF beta-1 ligand	Research target	P01137
+TTDI02680	mRNA of MTHFR	Research target	P42898
+TTDI02681	mRNA of CD40LG	Research target	P29965
+TTDI02682	mRNA of SCN1A	Research target	P35498
+TTDI02683	mRNA of NPR1	Research target	P16066
+TTDI02684	mRNA of KRAS	Research target	P01116
+TTDI02685	mRNA of ERBB3	Research target	P21860
+TTDI02686	mRNA of IL4R	Research target	P24394
+TTDNC00348	MEKK-1 kinase	Clinical trial target	Q13233
+TTDNC00350	endosialin	Clinical trial target	Q9HCU0
+TTDNC00351	Tumor Endothelial Marker 1 (TEM-1)	Clinical trial target	Q9HCU0
+TTDNC00370	DKK1 protein	Clinical trial target	O94907
+TTDNC00371	IL-21	Clinical trial target	Q9HBE4
+TTDNC00372	VLA-1	Clinical trial target	P56199
+TTDNC00373	IFN-alphaR	Clinical trial target	P17181
+TTDNC00376	A-7 nicotinic	Clinical trial target	P36544
+TTDNC00380	BET protein	Clinical trial target	O15155
+TTDNC00381	Alpha-4 beta-2 nicotinic   receptor	Clinical trial target	P43681
+TTDNC00385	VEGF-C	Clinical trial target	P49767
+TTDNC00387	CBP	Clinical trial target	Q92793
+TTDNC00388	PI3K alpha	Clinical trial target	P42336
+TTDNC00389	T-type calcium channel	Clinical trial target	O95180
+TTDNC00392	TORC1	Clinical trial target	Q6UUV9
+TTDNC00393	TORC2	Clinical trial target	Q53ET0
+TTDNC00395	NADH oxidase	Clinical trial target	Q9Y5S8
+TTDNC00397	Delta-like 4	Clinical trial target	Q9NR61
+TTDNC00398	B7-H3	Clinical trial target	Q5ZPR3
+TTDNC00400	PIK-1	Clinical trial target	P39104
+TTDNC00406	CD137 antigen	Clinical trial target	Q07011
+TTDNC00407	Stathim	Clinical trial target	P16949
+TTDNC00408	MTF-1	Clinical trial target	Q14872
+TTDNC00410	Fms-like tyrosine kinase 3	Clinical trial target	P36888
+TTDNC00411	E2F1	Clinical trial target	Q01094
+TTDNC00412	TYK2	Clinical trial target	P29597
+TTDNC00413	KIR	Clinical trial target	P55040
+TTDNC00414	LAG3	Clinical trial target	P18627
+TTDNC00415	Notch	Clinical trial target	P46531
+TTDNC00418	RON	Clinical trial target	Q04912
+TTDNC00419	Angioprotein	Clinical trial target	Q15389
+TTDNC00420	HB-EGF	Clinical trial target	Q99075
+TTDNC00421	OX40	Clinical trial target	P43489
+TTDNC00422	Toposisomerase-1	Clinical trial target	P11387
+TTDNC00424	CD38	Clinical trial target	P28907
+TTDNC00425	CK2	Clinical trial target	P68400
+TTDNC00426	a5ï¼? integrin	Clinical trial target	P08648
+TTDNC00427	TRPM8 protein	Clinical trial target	Q7Z2W7
+TTDNC00433	PI3K beta	Clinical trial target	O00750
+TTDNC00437	CIF	Clinical trial target	Q6P1X5
+TTDNC00439	DR5	Clinical trial target	P20039
+TTDNC00441	SGLT1	Clinical trial target	P13866
+TTDNC00442	Ileal bile acid transfer	Clinical trial target	Q12908
+TTDNC00443	Human pro-islet peptide	Clinical trial target	Q06141
+TTDNC00444	Lysophosphatidic acid transferase	Clinical trial target	Q99943
+TTDNC00446	HPTP	Clinical trial target	Q12913
+TTDNC00447	TIE2	Clinical trial target	Q02763
+TTDNC00448	Cathepsin A	Clinical trial target	P10619
+TTDNC00454	Serotonin-1A	Clinical trial target	P08908
+TTDNC00456	Phosphodiesterase 10A (PDE10A)	Clinical trial target	Q9Y233
+TTDNC00460	Thymic stromal lymphopoietin	Clinical trial target	Q969D9
+TTDNC00461	Sclerostin	Clinical trial target	Q9BQB4
+TTDNC00462	Receptor for Calcitonin Gene-Related Peptide (CGRP)	Clinical trial target	Q16602
+TTDNC00463	B7RP1	Clinical trial target	O75144
+TTDNC00464	CD32b	Clinical trial target	P31994
+TTDNC00468	Programmed cell deathâ€? ligand 1 (PD-L1)	Clinical trial target	Q9NZQ7
+TTDNC00474	C5a	Clinical trial target	P01031
+TTDNC00475	TSLP	Clinical trial target	Q969D9
+TTDNC00477	Mesothelin-ADC	Clinical trial target	Q13421
+TTDNC00483	NY-ESO-1	Clinical trial target	P78358
+TTDNC00484	CD27	Clinical trial target	P26842
+TTDNC00485	GPR119	Clinical trial target	Q8TDV5
+TTDNC00486	TAFIa	Clinical trial target	Q96IY4
+TTDNC00489	PD-1	Clinical trial target	Q15116
+TTDNC00490	Proto oncogene protein-c mdm2	Clinical trial target	Q15303
+TTDNC00492	DOT1L	Clinical trial target	Q8TEK3
+TTDNC00497	DKK2 protein	Clinical trial target	Q9UBU2
+TTDNC00498	Proto-oncogene pim-1	Clinical trial target	P11309
+TTDNC00499	STEAP1	Clinical trial target	Q9UHE8
+TTDNC00502	Tumour necrosis factor receptor-1 (TNFR1)	Clinical trial target	P19438
+TTDNC00504	CD3	Clinical trial target	P09693
+TTDNC00506	Sodium dependent glucose transport (SGLT1)	Clinical trial target	P13866
+TTDNC00511	Phoshodiesterase 4	Clinical trial target	P27815
+TTDNC00512	Lp-PLA2	Clinical trial target	Q13093
+TTDNC00515	Glucocortoid	Successful target	P04150
+TTDNC00518	C5aR	Clinical trial target	P21730
+TTDNC00520	NKG2A	Clinical trial target	P26715
+TTDNC00521	Colony stimulating factor-1 receptor (CSF-1R)	Clinical trial target	E9PEK4
+TTDNC00522	TWEAK	Clinical trial target	Q4ACW9
+TTDNC00525	Non-camptothecin topo1	Clinical trial target	P11387
+TTDNC00527	CXCRS	Clinical trial target	P25024
+TTDNC00529	MTORC2	Clinical trial target	Q9BPZ7
+TTDNC00531	PDE1	Clinical trial target	O18696
+TTDNC00532	Ferroportin	Clinical trial target	Q9NP59
+TTDNC00539	FGF-3 receptor	Clinical trial target	P22607
+TTDNC00540	CD37	Clinical trial target	P11049
+TTDNC00542	HDAC6	Clinical trial target	Q9UBN7
+TTDNC00543	ENG protein	Clinical trial target	Q96CG0
+TTDNC00549	Ras	Clinical trial target	Q7KZ06
+TTDNC00553	PKC-Delta	Clinical trial target	Q05655
+TTDNC00567	PSCA	Clinical trial target	O43653
+TTDNC00569	PMSA	Clinical trial target	Q04609
+TTDNC00572	Aldosterone synthase	Clinical trial target	P19099
+TTDNC00574	CCR2b	Clinical trial target	P41597
+TTDNC00576	insulin	Clinical trial target	P01308
+TTDNC00577	CD26 antigen	Clinical trial target	P27487
+TTDNC00578	SLGT1	Clinical trial target	P13866
+TTDNC00579	SLGT2	Clinical trial target	P31639
+TTDNC00581	MTP	Clinical trial target	P55157
+TTDNC00584	Recombinant human interleukin-7	Clinical trial target	P13232
+TTDNC00585	IL-17 receptor	Clinical trial target	Q96F46
+TTDNC00586	Cardiac myosin	Clinical trial target	Q14896
+TTDNC00589	A4b7	Clinical trial target	P13612
+TTDNC00593	GPNMB	Clinical trial target	Q96F58
+TTDNC00597	DNMT1	Clinical trial target	P26358
+TTDNC00599	Epidermal growth factor domain-like-7 (EGFL7)	Clinical trial target	Q9UHF1
+TTDNC00602	Recombinant human angiotensin converting enzyme 2	Clinical trial target	Q9BYF1
+TTDNC00604	Death receptor 4	Clinical trial target	O00220
+TTDNC00605	Neurite outgrowth inhibitor (NOGO-A)	Clinical trial target	Q3LIF4
+TTDNC00608	CCR1 chemokine receptor	Clinical trial target	P32246
+TTDNC00613	MEK2	Successful target	P36507
+TTDNC00616	ApoCIII	Clinical trial target	P02656
+TTDNC00618	SMN2	Clinical trial target	I2E4T0
+TTDNC00621	FGFR4	Clinical trial target	P22455
+TTDNC00625	Activin receptor type II	Clinical trial target	P27037
+TTDNC00628	Bacterial elongation factor Tu (EFTu)	Clinical trial target	P0CE47
+TTDNC00630	Trk kinase	Clinical trial target	P04629
+TTDNC00633	Sirtuin	Clinical trial target	Q8IXJ6
+TTDNC00634	CD79b	Clinical trial target	P40259
+TTDNC00645	Neurotrophic factor production	Clinical trial target	P23560
+TTDNC00648	Mitotic kinesin Eg5	Clinical trial target	P52732
+TTDNC00650	APRIL	Clinical trial target	O75888
+TTDNC00651	D-prostanoid receptor	Clinical trial target	Q13258
+TTDNC00653	GPR40	Clinical trial target	O14842
+TTDNC00658	Peripherally-acting muopioid receptor	Clinical trial target	P35372
+TTDNC00667	CCR9 chemokine receptor	Clinical trial target	P51686
+TTDNC00670	TTR	Clinical trial target	P02766
+TTDNC00671	Clusterin	Clinical trial target	P10909
+TTDNC00676	CD21	Clinical trial target	P20023
+TTDNC00677	Glucosylceramide synthetase	Clinical trial target	Q16739
+TTDNR00633	[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 3, mitochondrial	Research target	Q15120
+TTDNR00634	Acidic mammalian chitinase	Research target	Q9BZP6
+TTDNR00635	ADM2	Research target	Q7Z4H4
+TTDNR00636	ADP-ribosylation factor 1	Research target	P84077
+TTDNR00637	Afadin- and alpha-actinin-binding protein	Research target	Q9Y2D8
+TTDNR00639	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase	Research target	P63531
+TTDNR00640	Alpha-crystallin A chain	Research target	P02489
+TTDNR00641	AN1-type zinc finger protein 5	Research target	O76080
+TTDNR00642	Angiopoietin-related protein 3	Research target	Q9Y5C1
+TTDNR00643	Angiotensinogen	Clinical trial target	P01019
+TTDNR00644	Annexin A2	Research target	P07355
+TTDNR00645	ATP-dependent Clp protease proteolytic subunit	Research target	Q5GS83
+TTDNR00648	Basigin	Clinical trial target	P35613
+TTDNR00649	BDNF/NT-3 growth factors receptor	Clinical trial target	Q16620
+TTDNR00650	Beta-klotho	Research target	Q86Z14
+TTDNR00651	Cancer/Testis Antigen MAGE-C1/CT7	Research target	O60732
+TTDNR00652	Cardiotrophin-1	Clinical trial target	Q16619
+TTDNR00653	C-C chemokine receptor type 7	Research target	P32248
+TTDNR00654	C-C motif chemokine 21	Research target	O00585
+TTDNR00656	CMP-N-acetylneuraminate-poly-alpha-2,8-sialyltransferase	Research target	Q92187
+TTDNR00657	CMRF35-like molecule 8	Research target	Q9UGN4
+TTDNR00660	Cytosolic phospholipase A2 gamma	Research target	Q9UP65
+TTDNR00661	Discoidin domain-containing receptor 2	Research target	Q16832
+TTDNR00662	Dual specificity protein phosphatase 10	Research target	Q9Y6W6
+TTDNR00663	E3 ubiquitin-protein ligase Itchy homolog	Research target	Q96J02
+TTDNR00664	Endoplasmic reticulum-resident calcium binding protein	Research target	Q8IIR7
+TTDNR00665	Endoribonuclease YbeY	Research target	P0A898
+TTDNR00666	Enhancer of filamentation 1	Research target	Q14511
+TTDNR00667	Enteropeptidase	Research target	P98073
+TTDNR00668	Epidermal growth factor-like protein 6	Research target	Q8IUX8
+TTDNR00669	Eukaryotic translation initiation factor 4E-binding protein 1	Research target	Q13541
+TTDNR00670	Excitatory amino acid transporter 2	Research target	P43004
+TTDNR00671	Exportin-1	Clinical trial target	O14980
+TTDNR00672	Exportin-2	Research target	P55060
+TTDNR00674	Fatty acid desaturase 2	Research target	O95864
+TTDNR00675	Fatty-acid amide hydrolase 2	Research target	Q6GMR7
+TTDNR00677	Forkhead box protein C1	Research target	Q12948
+TTDNR00679	Ghrelin O-acyltransferase	Research target	Q96T53
+TTDNR00680	Glucose-6-phosphate isomerase	Research target	P06744
+TTDNR00681	glycine receptor chloride channel	Research target	P23415; P23416; O75311; Q5JXX5; P48167
+TTDNR00682	G-protein coupled estrogen receptor 1	Research target	Q99527
+TTDNR00683	G-protein coupled receptor 55	Research target	Q9Y2T6
+TTDNR00684	HCLS1-associated protein X-1	Research target	O00165
+TTDNR00685	Heat shock protein 27 	Clinical trial target	Q12988
+TTDNR00686	Hepatitis A virus cellular receptor 2	Research target	Q8TDQ0
+TTDNR00688	High mobility group protein HMG-I/HMG-Y	Research target	P17096
+TTDNR00690	Indole-3-glycerol phosphate synthase	Research target	P20577
+TTDNR00692	Integrin alpha-8	Research target	P53708
+TTDNR00693	Integrin beta-8	Research target	P26012
+TTDNR00694	Interferon-induced, double-stranded RNA-activated protein kinase	Research target	P19525
+TTDNR00695	Interleukin-16	Research target	Q14005
+TTDNR00696	Interleukin-19	Research target	Q9UHD0
+TTDNR00697	Isocitrate lyase	Research target	P0A5H3
+TTDNR00698	Junctional adhesion molecule A	Research target	Q9Y624
+TTDNR00699	Keratin, type I cytoskeletal 17	Research target	Q04695
+TTDNR00701	Lon protease homolog, mitochondrial	Research target	P36776
+TTDNR00702	Low-density lipoprotein receptor-related protein 6	Clinical trial target	O75581
+TTDNR00703	Lysine-specific demethylase 5A	Research target	P29375
+TTDNR00706	Mitogen-activated protein kinase kinase kinase 7	Research target	O43318
+TTDNR00707	Mitogen-activated protein kinase kinase kinase kinase 1	Research target	Q92918
+TTDNR00709	Netrin-1	Clinical trial target	O95631
+TTDNR00710	Neuritin	Research target	Q9NPD7
+TTDNR00711	Neutrophil gelatinase-associated lipocalin	Research target	P80188
+TTDNR00712	Nischarin	Research target	Q9Y2I1
+TTDNR00714	Nuclear factor erythroid 2-related factor 2	Clinical trial target	Q16236
+TTDNR00715	Nuclear receptor subfamily 4 group A member 1	Research target	P22736
+TTDNR00716	Nucleus accumbens-associated protein 1	Research target	Q96RE7
+TTDNR00717	Oncostatin-M-specific receptor subunit beta	Research target	Q99650
+TTDNR00718	P antigen family member 5	Research target	Q96GU1
+TTDNR00721	Pendrin	Research target	O43511
+TTDNR00722	Peptidyl-prolyl cis-trans isomerase FKBP5	Research target	Q13451
+TTDNR00723	Phosphoglucosamine mutase	Research target	A5U8B7
+TTDNR00724	Phosphopantetheinyl transferase	Research target	O33336
+TTDNR00725	PIN2/TERF1-interacting telomerase inhibitor 1	Research target	Q96BK5
+TTDNR00726	Platelet glycoprotein 4	Discontinued target	P16671
+TTDNR00727	Plexin domain-containing protein 1	Research target	Q8IUK5
+TTDNR00728	Polycomb complex protein BMI-1	Research target	P35226
+TTDNR00730	Pre-glycoprotein polyprotein GP complex	Research target	P03540
+TTDNR00731	Protein CYR61	Research target	O00622
+TTDNR00732	Protein delta homolog 1	Research target	P80370
+TTDNR00733	Protein FAM83B	Research target	Q5T0W9
+TTDNR00734	Protein LYRIC	Research target	Q86UE4
+TTDNR00735	Protein P16	Research target	P27392
+TTDNR00736	Protein-cysteine N-palmitoyltransferase HHAT	Research target	Q5VTY9
+TTDNR00737	Putative pyrroline carboxylate reductase	Research target	Q9A1S9
+TTDNR00739	RalA-binding protein 1	Research target	Q15311
+TTDNR00740	Ras-related protein Rab-7a	Research target	P51149
+TTDNR00741	Recombining binding protein suppressor of hairless	Research target	Q06330
+TTDNR00742	Regulator of G-protein signaling 2	Research target	P41220
+TTDNR00743	Regulator of G-protein signaling 6	Research target	P49758
+TTDNR00744	Replicase polyprotein 1ab	Research target	P0C6X7
+TTDNR00746	Serine/threonine-protein kinase pim-2	Clinical trial target	Q9P1W9
+TTDNR00748	Short transient receptor potential channel 1	Research target	P48995
+TTDNR00749	Signal peptidase I	Research target	Q10789
+TTDNR00750	Signal transducer and activator of transcription 6	Research target	P42226
+TTDNR00753	Stabilin-2	Research target	Q8WWQ8
+TTDNR00754	Stanniocalcin-2	Research target	O76061
+TTDNR00756	Structural maintenance of chromosomes protein 2	Research target	O95347
+TTDNR00757	Syndecan-2	Research target	P34741
+TTDNR00758	Testican-1	Research target	Q08629
+TTDNR00759	Thioredoxin glutathione reductase	Research target	B5THG7
+TTDNR00760	Thymosin beta-4	Research target	P62328
+TTDNR00761	T-lymphocyte surface antigen Ly-9	Research target	Q9HBG7
+TTDNR00762	Transcription factor SOX-2	Research target	P48431
+TTDNR00763	Tumor suppressor p53-binding protein 1	Research target	Q12888
+TTDNR00764	Tyrosine-protein kinase receptor UFO	Research target	P30530
+TTDNR00765	Tyrosyl-DNA phosphodiesterase 2	Research target	O95551
+TTDNR00766	V-type proton ATPase 116 kDa subunit a isoform 3	Research target	Q13488
+TTDNR00767	WNT1-inducible-signaling pathway protein 1	Research target	O95388
+TTDNS00536	smoothened receptor	Successful target	Q99835
+TTDNS00537	prostaglandin F prostanoid receptor 	Successful target	P43088
+TTDNS00541	PIGF	Successful target	Q07326
+TTDNS00542	VEGFA	Successful target	P15692
+TTDNS00544	Glucagon-like peptide 2 receptor	Successful target	O95838
+TTDNS00564	upregulating cAMP	Successful target	P49913
+TTDNS00582	 muscarinic receptor	Successful target	P11229
+TTDNS00592	Abl	Successful target	P00519
+TTDNS00593	RET	Successful target	P07949
+TTDNS00597	ROS1	Successful target	P08922
+TTDNS00605	cystic fibrosis transmembrane conductance regulator	Successful target	P13569
+TTDNS00606	 calcium activated channel anoctamin 1	Successful target	Q5XXA6
+TTDNS00611	JAK1	Clinical trial target	P23458
+TTDNS00615	PDE5	Successful target	O76074
+TTDR00006	Follicle stimulating hormone	Clinical trial target	P01215; P01225
+TTDR00007	Multidrug resistance protein 1	Clinical trial target	P08183
+TTDR00008	Glucose-6-phosphate dehydrogenase	Clinical trial target	P11413
+TTDR00010	Diamine oxidase	Clinical trial target	P19801
+TTDR00011	FMLP receptor	Clinical trial target	P21462
+TTDR00012	Interleukin 3 receptor	Clinical trial target	P26951
+TTDR00015	Prolyl endopeptidase	Clinical trial target	P48147
+TTDR00018	3-beta-hydroxysterol delta-24-reductase	Research target	Q15392
+TTDR00019	Alcohol dehydrogenase 2	Research target	Q24803
+TTDR00020	Multidrug resistance-associated protein 2	Clinical trial target	Q92887
+TTDR00021	Glycerol-3-phosphate oxidase	Research target	Q99YI8
+TTDR00022	3-Deoxy-D-manno-octulosonate 8-phosphate synthase 	Research target	P0A715
+TTDR00023	DTDP-4-dehydrorhamnose 3,5-epimerase rmlC	Research target	O06330
+TTDR00024	Probable naphthoate synthase menB	Research target	O06414
+TTDR00025	Cdc2-related kinase 3	Research target	O15851
+TTDR00026	Ribonucleoside-diphosphate reductase small chain	Research target	O15910
+TTDR00027	Possible RNA methyltransferase	Research target	P13079
+TTDR00028	Cell division control protein 28	Research target	P00546
+TTDR00029	Matrilysin	Clinical trial target	P09237
+TTDR00030	Glycosyltransferase MurG	Research target	P17443
+TTDR00032	Ciliary neurotrophic factor	Clinical trial target	P26441
+TTDR00033	Aldo-keto reductase family 1 member C3	Clinical trial target	P42330
+TTDR00035	Sodium/hydrogen exchanger 3	Clinical trial target	P48764
+TTDR00036	Ras-related protein Rab-9A	Clinical trial target	P51151
+TTDR00037	Scytalone dehydratase	Research target	P56221
+TTDR00038	Manganese ABC transporter substrate-binding lipoprotein	Research target	P72538
+TTDR00039	Sensor-like histidine kinase senX3	Research target	Q11155
+TTDR00040	Forkhead box protein O1A	Research target	Q12778
+TTDR00042	Beta-hydroxyacyl-acp dehydratase	Research target	Q8I6T4
+TTDR00043	Class 1 lysyl-tRNA synthetase	Research target	Q937U6
+TTDR00044	GDP-mannose pyrophosphorylase	Research target	Q9BLW4
+TTDR00045	Interleukin-1 receptor-associated kinase-4	Research target	Q9NWZ3
+TTDR00046	RING-box protein 2	Research target	Q9UBF6
+TTDR00047	Papain-like cysteine protease	Research target	Q9WJB2
+TTDR00048	Voltage-dependent T-type calcium channel alpha-1I subunit	Clinical trial target	Q9Z0Y8
+TTDR00053	HCV polyprotein	Research target	P26664
+TTDR00056	Pre-mRNA splicing factor PRP8	Research target	P33334
+TTDR00064	HCMV DNA polymerase	Research target	P08546
+TTDR00066	DnaB-like helicase	Research target	Q6GKS9
+TTDR00068	DNA helicase/primase complex associated protein	Research target	P10192
+TTDR00071	Potassium voltage-gated channel subfamily B member 1	Research target	Q14721
+TTDR00074	Choline transporter	Research target	Q8I5S7
+TTDR00075	Apicoplast ribosome	Research target	Q6LFD5
+TTDR00076	DNA gyrase	Research target	Q8I0X3
+TTDR00077	Cytochrome c oxidoreductase	Research target	Q02766
+TTDR00081	P2Y purinoceptor 1	Research target	P47900
+TTDR00082	Mitochondrial brown fat uncoupling protein 1	Clinical trial target	P25874
+TTDR00083	Mitochondrial uncoupling protein 2	Clinical trial target	P55851
+TTDR00084	Mitochondrial uncoupling protein 3	Clinical trial target	P55916
+TTDR00085	Dual specificity protein phosphatase 1	Discontinued target	P28562
+TTDR00086	Interleukin-4	Discontinued target	P05112
+TTDR00088	Interleukin-5	Research target	P05113
+TTDR00089	D-amino acid aminotransferase	Research target	P54694
+TTDR00094	Transketolase	Research target	P29401
+TTDR00096	Agouti-related protein	Clinical trial target	O00253
+TTDR00099	Proto-oncogene protein c-fos	Research target	P01100
+TTDR00101	Orotate phosphoribosyltransferase	Research target	Q8N0R1
+TTDR00102	Hepatitis C Virus Serine Protease NS3/4A	Research target	P26664 (1027-1657)
+TTDR00103	Nonstructural protein NS3	Clinical trial target	P26664 (1027-1657)
+TTDR00104	Cystathionine beta-lyase	Research target	P06721
+TTDR00106	Plasmepsin 2	Clinical trial target	P46925
+TTDR00107	Plasmepsin 1	Research target	P39898
+TTDR00108	Pleiotrophin	Research target	P21246
+TTDR00109	Proteinase activated receptor 2	Research target	P55085
+TTDR00110	Proteinase activated receptor 3	Research target	O00254
+TTDR00111	Proteinase activated receptor 4	Research target	Q96RI0
+TTDR00113	Adenylosuccinate synthetase	Research target	Q9U8D3
+TTDR00115	GTP cyclohydrolase I	Discontinued target	O97071; P30793
+TTDR00116	M-phase inducer phosphatase 2	Discontinued target	P30305
+TTDR00117	Mitogen-activated protein kinase kinase kinase 1	Discontinued target	Q13233
+TTDR00118	Bombesin receptor subtype-3	Clinical trial target	P32247
+TTDR00119	Orexin	Clinical trial target	O43612
+TTDR00133	L-lactate dehydrogenase	Research target	P13774; Q27797
+TTDR00135	Endothelin-converting enzyme 1	Research target	P42892
+TTDR00136	Endothelin-converting enzyme 2	Research target	O60344
+TTDR00137	Threonine deaminase	Research target	P04968
+TTDR00138	Interleukin-10	Clinical trial target	P22301
+TTDR00141	Interleukin-2	Clinical trial target	P60568
+TTDR00146	Mitogen-activated protein kinase kinase kinase 4	Research target	Q9Y6R4
+TTDR00147	Dual specificity mitogen-activated protein kinase kinase 7	Research target	O14733
+TTDR00148	Dual specificity mitogen-activated protein kinase kinase 1	Successful target	Q02750
+TTDR00149	Dual specificity mitogen-activated protein kinase kinase 5	Research target	Q13163
+TTDR00151	Coagulation factor X	Clinical trial target	P00742
+TTDR00152	G2/mitotic-specific cyclin B1	Research target	P14635
+TTDR00154	Lactase-phlorizin hydrolase	Research target	P09848
+TTDR00157	5-hydroxytryptamine 7 receptor	Clinical trial target	P34969
+TTDR00158	Alanine racemase, biosynthetic	Research target	P94967
+TTDR00159	Isoleucyl-tRNA synthetase, cytoplasmic (human)	Research target	P41252
+TTDR00161	Platelet activating factor	Clinical trial target	Q8DZJ7
+TTDR00164	Neuronal acetylcholine receptor protein, beta-4 chain	Clinical trial target	P30926
+TTDR00165	D-alanine--D-alanine ligase	Research target	P9WP30
+TTDR00166	Glutamate-1-semialdehyde aminomutase	Research target	P23893
+TTDR00167	Dihydroorotase	Research target	A9CSR1
+TTDR00170	Putative tryptase delta	Research target	Q9BZJ3
+TTDR00171	CAD protein	Research target	P27708
+TTDR00172	Cholinephosphate cytidylyltransferase	Clinical trial target	P49585; Q9Y5K3
+TTDR00173	Adenylate cyclase, type II	Research target	Q08462
+TTDR00175	Integrin beta-3	Research target	P05106
+TTDR00178	DNA gyrase A subunit	Clinical trial target	P43700
+TTDR00181	Transforming growth factor alpha	Clinical trial target	P01135 (40-89)
+TTDR00182	T-cell receptor beta chain V region CTL-L17	Research target	P04435
+TTDR00183	Gamma-aminobutyric acid gated chloride channel	Research target	Q9XZW0
+TTDR00184	Galanin receptor type 1	Research target	P47211
+TTDR00185	N-myc proto-oncogene protein	Research target	P04198
+TTDR00192	Tumor necrosis factor receptor superfamily member 8	Clinical trial target	P28908
+TTDR00193	Tumor necrosis factor receptor superfamily member 11B	Research target	O00300
+TTDR00196	Synaptosomal-associated protein 25	Research target	P13795
+TTDR00197	Chymase	Clinical trial target	P23946
+TTDR00198	C-ets-1 protein	Research target	P14921
+TTDR00199	Voltage-dependent P/Q-type calcium channel alpha-1A subunit	Discontinued target	O00555
+TTDR00200	Voltage-dependent R-type calcium channel alpha-1E subunit	Discontinued target	Q15878
+TTDR00201	Gamma-aminobutyric acid transporter 4	Research target	P31650
+TTDR00202	M-phase inducer phosphatase 1	Clinical trial target	P30304
+TTDR00205	Interleukin-8	Discontinued target	P10145
+TTDR00207	Neuronal kinesin heavy chain	Research target	Q12840
+TTDR00208	M-phase inducer phosphatase 3	Discontinued target	P30307
+TTDR00209	Carbonic anhydrase IV	Clinical trial target	P22748
+TTDR00210	Carbonic anhydrase VI	Clinical trial target	P23280
+TTDR00211	Carbonic anhydrase IX	Clinical trial target	Q16790
+TTDR00212	Carbonic anhydrase XII	Clinical trial target	O43570
+TTDR00213	Carbonic anhydrase XIV	Clinical trial target	Q9ULX7
+TTDR00214	Sodium/potassium-transporting ATPase alpha-2 chain	Research target	P50993
+TTDR00217	mRNA of VLA-4	Clinical trial target	P13612; P05556
+TTDR00218	O-acetylserine sulfhydrylase	Research target	O23733
+TTDR00219	Hypoxanthine-guanine phosphoribosyltransferase	Research target	P00492; P20035
+TTDR00221	Rhodopsin	Clinical trial target	P08100
+TTDR00222	Aspartate aminotransferase, cytoplasmic	Research target	P17174
+TTDR00223	Omega-amino acid:pyruvate aminotransferase	Research target	P28269
+TTDR00224	Proliferating cell nuclear antigen; Cyclin-A2	Discontinued target	P12004; P20248
+TTDR00225	Low-density lipoprotein receptor	Research target	P01130
+TTDR00226	Serine hydroxymethyltransferase, mitochondrial	Research target	P34897; Q8I566
+TTDR00228	DNA gyrase B subunit	Research target	P0AES6
+TTDR00229	Geranylgeranyltransferase I	Research target	P18898
+TTDR00230	Elastase 1	Clinical trial target	Q9UNI1
+TTDR00231	Orotidine 5'-monophosphate decarboxylase	Research target	P11172
+TTDR00232	Leukotriene C4 synthase	Research target	Q16873
+TTDR00233	Tyrosine-protein kinase BTK	Clinical trial target	Q06187
+TTDR00234	Arachidonate 15-lipoxygenase	Discontinued target	P16050
+TTDR00236	Rhinovirus coat protein; Genome polyprotein	Research target	P23008
+TTDR00237	PN3 Na+ channel	Research target	Q62968
+TTDR00238	Leptin receptor	Discontinued target	P48357
+TTDR00239	Arachidonate 12-lipoxygenase, 12S-type	Clinical trial target	P18054
+TTDR00240	Angiogenin	Clinical trial target	P03950
+TTDR00242	Cytochrome P450 1B1	Research target	Q16678
+TTDR00247	5-methyltetrahydrofolate--homocysteine methyltransferase	Research target	Q99707
+TTDR00249	Ornithine aminotransferase, mitochondrial	Research target	P04181
+TTDR00250	Nuclear factor NF-kappa-B	Clinical trial target	P19838; Q00653; Q04206
+TTDR00251	Thymidine phosphorylase	Clinical trial target	P19971
+TTDR00252	Insulin-like growth factor II	Research target	P01344
+TTDR00254	Aspartate carbamoyltransferase	Research target	Q59711
+TTDR00255	Inhibitor of nuclear factor kappa-B kinase alpha subunit	Research target	O15111
+TTDR00256	CGMP-dependent 3',5'-cyclic phosphodiesterase	Clinical trial target	O00408
+TTDR00257	Casein kinase II, alpha chain	Clinical trial target	P19138
+TTDR00260	Protein kinase A	Research target	Q56921
+TTDR00261	Corticotropin-lipotropin	Research target	P01189
+TTDR00262	Arginine vasopressin	Clinical trial target	P01185
+TTDR00264	HIV envelope protein gp120	Clinical trial target	O40473
+TTDR00265	Superoxide dismutase [Cu-Zn]	Clinical trial target	P00441
+TTDR00266	Vanilloid receptor 1	Research target	Q8NER1
+TTDR00267	Peptide deformylase	Clinical trial target	P68826
+TTDR00268	Hepatocyte nuclear factor 1-alpha	Research target	P20823
+TTDR00269	Hepatocyte nuclear factor 4-alpha	Research target	P41235
+TTDR00270	Steroid hormone receptor ERR1	Clinical trial target	P11474
+TTDR00271	Orphan nuclear receptor DAX-1	Research target	P51843
+TTDR00273	3-phosphoinositide dependent protein kinase-1	Clinical trial target	O15530
+TTDR00274	Liver carboxylesterase	Clinical trial target	P23141
+TTDR00275	Acetyl-CoA carboxylase 1	Research target	Q13085; Q9U752
+TTDR00276	Integrin alpha-2	Clinical trial target	P17301
+TTDR00277	Alpha v beta 3 integrin receptor	Clinical trial target	P06756; P05106
+TTDR00278	P2X purinoceptor 3	Clinical trial target	P56373
+TTDR00280	Beta-adrenergic receptor kinase 1	Discontinued target	P25098
+TTDR00283	Monocyte differentiation antigen CD14	Clinical trial target	P08571
+TTDR00284	Tumor necrosis factor ligand superfamily member 5	Clinical trial target	P29965
+TTDR00285	Large subunit Cp complex Cdc68p	Research target	Q9HF08
+TTDR00287	C-X-C chemokine receptor type 5	Research target	P32302
+TTDR00288	ATP-binding cassette, sub-family A, member 1	Clinical trial target	O95477
+TTDR00291	Beta-ketoacyl-ACP synthase I	Research target	P14926
+TTDR00292	3-oxoacyl-[acyl-carrier-protein] synthase II	Discontinued target	P0AAI5
+TTDR00293	Gap junction alpha-1 protein	Clinical trial target	P17302
+TTDR00296	Cell division protein kinase 5	Research target	Q00535
+TTDR00298	Cell division protein kinase 8	Research target	P49336
+TTDR00299	Cyclin-dependent protein kinase PfPK5	Research target	Q07785
+TTDR00300	Cyclin-dependent protein kinase PfPK6	Research target	Q8IDW1
+TTDR00301	Cyclin-dependent protein kinase Pfmrk	Research target	P90584
+TTDR00303	Enoyl-[acyl-carrier-protein] reductase [NADH] 1	Research target	P58380
+TTDR00304	Enoyl-[acyl-carrier-protein] reductase [NADH] 2	Research target	P58381
+TTDR00306	FemA factor	Research target	P14304
+TTDR00307	FemB factor	Research target	P14305
+TTDR00308	FemX factor	Research target	Q6GEH2
+TTDR00309	Fatty acid-binding protein, epidermal	Research target	Q01469
+TTDR00310	Immunoglobulin alpha Fc receptor	Discontinued target	P24071
+TTDR00311	Fc gamma receptor I	Research target	P12314
+TTDR00313	Heparin binding protein	Research target	Q14512
+TTDR00315	Foot-and-mouth disease virus capsid protein VP1	Research target	Q65037
+TTDR00316	Foot-and-mouth disease virus capsid protein VP2	Research target	Q65035
+TTDR00317	Foot-and-mouth disease virus capsid protein VP3	Research target	Q65036
+TTDR00319	Glycoprotein VI	Research target	Q9HCN5
+TTDR00320	Glutathione peroxidase	Research target	P07203
+TTDR00321	Metabotropic glutamate receptor 2	Clinical trial target	Q14416
+TTDR00322	Granulocyte-macrophage colony-stimulating factor	Clinical trial target	P04141
+TTDR00323	HCV helicase	Research target	P26664
+TTDR00326	Herpes simplex virus helicase-primase	Clinical trial target	Q00040
+TTDR00327	Histidine kinase AlgR1	Research target	Q9WWI2
+TTDR00328	Histidine kinase AlgR2	Research target	P15275
+TTDR00329	Histidine kinase KinA	Research target	O07382
+TTDR00330	HIV-1 gp160	Research target	P03378
+TTDR00331	Holo-ACP synthase	Research target	P24224
+TTDR00333	Insulin-like growth factor binding protein 1	Research target	P08833
+TTDR00334	Mitogen-activated protein kinase 9	Research target	P45984
+TTDR00335	Rhombotin-2	Research target	P25791
+TTDR00336	Phospholipid transfer protein	Research target	P55058
+TTDR00337	Mitogen-activated protein kinase kinase kinase 2	Discontinued target	Q9Y2U5
+TTDR00338	Matrix metalloproteinase	Research target	Q8NG02
+TTDR00339	Mitogen-activated protein kinase kinase kinase 9	Clinical trial target	P80192
+TTDR00340	Mitogen-activated protein kinase kinase kinase 10	Research target	Q02779
+TTDR00341	Mitogen-activated protein kinase kinase kinase 11	Research target	Q80XI6
+TTDR00347	Sodium/hydrogen exchanger 1	Clinical trial target	P19634
+TTDR00348	Nicotinate-nucleotide adenylyltransferase	Research target	P52085
+TTDR00349	Reticulon 4 receptor	Research target	Q9BZR6
+TTDR00350	Transient receptor potential channel 6, subfamily V	Clinical trial target	Q9H1D0
+TTDR00352	Mitogen-activated protein kinase 11	Clinical trial target	Q15759
+TTDR00354	Pantothenate kinase	Research target	P15044
+TTDR00355	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1	Research target	Q13526
+TTDR00356	Phosphoinositide 3 kinase	Clinical trial target	P42336; P42338; O00329; P48736
+TTDR00357	Phosphoenolpyruvate transferase	Research target	P08839
+TTDR00359	Elongation factor 1-alpha 1	Clinical trial target	Q00080
+TTDR00360	5-enopyruvyl shikimate 3-phosphate synthase	Research target	Q9YEK9
+TTDR00361	Beta-ketoacyl-ACP synthase III	Discontinued target	P0A6R0
+TTDR00363	Serine/threonine protein phosphatase 2A, 56 kDa regulatory subunit, alpha isoform	Research target	Q15172
+TTDR00369	Urokinase plasminogen activator surface receptor	Research target	Q03405
+TTDR00372	Mitogen-activated protein kinase 1	Clinical trial target	P28482
+TTDR00373	Mitogen-activated protein kinase 3	Clinical trial target	P27361
+TTDR00374	Phospholipase D1	Research target	Q13393
+TTDR00375	Melanocortin-3 receptor	Clinical trial target	P41968
+TTDR00377	Cholecystokinin	Research target	P06307
+TTDR00381	Hydroxymethylglutaryl-CoA synthase, mitochondrial	Research target	P54868
+TTDR00384	Scavenger receptor class B member 1	Research target	Q8WTV0
+TTDR00385	Filamin A	Research target	P21333
+TTDR00386	Corticotropin-releasing factor binding protein	Research target	P24387
+TTDR00387	Corticoliberin	Research target	P06850
+TTDR00388	Nuclear receptor coactivator 4	Research target	Q13772
+TTDR00389	Glycoprotein hormones alpha chain	Research target	P01215
+TTDR00390	Supervillin	Research target	Q9H1R7
+TTDR00391	Nuclear receptor binding SET domain containing protein 1	Research target	Q96L73
+TTDR00392	Prostate stem cell antigen	Clinical trial target	O43653
+TTDR00393	3-alpha-hydroxysteroid dehydrogenase	Research target	P23457
+TTDR00394	High-affinity cationic amino acid transporter-1	Research target	P30825
+TTDR00395	Thrombomodulin	Discontinued target	P07204
+TTDR00396	Tissue factor	Clinical trial target	P13726
+TTDR00397	G1/S-specific cyclin D1	Clinical trial target	P24385
+TTDR00399	Trehalose-phosphatase	Research target	P31678
+TTDR00401	Macrophage mannose receptor	Research target	P22897
+TTDR00402	Outer capsid glycoprotein VP7	Research target	Q8B6C3
+TTDR00404	Midkine	Clinical trial target	P21741
+TTDR00405	B1 bradykinin receptor	Clinical trial target	P46663
+TTDR00406	Kininogen	Research target	P01042
+TTDR00407	Kinin B1 receptor	Discontinued target	P97583
+TTDR00411	Apolipoprotein E	Clinical trial target	P02649
+TTDR00412	Endothelin-1	Research target	P05305
+TTDR00413	Diphosphomevalonate decarboxylase	Research target	P53602
+TTDR00414	S-adenosylmethionine decarboxylase proenzyme	Clinical trial target	P17707
+TTDR00415	Lactosylceramide alpha-2,3-sialyltransferase	Research target	Q9UNP4
+TTDR00417	Leucine-rich repeat-containing G protein-coupled receptor 5	Research target	O75473
+TTDR00418	Prolactin	Clinical trial target	P01236
+TTDR00419	CCAAT/enhancer binding protein beta	Research target	P17676
+TTDR00420	Oxysterols receptor LXR-alpha	Research target	Q13133
+TTDR00421	Oxysterols receptor LXR-beta	Research target	P55055
+TTDR00422	Leukemia inhibitory factor	Research target	P15018
+TTDR00423	Eosinophil peroxidase	Research target	P11678
+TTDR00427	Interferon regulatory factor 1	Research target	P10914
+TTDR00430	Leukocyte surface antigen CD47	Clinical trial target	Q08722
+TTDR00432	Gastric inhibitory polypeptide	Clinical trial target	P09681
+TTDR00433	Caspase-8	Research target	Q14790
+TTDR00434	Interleukin-1 beta convertase	Clinical trial target	P29466
+TTDR00438	Serum amyloid A-activating factor 1	Research target	O97600
+TTDR00440	Apopain	Clinical trial target	P42574
+TTDR00441	Apolipoprotein A-II	Research target	P02652
+TTDR00442	Glycosylphosphatidylinositol-anchored aspartyl protease	Research target	P53379
+TTDR00443	Cytosolic phospholipase A2	Discontinued target	P47712
+TTDR00444	Presenilin 1	Research target	P49768
+TTDR00445	Presenilin 2	Research target	P49810
+TTDR00446	Serum amyloid P-component	Clinical trial target	P02743
+TTDR00447	Cathepsin D	Clinical trial target	P07339
+TTDR00448	Ribonuclease H	Research target	Q07762
+TTDR00449	Insulin-like growth factor binding protein 3	Research target	P17936
+TTDR00450	Six-transmembrane epithelial antigen of the prostate 2	Research target	Q8NFT2
+TTDR00451	C-C motif chemokine 2	Clinical trial target	P13500
+TTDR00452	Triggering receptor expressed on myeloid cells 1	Research target	Q9JKE2
+TTDR00453	Vascular cell adhesion protein 1	Research target	P19320
+TTDR00455	Caspase-11	Research target	P70343
+TTDR00456	Virion infectivity factor	Research target	P03402
+TTDR00457	Kallikrein 7	Research target	P49862
+TTDR00458	Oncostatin M	Research target	P13725
+TTDR00459	mRNA of Telomerase reverse transcriptase	Research target	O14746
+TTDR00460	Oligophrenin 1	Research target	O60890
+TTDR00461	Neuropsin	Research target	O60259
+TTDR00462	Tumor necrosis factor ligand superfamily member 6	Research target	P48023
+TTDR00464	Paired box protein Pax-5	Research target	Q02548
+TTDR00465	Guanine nucleotide-binding protein G(I)/G(S)/G(O) gamma-7 subunit	Research target	O60262
+TTDR00466	CAMP-specific 3',5'-cyclic phosphodiesterase 4B	Clinical trial target	Q07343
+TTDR00468	Leptin	Research target	P41159
+TTDR00469	Insulin receptor substrate-1	Research target	P35568
+TTDR00470	Proto-oncogene C-crk	Clinical trial target	P46108
+TTDR00471	Fetuin	Research target	P02765
+TTDR00473	Integrin alpha-V	Clinical trial target	P06756
+TTDR00474	Glucose-6-phosphatase	Research target	P35575
+TTDR00475	Cyclin-dependent kinase inhibitor 1C	Research target	P49918
+TTDR00476	Fatty acid-binding protein, adipocyte	Research target	P15090
+TTDR00477	Ectonucleotide pyrophosphatase/phosphodiesterase 1	Research target	P22413
+TTDR00478	Neurotrophin-3	Discontinued target	P20783
+TTDR00480	T-box transcription factor TBX21	Research target	Q9UL17
+TTDR00482	IgG receptor FcRN large subunit P51	Research target	P55899
+TTDR00484	Osteopontin	Discontinued target	P10451
+TTDR00485	Integrin-linked protein kinase 1	Research target	Q13418
+TTDR00486	Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase PTEN	Research target	O00633
+TTDR00487	Plasminogen activator	Discontinued target	P17811
+TTDR00488	Transcription factor GATA-4	Research target	P43694
+TTDR00489	Nuclear receptor coactivator 3	Research target	Q9Y6Q9
+TTDR00491	DNA replication licensing factor MCM6	Research target	Q14566
+TTDR00492	DNA replication licensing factor MCM7	Research target	P33993
+TTDR00493	Suppressor of cytokine signaling 1	Research target	O15524
+TTDR00494	Hexamethylene bisacetamide-inducible protein 1	Research target	O94992
+TTDR00495	Calcium-dependent chloride channel-1	Discontinued target	O95151
+TTDR00497	ETS-domain transcription factor ERF	Research target	P50548
+TTDR00498	Small inducible cytokine B10	Clinical trial target	P02778
+TTDR00499	Zinc finger protein A20	Research target	P21580
+TTDR00500	Thymidine kinase	Clinical trial target	Q9QNF7
+TTDR00503	Prostate specific antigen	Clinical trial target	P07288
+TTDR00504	Osteonectin	Research target	P09486
+TTDR00505	Calpain	Clinical trial target	P07384; P17655
+TTDR00506	Phosphatidylethanolamine N-methyltransferase	Research target	Q9UBM1
+TTDR00507	Cytochrome B-245 heavy chain	Research target	P04839
+TTDR00508	Lymphotoxin-beta	Research target	Q06643
+TTDR00509	Transforming protein p21	Research target	P01117
+TTDR00510	Serine protease hepsin	Research target	P05981
+TTDR00511	Transforming growth factor beta 1	Clinical trial target	P01137
+TTDR00512	Protein-lysine 6-oxidase	Research target	P28300
+TTDR00513	Sarcoplasmic/endoplasmic reticulum calcium ATPase 2	Research target	P16615
+TTDR00514	Stathmin	Research target	P16949
+TTDR00515	Latent membrane protein 2A	Research target	Q69133
+TTDR00517	Cyclic-AMP-dependent transcription factor ATF-3	Research target	P18847
+TTDR00518	High mobility group protein 1	Research target	P09429
+TTDR00519	Interleukin-11	Clinical trial target	P20809
+TTDR00524	Fractalkine	Research target	P78423
+TTDR00525	CD44 antigen	Clinical trial target	P16070
+TTDR00526	Cystathionine beta-synthase	Research target	P35520
+TTDR00527	Caveolin-1	Research target	Q03135
+TTDR00529	Adenosine kinase	Clinical trial target	P55263
+TTDR00530	Melanocyte stimulating hormone receptor	Clinical trial target	Q01726
+TTDR00531	Glutamyl aminopeptidase	Clinical trial target	Q07075
+TTDR00532	CAMP response element binding protein	Research target	P16220
+TTDR00533	Intestinal GlcNAc-6-sulfotransferase	Research target	Q9GZS9
+TTDR00534	C-X-C chemokine receptor type 6	Research target	O00574
+TTDR00535	Intrinsic factor-B12 receptor	Research target	O60494
+TTDR00537	Ectonucleoside triphosphate diphosphohydrolase 1	Research target	P49961
+TTDR00538	Epidermal growth factor receptor III	Research target	Q9WVF5
+TTDR00539	Folylpolyglutamate synthase, mitochondrial	Research target	Q05932; Q9U738
+TTDR00540	FMLP-related receptor I	Research target	P25090
+TTDR00541	HCV nucleoside triphosphatase	Research target	Q57679
+TTDR00542	Interleukin-13 receptor	Clinical trial target	P78552; Q14627
+TTDR00544	Potassium voltage-gated channel subfamily KQT member 2	Clinical trial target	O43526
+TTDR00545	Leukotriene B4 receptor 2	Clinical trial target	Q9NPC1
+TTDR00546	Low-density lipoprotein receptor-related protein 2	Research target	P98164
+TTDR00553	Nerve growth factor	Clinical trial target	P30894
+TTDR00554	Orphan nuclear receptor NURR1	Discontinued target	P43354
+TTDR00555	Acid phosphatase surE	Research target	P36664
+TTDR00556	Plasminogen activator inhibitor-1	Clinical trial target	P05121
+TTDR00557	Protein kinase C, zeta type	Research target	Q05513
+TTDR00558	RNA endonuclease	Research target	P25736
+TTDR00559	Sortase	Research target	Q99RA7
+TTDR00560	Trypsin-like serine protease	Research target	Q8D7G2
+TTDR00561	UDP-glucuronosyltransferase	Research target	Q91280
+TTDR00562	Urotensin II receptor	Clinical trial target	Q9UKP6
+TTDR00563	Vacuolar-type (H+)-ATPase	Clinical trial target	O96703
+TTDR00564	5-hydroxytryptamine 1E receptor	Research target	P28566
+TTDR00565	5-hydroxytryptamine 5A receptor	Clinical trial target	P47898
+TTDR00567	Heparin-binding growth factor 2	Clinical trial target	P09038
+TTDR00568	Phosphatidylinositol 3-kinase	Clinical trial target	P42339
+TTDR00570	Ketol-acid reductoisomerase	Research target	P05793
+TTDR00571	Dipeptidyl-peptidase I	Clinical trial target	P53634
+TTDR00572	Gamma-glutamyl hydrolase	Research target	Q92820
+TTDR00574	Urotensin II	Research target	O95399
+TTDR00575	Nucleolin	Research target	P19338
+TTDR00577	Vang-like protein 1	Research target	Q8TAA9
+TTDR00580	Lysophosphatidic acid receptor Edg-2	Clinical trial target	Q92633
+TTDR00582	Endocytic receptor Endo180	Research target	Q9Y5P9
+TTDR00583	Ghrelin	Clinical trial target	Q9UBU3
+TTDR00584	Small inducible cytokine A22	Research target	O00626
+TTDR00585	Trypanothione reductase	Research target	P39051
+TTDR00586	Insulin-like growth factor binding protein 6	Research target	P24592
+TTDR00587	Estradiol 17 beta-dehydrogenase 1	Clinical trial target	P14061
+TTDR00588	Tubulin associated unit Tau	Research target	Q8IWY7
+TTDR00589	Ganciclovir kinase	Clinical trial target	P16788
+TTDR00590	Human cytomegalovirus protease	Discontinued target	P16753
+TTDR00591	MTA/SAH nucleosidase	Discontinued target	P0AF12
+TTDR00592	Glycylpeptide N-tetradecanoyltransferase	Research target	P30418
+TTDR00593	Nuclear receptor ROR-alpha	Research target	P35398
+TTDR00594	Immunogenic protein MPT63/MPB63	Research target	P97175
+TTDR00595	Kgp protease	Research target	P96966
+TTDR00596	Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial	Research target	P06968
+TTDR00597	N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase	Research target	Q9Y2B2
+TTDR00598	Hexose transporter 1	Research target	O97467
+TTDR00599	Histidine-rich protein II	Research target	P90582
+TTDR00600	Delta-aminolevulinic acid synthetase	Research target	Q27733
+TTDR00601	S-adenosyl-L-methionine:C-24 sterol methyl transferase	Research target	Q96WX4
+TTDR00602	Haemophilus influenzae NadR protein	Research target	P44308
+TTDR00604	Cyclin-dependent kinase 4 inhibitor A	Research target	P42771
+TTDR00605	Protein HP59	Research target	Q9NRA2
+TTDR00606	Cysteine protease falcipain-2	Research target	Q8I6U5
+TTDR00607	Falcipain-3	Research target	Q8IIL0
+TTDR00608	Alpha-endosulfine	Research target	O43768
+TTDR00609	RNA triphosphatase	Research target	O13297
+TTDR00610	Methionine gamma-lyase	Research target	P13254
+TTDR00611	Leukocyte common antigen	Clinical trial target	P08575
+TTDR00612	Melanin-concentrating hormone receptor 2	Research target	Q969V1
+TTDR00613	Mycobacterium tuberculosis 30 kDa major secretory protein	Research target	P31952
+TTDR00614	Elongation factor 3	Research target	O93796
+TTDR00615	Glutamate--cysteine ligase regulatory subunit	Research target	P48507; Q9UB86
+TTDR00617	Xanthine phosphoribosyltransferase	Research target	P20035
+TTDR00618	Hypoxanthine-guanine-xanthine phosphoribosyltransferase	Clinical trial target	P07833
+TTDR00619	Isocitrate lyase	Research target	P9WKK7
+TTDR00620	Voltage-dependent L-type calcium channel alpha-1D subunit	Clinical trial target	Q01668
+TTDR00622	CDP-diacylglycerol--inositol 3-phosphatidyltransferase	Research target	P9WPG1
+TTDR00623	Glycerol-3-phosphate dehydrogenase [NAD+], cytoplasmic	Research target	P21695
+TTDR00624	Methylated-DNA--protein-cysteine methyltransferase	Clinical trial target	P16455
+TTDR00625	Homoserine dehydrogenase	Research target	P19582
+TTDR00626	Large neutral amino acids transporter small subunit 1	Research target	Q01650
+TTDR00627	Cardiac phospholamban	Research target	P26678
+TTDR00628	MNN9 protein	Research target	P53697
+TTDR00629	CX3C chemokine receptor 1	Research target	P49238
+TTDR00630	Prostaglandin E synthase	Clinical trial target	O14684
+TTDR00631	Metal-transporter protein PsaA	Research target	P42363
+TTDR00633	Nicotinate-nucleotide pyrophosphorylase [carboxylating]	Research target	P9WJJ7
+TTDR00634	Fatty acid-binding protein, liver	Clinical trial target	P07148; O45035
+TTDR00635	Pyrophosphate-dependent phosphofructokinase	Research target	Q41140
+TTDR00636	Laccase	Research target	Q12570
+TTDR00637	Triosephosphate isomerase (bacterial)	Research target	Q07412
+TTDR00638	DNA polymerase processivity factor	Research target	P10226
+TTDR00640	Fructose-bisphosphate aldolase	Research target	P14223
+TTDR00641	SH2 containing inositol-5-phosphatase	Research target	O00145
+TTDR00642	Endoglin	Research target	P17813
+TTDR00644	Suppressor of tumorigenicity 14	Research target	Q9Y5Y6
+TTDR00646	Beta 1, 2-Xylosyltransferase	Research target	Q9LDH0
+TTDR00650	Alpha 4 beta 7 integrin receptor	Clinical trial target	P13612; P26010
+TTDR00651	Integrin alpha-6	Research target	P23229
+TTDR00653	Monocarboxylate transporter 1	Research target	P53985
+TTDR00654	Protein phosphatase 2C delta isoform	Research target	O15297
+TTDR00655	Pyridoxal phosphate biosynthetic protein pdxJ	Research target	P24223
+TTDR00656	Myelin-oligodendrocyte glycoprotein	Research target	Q16653
+TTDR00657	3-oxoacyl-[acyl-carrier protein] reductase	Research target	Q965D6
+TTDR00659	Bis(5'-adenosyl)-triphosphatase	Clinical trial target	P49789
+TTDR00661	Aconitate hydratase, mitochondrial	Research target	Q99798
+TTDR00662	UDP-glucose 4-epimerase	Research target	Q14376
+TTDR00663	60 kDa heat shock protein, mitochondrial	Clinical trial target	P10809
+TTDR00666	Penicillin-binding protein 1B	Research target	P02919
+TTDR00667	Cyclin-dependent kinase inhibitor 1	Research target	P38936
+TTDR00668	Pro-neuregulin-1	Clinical trial target	Q02297 (20-241)
+TTDR00669	Focal adhesion kinase	Clinical trial target	Q05397
+TTDR00670	Troponin I, cardiac muscle	Research target	P19429
+TTDR00673	Prostaglandin E2 receptor, EP1 subtype	Clinical trial target	P34995
+TTDR00674	Beta crystallin B1	Research target	P53674
+TTDR00676	3-deoxy-manno-octulosonate cytidylyltransferase	Research target	P04951
+TTDR00677	Interleukin-13 receptor alpha-2 chain	Clinical trial target	Q14627
+TTDR00678	Glycoprotein coupled receptor	Research target	Q910P5
+TTDR00679	Alpha-fetoprotein	Clinical trial target	P02771
+TTDR00680	2',3'-cyclic nucleotide 3'-phosphodiesterase	Research target	P09543
+TTDR00681	Carcinoembryonic antigen-related cell adhesion molecule 5	Clinical trial target	P06731
+TTDR00682	Lactadherin	Research target	Q08431
+TTDR00683	Tenascin	Clinical trial target	P24821
+TTDR00684	Serum paraoxonase/arylesterase 1	Research target	P27169
+TTDR00685	Hepatocellular carcinoma-associated protein	Research target	Q8IXA6
+TTDR00687	Folate receptor beta	Research target	P14207
+TTDR00688	Wilms' tumor protein	Clinical trial target	P19544
+TTDR00689	Troponin T, cardiac muscle isoforms	Research target	P45379
+TTDR00690	Dihydroneopterin aldolase	Research target	P0AC16
+TTDR00691	Dickkopf related protein-1	Research target	O94907
+TTDR00692	Bile-salt-activated lipase	Clinical trial target	P19835
+TTDR00693	Annexin A10	Research target	Q9UJ72
+TTDR00696	ADAMTS-4	Discontinued target	O75173
+TTDR00697	ADAMTS-5	Clinical trial target	Q9UNA0
+TTDR00698	Platelet endothelial cell adhesion molecule	Research target	P16284
+TTDR00699	Integrin alpha-M	Research target	P11215
+TTDR00700	DNA fragmentation factor 40 kDa subunit	Research target	O76075
+TTDR00701	Immunoglobulin A1 protease	Research target	P42782
+TTDR00702	Alkylhydroperoxidase AhpD	Research target	Q57353
+TTDR00703	Bacitracin transport ATP-binding protein bcrA	Research target	P42332
+TTDR00705	Dystroglycan	Research target	Q14118
+TTDR00706	40S ribosomal protein S12	Research target	P25398
+TTDR00707	Choriogonadotropin beta chain	Clinical trial target	P01233
+TTDR00708	65 kD membrane-associated NADH-fumarate reductase	Research target	Q8ITL2
+TTDR00709	Inositol polyphosphate 1-phosphatase	Research target	P49441
+TTDR00710	Diphosphoinositol polyphosphate phosphohydrolase 2	Research target	O95989
+TTDR00712	Membrane-bound transcription factor site-1 protease	Research target	Q14703
+TTDR00713	Beta-catenin	Clinical trial target	P35222
+TTDR00714	5T4 ONCOFETAL antigen	Clinical trial target	Q13641
+TTDR00716	Farnesyl-protein transferase	Clinical trial target	P49354; P49356
+TTDR00717	Serine/threonine protein phosphatase PP1-alpha 1 catalytic subunit	Clinical trial target	P08129
+TTDR00720	UPF0090 protein SP0552	Research target	Q97S61
+TTDR00721	Methionine aminopeptidase 2	Clinical trial target	Q8SR45; P50579
+TTDR00722	L-selectin	Clinical trial target	P14151
+TTDR00723	2C-Methyl-D-erythritol 2,4-cyclodiphosphate synthase	Research target	P62368
+TTDR00726	Signal peptidase I	Research target	O07344
+TTDR00727	Perilipin	Research target	O60240
+TTDR00728	Contactin 2	Research target	Q02246
+TTDR00730	Mucin 1	Clinical trial target	P15941
+TTDR00731	P2Y purinoceptor 6	Research target	Q15077
+TTDR00732	Arginase II, mitochondrial	Clinical trial target	P78540
+TTDR00733	Transmembrane protease, serine 2	Research target	O15393
+TTDR00734	Complement receptor type 1	Clinical trial target	P17927
+TTDR00735	Phosphatidylinositol 3-kinase CaVps34p	Research target	Q92213
+TTDR00737	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2	Research target	O60825
+TTDR00738	Human T-cell leukemia virus type-1 proteinase	Research target	Q82443
+TTDR00739	Superoxide dismutase [Mn]	Research target	P00448
+TTDR00740	Acylamino-acid-releasing enzyme	Research target	P13798
+TTDR00741	Signal transduction protein CBL	Research target	P22681
+TTDR00742	Membrane copper amine oxidase	Clinical trial target	Q16853
+TTDR00743	Cytokine growth-related oncogene-alpha	Research target	P09341
+TTDR00744	Trans-acting T-cell specific transcription factor GATA-3	Research target	P23771
+TTDR00745	Advanced glycosylation end product-specific receptor	Clinical trial target	Q15109
+TTDR00746	Phosphomannomutase/phosphoglucomutase	Research target	P26276
+TTDR00747	Flavohemoglobin	Research target	P24232
+TTDR00748	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	Research target	P26281
+TTDR00750	Melanoma-associated antigen 3	Clinical trial target	P43357
+TTDR00751	CD9 antigen	Research target	P21926
+TTDR00752	Myelin-associated/oligodendrocyte basic protein	Research target	O35713
+TTDR00753	Glucosamine-6-phosphate synthase	Research target	P17169
+TTDR00754	Mitotic checkpoint protein	Research target	Q9UNH0
+TTDR00755	Metabotropic glutamate receptor 8	Research target	O00222
+TTDR00756	Homeobox protein Hox-B13	Research target	Q92826
+TTDR00758	Pyruvate:ferredoxin oxidoreductase	Research target	Q968X7
+TTDR00759	Xaa-Pro dipeptidase	Research target	P12955
+TTDR00761	Subtilisin-like protease	Research target	O61142
+TTDR00762	3-dehydroquinate synthase	Research target	P07639
+TTDR00763	C-C chemokine receptor type 8	Clinical trial target	P51685
+TTDR00764	Haemagglutinin	Research target	O39166
+TTDR00765	Tumor-associated calcium signal transducer 1	Clinical trial target	P16422
+TTDR00766	Iron-transporter ferric ion-binding protein	Research target	P35755
+TTDR00767	Tryparedoxin	Research target	O96438
+TTDR00769	Cysteine proteinase	Research target	O91466
+TTDR00771	Glycine receptor alpha-1 chain	Clinical trial target	P23415
+TTDR00773	Melanoma-associated antigen 4	Research target	P43358
+TTDR00774	GMP synthase [glutamine-hydrolyzing]	Research target	P49915
+TTDR00775	Gamma crystallin M2	Research target	P48649
+TTDR00776	Solute carrier family 2, facilitated glucose transporter, member 4	Clinical trial target	P14672
+TTDR00777	Neuropeptide Y	Research target	P01303
+TTDR00778	Negative factor	Clinical trial target	P03407
+TTDR00779	69 kDa islet cell autoantigen	Research target	Q05084
+TTDR00783	Deoxyribonucleoside phosphotransferase	Research target	Q9XZT6
+TTDR00784	Aminopeptidase N	Clinical trial target	P15144
+TTDR00785	3,4-dihydroxy-2-butanone-4-phosphate synthase	Research target	P0A7J0
+TTDR00786	G1/S-specific cyclin E1	Discontinued target	P24864
+TTDR00789	Calgranulin A	Research target	P05109
+TTDR00790	Calgranulin B	Clinical trial target	P06702
+TTDR00792	Growth arrest and DNA-damage-inducible protein GADD45 beta	Research target	O75293
+TTDR00793	Zinc finger protein OZF	Research target	Q15072
+TTDR00794	Myosin light chain kinase, smooth muscle and non-muscle isozymes	Clinical trial target	Q15746
+TTDR00795	Angiopoietin-related protein 4	Discontinued target	Q9BY76
+TTDR00796	VDUP1 protein	Research target	Q9H3M7
+TTDR00797	Trypanothione synthetase	Research target	Q9GT49
+TTDR00799	Adiponectin	Research target	Q15848
+TTDR00800	Polyphosphate kinase	Discontinued target	O33127
+TTDR00801	Glycine receptor	Clinical trial target	P23415; P23416; O75311; P48167
+TTDR00802	Prostaglandin D2 receptor	Clinical trial target	Q13258
+TTDR00803	Calgranulin D	Research target	P80511
+TTDR00804	Galectin-3	Clinical trial target	P17931
+TTDR00805	Choline kinase	Clinical trial target	P35790
+TTDR00806	Presynaptic density protein 95	Clinical trial target	P78352
+TTDR00807	Cell surface glycoprotein MUC18	Research target	P43121
+TTDR00808	Stromal cell-derived factor 1	Clinical trial target	P48061
+TTDR00809	DNA mismatch repair protein MSH2	Research target	P43246
+TTDR00810	DNA-binding protein inhibitor ID-2	Research target	Q02363
+TTDR00811	Estradiol 17 beta-dehydrogenase 4	Research target	P51659
+TTDR00812	Myotubularin-related protein 1	Research target	Q13613
+TTDR00813	Toll-like receptor 2	Clinical trial target	O60603
+TTDR00814	S-phase kinase-associated protein 2	Research target	Q13309
+TTDR00815	Growth/differentiation factor 15	Research target	Q99988
+TTDR00816	Protease II	Research target	P24555
+TTDR00817	Orphan nuclear receptor SHP	Research target	Q15466
+TTDR00818	Nucleocapsid protein, NCP7, NC71	Research target	Q9PY17
+TTDR00819	Mothers against decapentaplegic homolog 3	Clinical trial target	Q92940
+TTDR00820	WNT1 inducible signaling pathway protein 3 variant	Research target	O95389
+TTDR00821	Metabotropic glutamate receptor 7	Research target	Q14831
+TTDR00822	Cyclin-dependent kinase 6 inhibitor	Research target	P42773
+TTDR00823	Growth/differentiation factor 8	Clinical trial target	O14793
+TTDR00824	Neuroendocrine convertase 1	Research target	P29120
+TTDR00825	Neuroendocrine convertase 2	Research target	P16519
+TTDR00826	Histidine kinase	Research target	O74271
+TTDR00827	Phosphoribosylaminoimidazole carboxylase	Research target	Q92210
+TTDR00828	Deoxyribonuclease I	Research target	P24855
+TTDR00829	Fascin	Research target	Q16658
+TTDR00830	Vascular endothelial-cadherin	Discontinued target	P33151
+TTDR00831	Apolipoprotein(a)	Clinical trial target	P08519
+TTDR00832	Olfactory receptor 51E2	Research target	Q9H255
+TTDR00833	U6 snRNA-associated Sm-like protein LSm1	Research target	O15116
+TTDR00834	ADM	Research target	P35318
+TTDR00838	Fatty acid transport protein	Research target	O95186
+TTDR00839	Kexin-like serine endoprotease	Research target	Q9UVD0
+TTDR00840	Fos-related antigen 1	Research target	P15407
+TTDR00841	Elav-like protein 1	Research target	Q15717
+TTDR00842	Ets-domain protein elk-3	Research target	P41970
+TTDR00843	Elongation factor 2	Research target	Q5A0M4
+TTDR00844	Leukosialin	Research target	P16150
+TTDR00846	Beta-chimaerin	Research target	P52757
+TTDR00847	ADAM 17	Clinical trial target	P78536
+TTDR00848	Deoxyhypusine synthase	Research target	P49366
+TTDR00849	Lantibiotic mersacidin	Research target	P31120
+TTDR00851	Angiotensin converting enzyme-like protein	Research target	Q9NRA7
+TTDR00852	Sterol regulatory element binding protein-1	Research target	P36956
+TTDR00853	Biphenyl hydrolase-related protein	Research target	Q86WA6
+TTDR00854	Membrane-associated lectin type-C	Research target	Q9NNX6
+TTDR00855	Interleukin-20	Clinical trial target	Q9NYY1
+TTDR00856	Follistatin-related protein 3	Research target	O95633
+TTDR00858	Tyrosine-protein kinase itk/tsk	Clinical trial target	Q08881
+TTDR00859	Protective antigen	Successful target	P13423
+TTDR00860	Mammaglobin A	Research target	Q13296
+TTDR00861	Lectin-like oxidized ldl receptor	Research target	P78380
+TTDR00862	Aspartate-semialdehyde dehydrogenase	Research target	P23247
+TTDR00864	Glutathionylspermidine synthase	Research target	P90518
+TTDR00865	UDP-3-O-[3-hydroxymyristoyl] n-acetylglucosamine deacetylase	Clinical trial target	P47205
+TTDR00866	Lanosterol synthase	Discontinued target	P48449
+TTDR00867	Galanin	Research target	P22466
+TTDR00868	Neurogenic locus notch homolog protein 1	Clinical trial target	P46531
+TTDR00870	GDP-mannose transporter	Research target	P40107
+TTDR00871	Cystathionine gamma-synthase	Research target	P00935
+TTDR00873	DNA-repair protein complementing xp-a cells	Research target	P23025
+TTDR00874	Dopachrome tautomerase	Research target	P40126
+TTDR00875	Hepatoma derived growth factor	Research target	P51858
+TTDR00876	Airway trypsin-like protease	Research target	O60235
+TTDR00877	Peroxysome proliferator-activated receptor gamma 2	Research target	Q7YRV3
+TTDR00878	Makorin 1	Research target	Q9UHC7
+TTDR00879	Sorbitol dehydrogenase	Clinical trial target	Q00796
+TTDR00880	Acyl-CoA desaturase 1	Research target	P13516
+TTDR00883	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase beta 1	Research target	Q9NQ66
+TTDR00884	Tyrosine-protein kinase 6	Research target	Q13882
+TTDR00885	Transcription factor E2F2	Research target	Q14209
+TTDR00886	Cathepsin B	Discontinued target	P07858
+TTDR00887	CASP8 and FADD-like apoptosis regulator	Research target	O15519
+TTDR00888	Gremlin	Research target	O60565
+TTDR00889	ADAM 33	Research target	Q9BZ11
+TTDR00890	Early activation antigen CD69	Research target	Q07108
+TTDR00891	Kinase suppressor of ras-1	Research target	Q13476
+TTDR00892	Cell surface A33 antigen	Clinical trial target	Q99795
+TTDR00893	Suppressor of cytokine signaling 3	Research target	O14543
+TTDR00894	Poly(ADP-ribose) glycohydrolase	Research target	Q9Y4W7
+TTDR00895	NH(3)-dependent NAD(+) synthetase	Research target	P18843
+TTDR00897	DNA-directed RNA polymerase II 19 kDa polypeptide	Research target	P52433
+TTDR00898	DNA ligase	Discontinued target	P15042
+TTDR00899	Na+-coupled citrate transporter protein	Research target	Q86YT5
+TTDR00900	Serine/threonine protein phosphatase 1	Research target	P55798
+TTDR00901	JUN activation domain binding protein	Research target	Q92905
+TTDR00902	Short transient receptor potential channel 3	Research target	Q13507
+TTDR00903	Potassium voltage-gated channel subfamily A member 3	Clinical trial target	P22001
+TTDR00905	Ubiquitin-protein ligase E3A	Research target	Q05086
+TTDR00906	Munc13	Research target	O14795
+TTDR00907	40 kDa peptidyl-prolyl cis-trans isomerase	Research target	Q08752
+TTDR00909	Endoprotease bli-4	Research target	P51559
+TTDR00910	6-phosphogluconate dehydrogenase, decarboxylating	Research target	P52209
+TTDR00912	Gamma-synuclein	Research target	O76070
+TTDR00913	Adipocyte-derived leucine aminopeptidase	Research target	Q9NZ08
+TTDR00914	Human leukocyte antigen class II	Research target	Q29870
+TTDR00915	Bax inhibitor-1	Research target	P55061
+TTDR00916	M1-family aminopeptidase	Research target	O96935
+TTDR00917	Hormone sensitive lipase	Discontinued target	Q05469
+TTDR00918	Islet-specific glucose-6-phosphatase catalytic subunit-related protein	Research target	Q9NQR9
+TTDR00919	Latent membrane protein 1	Clinical trial target	P03230
+TTDR00920	ADAM 8	Research target	P78325
+TTDR00921	Small inducible cytokine A3	Clinical trial target	P10147
+TTDR00922	DNA repair protein RAD51 homolog 1	Research target	Q06609
+TTDR00924	1-acyl-sn-glycerol-3-phosphate acyltransferase beta	Research target	O15120
+TTDR00925	Heparin-binding growth factor 1	Clinical trial target	P05230
+TTDR00926	Vascular endothelial growth factor B	Successful target	P49765
+TTDR00927	Lymphocyte antigen 96	Research target	Q9Y6Y9
+TTDR00928	Mitogen-activated protein kinase 10	Research target	P53779
+TTDR00929	Thymidine monophosphate kinase	Research target	P9WKE1
+TTDR00930	Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, delta isoform	Clinical trial target	O00329
+TTDR00931	Putative NTPase/helicase protein	Research target	P26664 (1027-1657)
+TTDR00932	YihA	Research target	P24253
+TTDR00934	Tumor necrosis factor receptor superfamily member 17	Research target	Q02223
+TTDR00935	Tumor necrosis factor receptor superfamily member 13B	Research target	O14836
+TTDR00936	Tumor necrosis factor receptor superfamily member 13C	Research target	Q96RJ3
+TTDR00937	F-box and WD-40 domain protein 7	Research target	Q8CCS5
+TTDR00938	Neutrophil cytosol factor 1	Research target	P14598
+TTDR00943	Peptide YY	Clinical trial target	P10082 (31-64)
+TTDR00947	Coagulation factor VII	Clinical trial target	P08709
+TTDR00949	Elongation factor 1-alpha	Clinical trial target	Q90835
+TTDR00950	Kynureninase	Research target	Q16719
+TTDR00952	Penicillin-binding protein 1A	Research target	P02918
+TTDR00953	DNA fragmentation factor alpha subunit	Research target	O00273
+TTDR00955	Dihydrolipoamide dehydrogenase, mitochondrial	Research target	P90597
+TTDR00956	CTP synthase	Clinical trial target	P17812
+TTDR00957	Adenosylhomocysteinase	Research target	P23526
+TTDR00959	5'-methylthioadenosine phosphorylase	Research target	Q13126
+TTDR00962	Cytochrome c oxidase copper chaperone	Research target	Q14061
+TTDR00963	Solute carrier family 2, facilitated glucose transporter, member 1	Research target	P11166
+TTDR00964	Transforming protein RhoB	Research target	P01121
+TTDR00965	Metabotropic glutamate receptor 4	Research target	Q14833
+TTDR00966	Keratin, type I cytoskeletal 19	Research target	P08727
+TTDR00967	DNA-(apurinic or apyrimidinic site) lyase	Clinical trial target	P27695
+TTDR00968	Mitogen-activated protein kinase kinase kinase 5	Clinical trial target	Q99683
+TTDR00969	Cell division protein FtsZ	Research target	P45485
+TTDR00970	DNA polymerase/reverse transcriptase	Clinical trial target	P03159 (359-602)
+TTDR00971	Similar to dipeptidyl aminopeptidase-like protein	Research target	Q8N608
+TTDR00972	Cytidylate kinase	Research target	Q97PK6
+TTDR00975	Glandular kallikrein 1	Research target	Q28773
+TTDR00976	CAMP-dependent protein kinase, catalytic subunit	Research target	P40376
+TTDR00977	CAMP-dependent protein kinase type I-alpha regulatory chain	Research target	P10644
+TTDR00978	CAMP-dependent protein kinase type II-beta regulatory chain	Research target	P31323
+TTDR00979	Adenylate cyclase	Discontinued target	P00936
+TTDR00981	Lymphocyte antigen Ly-6D	Research target	Q14210
+TTDR00982	Cruzipain	Clinical trial target	P25779
+TTDR00983	Maspin	Research target	P36952
+TTDR00984	Phosphatidylcholine-specific phospholipase C	Research target	Q9RGS8
+TTDR00985	Guanine nucleotide-binding protein G(q), alpha subunit	Research target	P50148
+TTDR00986	Heat shock protein 40	Research target	P25685
+TTDR00987	Long transient receptor potential channel 2	Research target	O94759
+TTDR00988	Short transient receptor potential channel 6	Research target	Q9Y210
+TTDR00989	mRNA of Methylenetetrahydrofolate reductase	Research target	P42898
+TTDR00991	Interferon consensus sequence binding protein	Research target	Q02556
+TTDR00992	Chorismate synthase	Research target	P12008
+TTDR00993	Fructosamine-3-kinase	Research target	Q9H479
+TTDR00994	Herstatin	Research target	Q9UK79
+TTDR00995	Glyceraldehyde 3-phosphate dehydrogenase, muscle	Clinical trial target	P04406
+TTDR00996	Transmembrane 4 superfamily, member 2	Research target	P41732
+TTDR00997	Guanine nucleotide-binding protein beta subunit-like protein	Research target	Q25306
+TTDR00998	TGF-beta receptor type I	Clinical trial target	P36897
+TTDR00999	T-cell leukemia/lymphoma protein 1A	Research target	P56279
+TTDR01001	Sodium/iodide cotransporter	Clinical trial target	Q92911
+TTDR01003	Insulin-like growth factor IA	Clinical trial target	P01343
+TTDR01004	ATP-citrate synthase	Research target	P53396
+TTDR01005	Mitogen-activated protein kinase kinase kinase 3	Research target	Q99759
+TTDR01006	Caspase-9	Research target	P55211
+TTDR01007	Junction plakoglobin	Research target	P14923
+TTDR01008	Epithelial-cadherin	Research target	P12830
+TTDR01010	Malignant melanoma metastasis-suppressor KiSS-1	Research target	Q15726
+TTDR01011	CatSper	Research target	Q7RTX7
+TTDR01012	Polyketide synthase	Research target	O53579
+TTDR01013	PDZ domain containing-protein	Research target	O60450
+TTDR01014	Ileal sodium/bile acid cotransporter	Research target	Q12908
+TTDR01015	Arginine deiminase	Research target	P13981
+TTDR01016	Subtilisin-like protease 2	Research target	Q9NG20
+TTDR01018	Phosphopantetheine adenylyltransferase	Discontinued target	Q13057 (180-358)
+TTDR01019	3-phosphoshikimate 1-carboxyvinyltransferase	Research target	P0A6D3
+TTDR01020	27 kDa antigen Cfp30B	Research target	O53774
+TTDR01025	Islet amyloid polypeptide	Research target	P10997
+TTDR01027	Lethal factor	Clinical trial target	P15917
+TTDR01028	Branched chain amino acid-dependent aminotransferase	Research target	O15382
+TTDR01030	Carboxypeptidase H	Research target	P16870
+TTDR01031	Cathepsin L	Clinical trial target	P07711
+TTDR01032	Cathepsin F	Clinical trial target	Q9UBX1
+TTDR01033	Tripeptidyl-peptidase II	Clinical trial target	P29144
+TTDR01035	Bone morphogenetic protein 1	Research target	P13497
+TTDR01039	FK506-binding protein 4	Research target	Q02790
+TTDR01042	Gamma-aminobutyric-acid receptor alpha-5 subunit	Clinical trial target	P31644
+TTDR01044	Galanin receptor type 2	Research target	O43603
+TTDR01045	Galanin receptor type 3	Research target	O60755
+TTDR01048	Somatotropin	Clinical trial target	P01241
+TTDR01056	Orexin receptor type 2	Clinical trial target	O43614
+TTDR01057	Laminin beta-3 chain	Clinical trial target	Q13751
+TTDR01059	Macrophage scavenger receptor types I and II	Research target	P21757
+TTDR01062	Membrane-associated kinase	Research target	O14731
+TTDR01063	Methionyl-tRNA synthetase	Clinical trial target	Q9A178
+TTDR01065	N-acetylated-alpha-linked acidic dipeptidase II	Research target	Q9Y3Q0
+TTDR01066	Myelin-associated glycoprotein	Clinical trial target	P20916
+TTDR01067	Sphingomyelin phosphodiesterase 2	Research target	O60906
+TTDR01072	Sterol regulatory element binding protein cleavage-activating protein	Research target	Q12770
+TTDR01073	Retinoic acid receptor RXR-alpha	Research target	P19793
+TTDR01075	Retinoic acid receptor RXR-gamma	Research target	P48443
+TTDR01076	Protein farnesyltransferase beta subunit	Clinical trial target	P49356
+TTDR01083	Pyridoxin biosynthesis protein pyroA	Research target	Q9UW83
+TTDR01084	Pyridoxin biosynthesis protein SNZ1	Research target	Q03148
+TTDR01085	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	Research target	P47669
+TTDR01086	Phosphoenolpyruvate synthase	Research target	P56070
+TTDR01087	Lysyl-tRNA synthetase	Research target	P0A8N3
+TTDR01088	ATP/ADP translocase	Research target	Q39002
+TTDR01089	Orotidine 5'-phosphate decarboxylase	Research target	P77898
+TTDR01090	Probable dihydroneopterin aldolase	Research target	O84620
+TTDR01100	DNA (cytosine-5)-methyltransferase 3B	Clinical trial target	Q9UBC3
+TTDR01101	Interleukin-2 receptor alpha chain	Clinical trial target	P01589
+TTDR01102	UDP-N-acetylenolpyruvylglucosamine reductase	Research target	P08373
+TTDR01103	Heat shock factor protein 1	Research target	Q00613
+TTDR01104	Interleukin-12 receptor beta-2 chain	Clinical trial target	Q99665
+TTDR01105	Fibroblast growth factor-8	Research target	P55075
+TTDR01106	Breast cancer type 2 susceptibility protein	Research target	P51587
+TTDR01107	Fanconi anemia group F protein	Research target	Q9NPI8
+TTDR01108	Myeloid differentiation primary response protein MyD88	Research target	Q99836
+TTDR01109	Lipopolysaccharide-binding protein	Research target	P18428
+TTDR01110	Dual specificity protein kinase TTK	Clinical trial target	P33981
+TTDR01112	P-selectin glycoprotein ligand 1	Clinical trial target	Q14242
+TTDR01113	Diablo homolog, mitochondrial	Research target	Q9NR28
+TTDR01114	Stanniocalcin 1	Research target	P52823
+TTDR01116	Ubiquitin carboxyl-terminal hydrolase 2	Research target	O75604
+TTDR01117	Geminin	Research target	O75496
+TTDR01118	Transcription factor 7-like 2	Research target	Q9NQB0
+TTDR01119	GPI transamidase component PIG-U	Research target	Q9H490
+TTDR01120	Kallikrein 6	Research target	Q92876
+TTDR01121	Zinc finger protein 202	Research target	O95125
+TTDR01122	Mothers against decapentaplegic homolog 9	Research target	Q9JIW5
+TTDR01123	Activation-inducible lymphocyte IMMUNOMEDIATORY molecule AILIM	Clinical trial target	Q9Y6W8
+TTDR01124	Claudin-4	Research target	O14493
+TTDR01125	Granulins	Research target	P28799
+TTDR01126	C-Rel proto-oncogene protein	Research target	Q04864
+TTDR01128	Carcinoembryonic antigen-related cell adhesion molecule 6	Research target	P40199
+TTDR01129	Protein tyrosine phosphatase short form	Research target	Q8IVN5
+TTDR01130	Forkhead box protein M1	Research target	Q08050
+TTDR01131	Fibroleukin	Research target	Q14314
+TTDR01132	Glucose 6-phosphate translocase	Research target	O43826
+TTDR01133	Ephrin type-B receptor 2	Research target	P29323
+TTDR01134	Interferon regulatory factor 3	Research target	Q14653
+TTDR01136	26S proteasome non-ATPase regulatory subunit 10	Research target	O75832
+TTDR01138	Recoverin	Research target	P35243
+TTDR01139	Phosphoethanolamine N-methyltransferase	Research target	Q8IDQ9
+TTDR01141	Ubiquitin carboxyl-terminal hydrolase isozyme L1	Research target	P09936
+TTDR01142	DNA-dependent protein kinase catalytic subunit	Discontinued target	P78527
+TTDR01143	Undecaprenyl pyrophosphate synthetase	Research target	P60472
+TTDR01144	Interleukin 11 receptor	Research target	Q16542
+TTDR01147	Transferrin receptor protein 1	Research target	P02786
+TTDR01148	Lactotransferrin	Clinical trial target	P02788
+TTDR01149	Receptor-type protein-tyrosine phosphatase zeta	Research target	P23471
+TTDR01150	Regenerating gene type IV 	Research target	Q9BYZ8
+TTDR01152	Epstein-Barr virus (Strain FF41) nuclear antigen gene	Research target	Q69128
+TTDR01153	Complement C3	Clinical trial target	P01024
+TTDR01154	Seprase	Clinical trial target	Q12884
+TTDR01155	Teratocarcinoma-derived growth factor 1	Research target	P13385
+TTDR01156	Histone deacetylase 2	Clinical trial target	Q92769
+TTDR01157	Probable nicotinate-nucleotide adenylyltransferase	Research target	Q9HX21
+TTDR01158	Homeobox protein Hox-A7	Research target	P31268
+TTDR01159	Low-density lipoprotein receptor-related protein 1	Research target	Q07954
+TTDR01160	Transient receptor potential cation channel subfamily V member 4	Research target	Q9HBA0
+TTDR01161	Toxopain-1	Research target	Q8MTU2
+TTDR01164	Proprotein convertase subtilisin/kexin type 9	Clinical trial target	Q8NBP7
+TTDR01165	Platelet-activating factor receptor	Clinical trial target	P25105
+TTDR01166	Chitin synthase 1	Clinical trial target	P23316
+TTDR01167	Histone deacetylase 6	Research target	Q9UBN7
+TTDR01168	3-phosphoshikimate 1-carboxyvinyltransferase	Research target	Q9S400
+TTDR01169	DNA topoisomerase 4 subunit A	Discontinued target	P0AFI2
+TTDR01170	Integrin beta-2	Discontinued target	P05107
+TTDR01177	Gamma-aminobutyric-acid receptor alpha-2 subunit	Clinical trial target	P47869
+TTDR01178	Gamma-aminobutyric-acid receptor alpha-3 subunit	Clinical trial target	P34903
+TTDR01179	Sodium- and chloride-dependent GABA transporter 1	Clinical trial target	P30531
+TTDR01180	Alpha-2C adrenergic receptor	Clinical trial target	P18825
+TTDR01181	Plasma membrane H(+)-ATPase	Research target	Q01680
+TTDR01182	3-oxo-5-alpha-steroid 4-dehydrogenase 1	Clinical trial target	P18405
+TTDR01183	3-oxo-5-alpha-steroid 4-dehydrogenase 2	Clinical trial target	P31213
+TTDR01184	Acetaldehyde dehydrogenase	Clinical trial target	P77580
+TTDR01185	Aldehyde dehydrogenase, mitochondrial	Clinical trial target	P05091
+TTDR01186	Betaine aldehyde dehydrogenase	Research target	P17445
+TTDR01187	Dihydropyrimidine dehydrogenase [NADP+]	Clinical trial target	Q12882
+TTDR01191	Retinoic acid receptor beta	Clinical trial target	P10826
+TTDR01192	DNA topoisomerase II, beta isozyme	Research target	Q02880
+TTDR01193	Histamine H4 receptor	Clinical trial target	Q9H3N8
+TTDR01194	5-hydroxytryptamine 1F receptor	Clinical trial target	P30939
+TTDR01197	Thyrotropin-releasing hormone receptor	Clinical trial target	P34981
+TTDR01198	Potassium channel subfamily K member 9	Research target	Q9NPC2
+TTDR01199	K-Cl cotransporter 3	Research target	Q9UHW9
+TTDR01200	Cystine/glutamate transporter	Research target	Q9UPY5
+TTDR01201	Pyridoxal kinase	Research target	O00764
+TTDR01202	Inositol-1(or 4)-monophosphatase	Discontinued target	O14732
+TTDR01203	Soluble epoxide hydrolase	Clinical trial target	P34913
+TTDR01206	Inhibitor of nuclear factor kappa B kinase beta subunit	Clinical trial target	O14920
+TTDR01209	Probable arabinosyltransferase A	Research target	P71485
+TTDR01210	Probable arabinosyltransferase B	Research target	P71486
+TTDR01211	Arylamine N-acetyltransferase	Research target	P96848
+TTDR01212	Malonyl-CoA:acyl carrier protein transacylase	Research target	P63459
+TTDR01214	Ephrin type-A receptor 2	Clinical trial target	P29317
+TTDR01216	Platelet-derived growth factor	Clinical trial target	P01127; P04085
+TTDR01217	Beta platelet-derived growth factor receptor	Clinical trial target	P09619
+TTDR01218	BCR/ABL protein	Research target	Q16189
+TTDR01220	D1 dopamine receptor-interacting protein calcyon	Discontinued target	Q9NYX4
+TTDR01222	Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	Research target	Q02809
+TTDR01223	Preadipocyte factor	Research target	Q09163
+TTDR01224	Carbonic anhydrase I	Clinical trial target	P00915
+TTDR01226	DNA-dependent DNA polymerase	Research target	Q9UID5
+TTDR01227	Thyroid hormone receptor beta-1	Clinical trial target	P10828
+TTDR01229	5'-Nucleotidase	Clinical trial target	P21589
+TTDR01230	Cytochrome B	Research target	Q02768
+TTDR01232	Glutathione reductase, mitochondrial	Research target	O15770
+TTDR01233	Tissue-type plasminogen activator	Research target	P00750
+TTDR01234	Granulocyte colony-stimulating factor	Clinical trial target	P09919
+TTDR01236	Sulfonylurea receptor 1	Discontinued target	Q09428
+TTDR01237	Major prion protein	Research target	P04156
+TTDR01238	Tumor necrosis factor receptor superfamily member 1B	Research target	P20333
+TTDR01240	Glycinamide ribonucleotide formyltransferase	Clinical trial target	P22102
+TTDR01243	Cytochrome p450 121	Research target	Q59571
+TTDR01245	3-oxoacyl-[acyl-carrier-protein] synthase 1	Research target	Q10524
+TTDR01246	Lactoylglutathione lyase	Research target	Q04760
+TTDR01247	Nociceptin receptor	Clinical trial target	P41146
+TTDR01248	N-acylglucosamine 2-epimerase	Research target	P51606
+TTDR01249	Pyridoxal phosphate phosphatase	Research target	Q96GD0
+TTDR01250	Serine/threonine-protein kinase Sgk1	Research target	O00141
+TTDR01251	Vascular endothelial growth factor D	Clinical trial target	O43915
+TTDR01252	Stromelysin-3	Research target	P24347
+TTDR01253	Voltage-dependent calcium channel subunit alpha-2/delta-3	Research target	Q8IZS8
+TTDR01254	Voltage-gated sodium channel subunit alpha Nav1.9	Research target	Q9UI33
+TTDR01255	Voltage-gated sodium channel subunit alpha Nav1.3	Clinical trial target	Q9NY46
+TTDR01256	Acid-sensing ion channel ASIC1a/ASIC1b	Clinical trial target	P78348
+TTDR01257	Acid-sensing ion channel ASIC3	Research target	Q9UHC3
+TTDR01258	Transient receptor potential cation channel subfamily V member 3	Clinical trial target	Q8NET8
+TTDR01259	Glutamate [NMDA] receptor subunit zeta-1	Clinical trial target	Q05586
+TTDR01260	Neuronal acetylcholine receptor subunit alpha-5	Research target	P30532
+TTDR01261	P2X purinoceptor 4	Research target	Q99571
+TTDR01262	Cyclooxygenase-3	Clinical trial target	Q6QWE0
+TTDR01263	Protein-tyrosine phosphatase, non-receptor type 11	Discontinued target	Q06124
+TTDR01264	Interleukin-13 receptor alpha-1 chain	Clinical trial target	P78552
+TTDR01265	Receptor protein-tyrosine kinase erbB-3	Clinical trial target	P21860
+TTDR01266	Neutrophil collagenase	Successful target	P22894
+TTDR01267	Beta-lactoglobulin-1	Research target	P13613
+TTDR01269	Corticosteroid 11-beta-dehydrogenase, isozyme 2	Clinical trial target	P80365
+TTDR01270	ATP-sensitive inward rectifier potassium channel 11	Discontinued target	Q14654
+TTDR01273	Pregnane X receptor	Discontinued target	O75469
+TTDR01293	Ferritin	Clinical trial target	P02794
+TTDR01298	Gli1	Research target	P08151
+TTDR01340	mRNA of Ubiquitin Protein Ligase WWP2	Research target	O00308
+TTDR01341	mRNA of human E2F transcription factor 3	Research target	O00716
+TTDR01342	mRNA of Human ADAM10	Clinical trial target	O14672
+TTDR01343	mRNA of Smad7	Clinical trial target	O15105
+TTDR01344	mRNA of Inhibitor-kappa B Kinase-alpha	Research target	O15111
+TTDR01345	mRNA of PDK-1	Research target	O15530
+TTDR01346	mRNA of human RIP2	Research target	O43353
+TTDR01347	mRNA of MADH6	Research target	O43541
+TTDR01348	mRNA of influenza A hemagglutinin	Research target	O56140
+TTDR01349	mRNA of Influenza polymerase 3	Research target	O56266
+TTDR01350	mRNA of influenza A matrix protein	Research target	O70632
+TTDR01351	mRNA of human zinc finger protein-217	Research target	O75362
+TTDR01352	mRNA of mouse diacylglycerol acyltransferase 1	Research target	O75907
+TTDR01353	mRNA of human acyl CoA cholesterol acyl-transferase-2	Clinical trial target	O75908
+TTDR01354	mRNA of influenza A nucleoprotein	Research target	O92784
+TTDR01355	mRNA of human superoxide dismutase 1	Research target	P00441
+TTDR01356	mRNA of H-ras	Research target	P01112
+TTDR01357	mRNA of human apolipoprotein A	Research target	P02647
+TTDR01358	mRNA of human C-reactive protein	Clinical trial target	P02741
+TTDR01359	mRNA of BPV-1 E2	Research target	P03122
+TTDR01360	mRNA of human apolipoprotein B	Research target	P04114
+TTDR01361	mRNA of HER2	Clinical trial target	P04626
+TTDR01362	mRNA of integrin beta 3	Clinical trial target	P05106
+TTDR01363	mRNA of c-jun	Research target	P05412
+TTDR01364	mRNA of HPV-18 E6 (start codon regions)	Research target	P06463
+TTDR01365	mRNA of HPV-18 E7 (start codon regions)	Research target	P06788
+TTDR01366	mRNA of HPV E2 transactivator protein	Discontinued target	P06790
+TTDR01367	mRNA of HCMV DNA polymerase	Research target	P08546
+TTDR01368	mRNA of hnRNP A1	Research target	P09651
+TTDR01369	mRNA of human 5-lipoxygenase	Clinical trial target	P09917
+TTDR01370	mRNA of A-Raf	Clinical trial target	P10398
+TTDR01371	mRNA of integrin alpha-4	Clinical trial target	P13612
+TTDR01372	mRNA of human Macrophage migration inhibitory factor	Research target	P14174
+TTDR01373	mRNA of B-Raf	Clinical trial target	P15056
+TTDR01374	mRNA of E-selectin	Research target	P16581
+TTDR01375	mRNA of PKA Catalytic Subunit C-alpha	Research target	P17612
+TTDR01376	mRNA of human C/EBP beta	Research target	P17676
+TTDR01377	mRNA of human VCAM-1	Research target	P19320
+TTDR01378	mRNA of Nucleolin	Research target	P19338
+TTDR01379	mRNA of human PKC-eta	Clinical trial target	P24723
+TTDR01380	mRNA of Human Fas	Research target	P25445
+TTDR01381	mRNA of CD40	Research target	P25942
+TTDR01382	mRNA of HCV core protein	Research target	P26664
+TTDR01383	mRNA of G-alpha-11	Research target	P29992
+TTDR01384	mRNA of B7 protein (translation initiation codon region)	Research target	P33681
+TTDR01385	mRNA of MEK2	Research target	P36507
+TTDR01386	mRNA of PPAR-gamma	Clinical trial target	P37231
+TTDR01387	mRNA of STAT3	Clinical trial target	P40763
+TTDR01388	mRNA of human cot oncogene	Research target	P41279
+TTDR01389	mRNA of CD86	Research target	P42081
+TTDR01390	mRNA of PI3K p110 beta	Research target	P42338
+TTDR01391	mRNA of human Jun-N-terminal kinase-2 (JNK2)	Research target	P45984
+TTDR01392	mRNA of P120	Research target	P46087
+TTDR01393	mRNA of Human FasL	Research target	P48023
+TTDR01394	mRNA of human glycogen synthase kinase 3 alpha	Research target	P49840
+TTDR01395	mRNA of kinesin-like 1	Clinical trial target	P52732
+TTDR01396	mRNA of human caspase 6	Research target	P55212
+TTDR01397	mRNA of PTEN	Discontinued target	P60484
+TTDR01398	mRNA of RhoA	Research target	P61586
+TTDR01399	mRNA of Human mdm2	Research target	Q00987
+TTDR01400	mRNA of human E2F transcription factor 1	Research target	Q01094
+TTDR01401	mRNA of PKC-epsilon	Clinical trial target	Q02156
+TTDR01402	mRNA of Protein kinase C-theta	Clinical trial target	Q04759
+TTDR01403	mRNA of PKC-zeta	Research target	Q05513
+TTDR01404	mRNA of PKC-delta	Clinical trial target	Q05655
+TTDR01405	mRNA of Bcl-x	Research target	Q07817
+TTDR01406	mRNA of human forkhead box O1A	Research target	Q12778
+TTDR01407	mRNA of Human FAP-1	Research target	Q12923
+TTDR01408	mRNA of Dual specific phosphatase 8	Research target	Q13202
+TTDR01409	mRNA of MEKK1	Research target	Q13233
+TTDR01410	mRNA of Apoptosis-2	Research target	Q13489
+TTDR01411	mRNA of eIF4E-BP2	Clinical trial target	Q13542
+TTDR01412	mRNA of human ARA70	Research target	Q13772
+TTDR01413	mRNA of Caspase 8	Clinical trial target	Q14790
+TTDR01414	mRNA of HER4	Research target	Q15303
+TTDR01415	mRNA of Smad	Research target	Q15797
+TTDR01416	mRNA of HIF1-alpha	Research target	Q16665
+TTDR01417	mRNA of human dual specific phosphatase 5	Research target	Q16690
+TTDR01418	mRNA of Human Syntaxin 4 Interacting Protein	Research target	Q6ZWJ1
+TTDR01419	mRNA of human E2A-Pbx1	Research target	Q7Z5L6
+TTDR01420	mRNA of Aurora B	Clinical trial target	Q96GD4
+TTDR01421	mRNA of cytohesin-2	Research target	Q99418
+TTDR01422	mRNA of human MEKK3	Research target	Q99759
+TTDR01423	mRNA of HIF2-alpha	Clinical trial target	Q99814
+TTDR01424	mRNA of Dual specific phosphatase 9	Research target	Q99956
+TTDR01425	mRNA of Ubiquitin Protein Ligase WWP1	Research target	Q9H0M0
+TTDR01426	mRNA of human IL-1 receptor-associated kinase-4	Research target	Q9NWZ3
+TTDR01427	mRNA of human helicase-moi	Research target	Q9UPY3
+TTDR01428	mRNA of influenza A neuraminidase	Research target	Q9W7Y7
+TTDR01429	mRNA of influenza A polymerase 1	Research target	Q9WLS3
+TTDR01430	mRNA of human Jagged2	Research target	Q9Y219
+TTDR01431	mRNA of AkT-3	Clinical trial target	Q9Y243
+TTDR01432	mRNA of human MEKK2	Research target	Q9Y2U5
+TTDR01433	mRNA of Talin	Research target	Q9Y490
+TTDR01434	mRNA of RANK	Research target	Q9Y6Q6
+TTDR01436	mRNA of glucocorticoid receptor	Clinical trial target	P04150
+TTDR01437	mRNA of Protein tyrosine phosphatase-1B	Clinical trial target	P18031
+TTDR01438	mRNA of FGFR4	Discontinued target	P22455
+TTDR01439	mRNA of proprotein convertase subtilisin/kexin type 9	Clinical trial target	Q8NBP7
+TTDR01440	TGR5	Clinical trial target	Q8TDU6
+TTDR01441	Staphylococcus aureus Quinolone resistance protein norA	Research target	P0A0J7
+TTDR01442	Cytochrome P450 2B2	Research target	P04167
+TTDR01443	Cytochrome P450 2A6	Research target	P11509
+TTDR01444	Cytochrome P450 2B6	Research target	P20813
+TTDR01445	Cytochrome P450 2A5	Research target	P20852
+TTDR01446	Clostridium histolyticum Collagenase	Research target	Q9X721
+TTDS00002	Muscarinic acetylcholine receptor M1	Successful target	P11229
+TTDS00003	Muscarinic acetylcholine receptor M2	Successful target	P08172
+TTDS00004	Muscarinic acetylcholine receptor M3	Successful target	P20309
+TTDS00005	Muscarinic acetylcholine receptor M4	Successful target	P08173
+TTDS00006	Muscarinic acetylcholine receptor M5	Successful target	P08912
+TTDS00007	Vascular endothelial growth factor receptor 1	Successful target	P17948
+TTDS00008	Vascular endothelial growth factor receptor 2	Successful target	P35968
+TTDS00011	Dopamine D1 receptor	Successful target	P21728
+TTDS00012	D(2) dopamine receptor	Successful target	P14416
+TTDS00013	D(3) dopamine receptor	Successful target	P35462
+TTDS00015	D(1B) dopamine receptor	Successful target	P21918
+TTDS00017	Sodium-dependent dopamine transporter	Successful target	Q01959
+TTDS00022	Gamma-aminobutyric acid B receptor	Successful target	Q9UBS5; O75899
+TTDS00024	4-aminobutyrate aminotransferase, mitochondrial	Successful target	P80404
+TTDS00029	Alpha-1B adrenergic receptor	Successful target	P35368
+TTDS00030	Alpha-1D adrenergic receptor	Successful target	P25100
+TTDS00032	Alpha-2A adrenergic receptor	Successful target	P08913
+TTDS00036	Beta-1 adrenergic receptor	Successful target	P08588
+TTDS00037	Beta-2 adrenergic receptor	Successful target	P07550
+TTDS00040	Prostaglandin G/H synthase 1	Successful target	P23219
+TTDS00041	Prostaglandin G/H synthase 2	Successful target	P35354
+TTDS00043	Gastrin/cholecystokinin type B receptor	Successful target	P32239
+TTDS00044	Potassium-transporting ATPase alpha chain 1	Successful target	P20648
+TTDS00045	Sodium/potassium-transporting ATPase alpha-1 chain	Successful target	P05023
+TTDS00054	Succinate semialdehyde dehydrogenase, mitochondrial	Successful target	P51649
+TTDS00055	3-beta-hydroxysteroid dehydrogenase	Successful target	P19871
+TTDS00056	Xanthine dehydrogenase/oxidase	Successful target	P47989
+TTDS00058	Glutamate dehydrogenase	Successful target	Q9NGT0
+TTDS00059	Dihydroorotate dehydrogenase, mitochondrial	Successful target	Q02127; Q08210
+TTDS00060	Alcohol dehydrogenase	Successful target	P14550
+TTDS00062	Inosine-5'-monophosphate dehydrogenase	Successful target	P49058
+TTDS00063	Inosine-5'-monophosphate dehydrogenase 2	Successful target	P12268
+TTDS00065	Phospholipase A2	Successful target	P04054
+TTDS00066	Lipoprotein lipase	Successful target	P06858
+TTDS00068	Corticosteroid-binding globulin	Successful target	P08185
+TTDS00073	Retinoic acid receptor alpha	Successful target	P10276
+TTDS00075	Retinoic acid receptor gamma	Successful target	P13631
+TTDS00076	Growth hormone receptor	Successful target	P10912
+TTDS00077	Glycoprotein IIb/IIIa receptor	Successful target	P08514; P05106
+TTDS00078	Aldehyde oxidase	Successful target	Q06278
+TTDS00079	DNA topoisomerase I	Successful target	P11387; Q00313
+TTDS00084	Topoisomerase IV subunit A	Successful target	P43702
+TTDS00086	Histamine H1 receptor	Successful target	P35367
+TTDS00087	Histamine H2 receptor	Successful target	P25021
+TTDS00089	Histamine N-methyltransferase	Successful target	P50135
+TTDS00090	FL cytokine receptor	Successful target	P36888
+TTDS00091	Myeloid cell surface antigen CD33	Successful target	P20138
+TTDS00092	Adenosine deaminase	Successful target	P00813
+TTDS00093	Dipeptidyl peptidase IV	Successful target	P27487
+TTDS00095	Histone deacetylase 1	Successful target	Q13547
+TTDS00096	CAMPATH-1 antigen	Successful target	P31358
+TTDS00098	5-hydroxytryptamine 1A receptor	Successful target	P08908
+TTDS00099	5-hydroxytryptamine 1B receptor	Successful target	P28222
+TTDS00100	5-hydroxytryptamine 1D receptor	Successful target	P28221
+TTDS00103	5-hydroxytryptamine 2A receptor	Successful target	P28223
+TTDS00104	5-hydroxytryptamine 2B receptor	Successful target	P41595
+TTDS00105	5-hydroxytryptamine 2C receptor	Successful target	P28335
+TTDS00107	5-hydroxytryptamine 4 receptor	Successful target	Q13639
+TTDS00109	Vasopressin V1a receptor	Successful target	P37288
+TTDS00111	Vasopressin V2 receptor	Successful target	P30518
+TTDS00112	Arachidonate 5-lipoxygenase	Successful target	P09917
+TTDS00113	P2Y purinoceptor 12	Successful target	Q9H244
+TTDS00115	Aldose reductase	Successful target	P15121
+TTDS00116	Solute carrier family 12 member 1	Successful target	Q13621
+TTDS00117	Solute carrier family 12 member 3	Successful target	P55017
+TTDS00118	Synaptic vesicle amine transporter	Successful target	Q05940
+TTDS00120	Glutamate-gated chloride channel	Successful target	Q9GQW8
+TTDS00122	Glutamate receptor, ionotropic kainate 1	Successful target	P39086
+TTDS00123	Glutamate [NMDA] receptor subunit epsilon 1	Successful target	Q12879
+TTDS00126	Mu-type opioid receptor	Successful target	P35372
+TTDS00127	Kappa-type opioid receptor	Successful target	P41145
+TTDS00128	Delta-type opioid receptor	Successful target	P41143
+TTDS00129	Sigma(1)-type opioid receptor	Successful target	Q99720
+TTDS00130	Tryptase	Successful target	Q15661
+TTDS00131	Tumor necrosis factor	Successful target	P01375
+TTDS00134	Insulin-degrading Enzyme	Successful target	P14735
+TTDS00138	Interleukin 1 receptor	Successful target	P14778
+TTDS00139	Interleukin-2 receptor	Successful target	P01589; P14784; P31785
+TTDS00140	Acetylcholinesterase	Successful target	P22303
+TTDS00141	Neuronal acetylcholine receptor protein, alpha-4 chain	Successful target	P43681
+TTDS00143	Cholinesterase	Successful target	P06276
+TTDS00144	Erythropoietin Receptor	Successful target	P19235
+TTDS00147	Potassium voltage-gated channel subfamily H member 2	Successful target	Q12809
+TTDS00148	Potassium voltage-gated channel subfamily KQT member 1	Successful target	P51787
+TTDS00149	Potassium voltage-gated channel subfamily KQT member 4	Successful target	P56696
+TTDS00150	ATP-sensitive K+ channel	Successful target	P48544
+TTDS00153	Na-K-2Cl cotransporter	Successful target	P55011
+TTDS00156	Voltage-gated sodium channel	Successful target	Q8NDX3
+TTDS00157	Voltage-gated sodium channel subunit alpha Nav1.8	Successful target	Q9Y5Y9
+TTDS00158	Amiloride-sensitive sodium channel alpha-subunit	Successful target	P37088
+TTDS00161	Voltage-dependent T-type calcium channel alpha-1G subunit	Successful target	O43497
+TTDS00164	Extracellular calcium-sensing receptor	Successful target	P41180
+TTDS00168	Prostaglandin E2 receptor, EP2 subtype	Successful target	P43116
+TTDS00169	Prostaglandin F2-alpha receptor	Successful target	P43088
+TTDS00170	Prostacyclin receptor	Successful target	P43119
+TTDS00171	Fibroblast growth factor receptor 2	Successful target	P21802
+TTDS00174	Neuraminidase	Successful target	Q9IGQ6
+TTDS00175	Influenza A virus M2 protein	Successful target	P06821
+TTDS00177	Fatty-acid amide hydrolase	Successful target	O00519
+TTDS00181	Angiotensin-converting enzyme	Successful target	P12821
+TTDS00182	D-alanyl-D-alanine carboxypeptidase	Successful target	Q47746
+TTDS00183	Cysteinyl leukotriene receptor 1	Successful target	Q9Y271
+TTDS00186	Adenosine A1 receptor	Successful target	P30542
+TTDS00187	Adenosine A2a receptor	Successful target	P29274
+TTDS00188	Adenosine A2b receptor	Successful target	P29275
+TTDS00189	Adenosine A3 receptor	Successful target	P0DMS8
+TTDS00191	Poly [ADP-ribose] polymerase-1	Successful target	P09874
+TTDS00192	Glutathione S-transferase	Successful target	O60760
+TTDS00194	Substance-P receptor	Successful target	P25103
+TTDS00195	3-hydroxy-3-methylglutaryl-coenzyme A reductase	Successful target	P04035
+TTDS00198	Endothelin-1 receptor	Successful target	P25101
+TTDS00199	Endothelin B receptor	Successful target	P24530
+TTDS00202	Thrombin	Successful target	P00734
+TTDS00203	Coagulation factor Xa	Successful target	P00742
+TTDS00204	Coagulation Factor Va	Successful target	P12259
+TTDS00205	Coagulation Factor VIIIa	Successful target	P00451
+TTDS00206	Mineralocorticoid receptor	Successful target	P08235
+TTDS00208	Dihydrofolate reductase	Successful target	P13922 (10-228); P0A547; P00374; P00379; P0ABQ4; P16184; Q27793; Q8I372; Q9HBH1
+TTDS00209	AMP-activated protein kinase	Successful target	Q13131; Q9Y478; P54619
+TTDS00211	Penicillin binding protein 2	Successful target	P0AD65
+TTDS00212	Penicillin binding protein 3	Successful target	P0AD68
+TTDS00222	DNA-dependent RNA polymerase at the beta subunit	Successful target	Q7X2I2
+TTDS00223	Isoleucyl-tRNA synthetase (bacterial)	Successful target	P00956
+TTDS00226	Plastid RNA polymerase beta-subunit	Successful target	P47768
+TTDS00228	Beta-lactamase	Successful target	P00807
+TTDS00230	Dehydropeptidase I	Successful target	P16444
+TTDS00233	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	Successful target	P28909
+TTDS00234	73-kDa molecular chaperone HSP73	Successful target	P11142
+TTDS00235	Enoyl-ACP reductase	Successful target	P0AEK5; Q965D5
+TTDS00236	1-deoxy-D-xylulose-5-phosphate reductoisomerase	Successful target	O96693
+TTDS00237	Dihydropteroate synthetase	Successful target	Q8IAU3; P0AC13
+TTDS00241	17 alpha-hydroxylase-C17, 20-lyase 	Successful target	P05093
+TTDS00242	Estrogen receptor	Successful target	P03372
+TTDS00245	Progesterone receptor	Successful target	P06401
+TTDS00246	Ribonucleoside-diphosphate reductase	Successful target	P08543
+TTDS00247	Proto-oncogene tyrosine-protein kinase SRC	Successful target	P12931
+TTDS00249	Receptor protein-tyrosine kinase erbB-2	Successful target	P04626
+TTDS00250	Estrogen receptor beta	Successful target	Q92731
+TTDS00251	Vitamin D receptor	Successful target	P11473
+TTDS00252	Cytochrome P450 19	Successful target	P11511
+TTDS00253	Gonadotropin-releasing hormone	Successful target	P01148
+TTDS00254	Lutropin-choriogonadotropic hormone receptor	Successful target	P22888
+TTDS00256	Alkaline phosphatase, tissue-nonspecific	Successful target	P05186
+TTDS00258	Parathyroid hormone/parathyroid hormone-related peptide receptor	Successful target	Q03431
+TTDS00264	Oxytocin receptor	Successful target	P30559
+TTDS00265	Serine/threonine-protein kinase mTOR	Successful target	P42345
+TTDS00267	Type-1 angiotensin II receptor	Successful target	P30556
+TTDS00268	B-lymphocyte antigen CD20	Successful target	P11836
+TTDS00269	Insulin-like growth factor I receptor	Successful target	P08069
+TTDS00270	Mast/stem cell growth factor receptor	Successful target	P10721
+TTDS00272	Bile acid receptor	Successful target	Q96RI1
+TTDS00273	Gonadotropin-releasing hormone receptor	Successful target	P30968
+TTDS00274	Heat shock protein 90	Successful target	Q8III6
+TTDS00275	Signal transducer and activator of transcription 3	Successful target	P40763
+TTDS00276	Thioredoxin reductase, cytoplasmic	Successful target	C4LW95
+TTDS00278	Bile salt export pump	Successful target	O95342
+TTDS00280	CAMP-specific 3',5'-cyclic phosphodiesterase 4A	Successful target	P27815
+TTDS00282	Trypsin	Successful target	P07477
+TTDS00283	Glucocorticoid receptor	Successful target	P04150
+TTDS00285	Alpha-1-antitrypsin	Successful target	P01009
+TTDS00286	Adrenocorticotropic hormone receptor	Successful target	Q01718
+TTDS00287	Chloride channel protein 2	Successful target	P51788
+TTDS00288	Multidrug resistance-associated protein 1	Successful target	P33527
+TTDS00289	Amine oxidase [flavin-containing] A	Successful target	P21397
+TTDS00291	Maltase-glucoamylase, intestinal	Successful target	O43451
+TTDS00292	Insulin receptor	Successful target	P06213
+TTDS00295	Fatty acid synthase	Successful target	P49327
+TTDS00296	CGMP-specific 3',5'-cyclic phosphodiesterase	Successful target	O76074
+TTDS00299	1,3-Beta-Glucan synthase	Successful target	P38631
+TTDS00300	Human keratin	Successful target	Q16195
+TTDS00301	Thymidylate synthase	Successful target	P04818; P13922 (322-608)
+TTDS00302	Squalene monooxygenase	Successful target	P32476; Q14534
+TTDS00306	Carbonic anhydrase II	Successful target	P00918
+TTDS00307	Fumarate reductase flavoprotein subunit	Successful target	O06913
+TTDS00308	Tubulin beta	Successful target	P07437
+TTDS00309	HBV polymerase	Successful target	Q67889
+TTDS00310	DNA polymerase	Successful target	O39644
+TTDS00311	Toll-like receptor 7	Successful target	Q9NYK1
+TTDS00312	DNA (cytosine-5)-methyltransferase	Successful target	P11876
+TTDS00313	Ornithine decarboxylase	Successful target	P07805
+TTDS00314	4-hydroxyphenylpyruvate dioxygenase	Successful target	P49429
+TTDS00315	DNA polymerase (HSV)	Successful target	P04293
+TTDS00316	DNA polymerase (HSV-2)	Successful target	P07918
+TTDS00317	HIV-1 reverse transcriptase	Successful target	Q69617
+TTDS00318	HIV reverse transcriptase	Successful target	P03366 (600-1159)
+TTDS00319	HIV-1 protease	Successful target	O09807
+TTDS00320	HIV protease	Successful target	P03366 (501-599)
+TTDS00322	HIV-1 Tat protein	Successful target	P04612
+TTDS00323	Peptidyl-prolyl cis-trans isomerase A	Successful target	P62937
+TTDS00325	Transmembrane glycoprotein gp41	Successful target	O70902 (512-845)
+TTDS00326	C-C chemokine receptor type 5	Successful target	P51681
+TTDS00328	Niemann-Pick C1-like protein 1	Successful target	Q9UHC9
+TTDS00334	Cannabinoid receptor 1	Successful target	P21554
+TTDS00336	Serum albumin	Successful target	P02768
+TTDS00337	Nitric oxide synthase, inducible	Successful target	P35228
+TTDS00338	Peroxisome proliferator activated receptor gamma	Successful target	P37231
+TTDS00340	Peroxisome proliferator activated receptor alpha	Successful target	Q07869
+TTDS00341	Amine oxidase [flavin-containing] B	Successful target	P27338
+TTDS00342	Delta-aminolevulinic acid dehydratase	Successful target	P13716
+TTDS00346	B-Raf proto-oncogene serine/threonine-protein kinase	Successful target	P15056
+TTDS00347	Fusion glycoprotein	Successful target	P33481
+TTDS00348	Proto-oncogene tyrosine-protein kinase receptor ret	Successful target	P07949
+TTDS00350	Proto-oncogene tyrosine-protein kinase ABL1	Successful target	P00519
+TTDS00351	Orphan nuclear receptor NR1I3	Successful target	Q14994
+TTDS00355	Epidermal growth factor receptor	Successful target	P00533
+TTDS00357	Acetyl-CoA carboxylase 2	Successful target	O00763
+TTDS00359	Fungal Cytochrome P450 51	Successful target	P10614
+TTDS00360	Receptor-type protein-tyrosine phosphatase S	Successful target	Q13332
+TTDS00361	Aromatic-L-amino-acid decarboxylase	Successful target	P20711
+TTDS00362	Catechol-O-methyl-transferase	Successful target	P21964
+TTDS00363	Calcineurin	Successful target	Q08209; P63098
+TTDS00365	Tyrosine 3-monooxygenase	Successful target	P07101
+TTDS00367	Androgen receptor	Successful target	P10275
+TTDS00368	T-cell surface antigen CD2	Successful target	P06729
+TTDS00372	Farnesyl pyrophosphate synthetase	Successful target	P14324; Q86C09
+TTDS00373	Tyrosine oxidase	Successful target	P14679
+TTDS00377	Ceramide glucosyltransferase	Successful target	Q16739
+TTDS00378	Heparin cofactor II	Successful target	P05546
+TTDS00380	Thyroid peroxidase	Successful target	P07202
+TTDS00381	Thyroid hormone receptor alpha	Successful target	P10827
+TTDS00384	Enoyl-[acyl-carrier-protein] reductase [NADH]	Successful target	P9WGR1
+TTDS00386	Fatty acid synthase subunit beta	Successful target	P34731
+TTDS00389	Tubulin beta-2 chain	Successful target	P05217
+TTDS00390	CGMP-inhibited 3',5'-cyclic phosphodiesterase A	Successful target	Q14432
+TTDS00392	Plasminogen	Successful target	P00747
+TTDS00393	Melatonin receptor type 1A	Successful target	P48039
+TTDS00394	Somatostatin receptor type 2	Successful target	P30874
+TTDS00395	Thromboxane A2 receptor	Successful target	P21731
+TTDS00397	Pancreatic alpha-amylase	Successful target	P04746
+TTDS00398	Vitamin K epoxide reductase complex subunit 1	Successful target	Q9BQB6
+TTDS00399	5-hydroxytryptamine receptor 3A	Successful target	P46098
+TTDS00400	Neuronal acetylcholine receptor subunit alpha-2	Successful target	Q15822
+TTDS00401	Inosine-5'-monophosphate dehydrogenase 1	Successful target	P20839
+TTDS00402	Sodium channel protein type 5 subunit alpha	Successful target	Q14524
+TTDS00403	Gamma-aminobutyric acid receptor subunit alpha-1	Successful target	P14867
+TTDS00404	Sodium channel protein type 1 subunit alpha	Successful target	P35498
+TTDS00405	Adenine nucleotide translocator 1	Successful target	P12235
+TTDS00406	Proto-oncogene tyrosine-protein kinase Fyn	Successful target	P06241
+TTDS00407	Proto-oncogene tyrosine-protein kinase LCK	Successful target	P06239
+TTDS00408	Proto-oncogene tyrosine-protein kinase Yes	Successful target	P07947
+TTDS00409	Troponin C	Successful target	P63316
+TTDS00410	Gamma-aminobutyric acid receptor subunit beta-2	Successful target	P47870
+TTDS00411	Macrophage colony-stimulating factor receptor	Successful target	Q99062
+TTDS00412	Potassium voltage-gated channel subfamily D member 3	Successful target	Q9UK17
+TTDS00413	Voltage-dependent T-type calcium channel subunit alpha-1H	Successful target	O95180
+TTDS00414	Voltage-dependent L-type calcium channel subunit alpha-1C	Successful target	Q13936
+TTDS00415	Voltage-dependent calcium channel subunit alpha-2/delta-1	Successful target	P54289
+TTDS00416	Sodium channel protein type 4 subunit alpha	Successful target	P35499
+TTDS00417	Peptidyl-prolyl cis-trans isomerase B	Successful target	P23284
+TTDS00418	Cytochrome P450 3A4	Successful target	P08684
+TTDS00419	Cytochrome P450 11A1, mitochondrial	Successful target	P05108
+TTDS00420	Cytochrome P450 11B1, mitochondrial	Successful target	P15538
+TTDS00421	Ribonucleoside-diphosphate reductase subunit M2	Successful target	P31350
+TTDS00422	Melatonin receptor type 1B	Successful target	P49286
+TTDS00424	Guanylate cyclase soluble subunit beta-1	Successful target	Q02153
+TTDS00426	Type I iodothyronine deiodinase	Successful target	P49895
+TTDS00427	Vacuolar ATP synthase catalytic subunit A	Research target	P38606
+TTDS00428	Gamma-aminobutyric acid receptor subunit gamma-2	Successful target	P18507
+TTDS00429	Gastric triacylglycerol lipase	Successful target	P07098
+TTDS00430	Equilibrative nucleoside transporter 1	Successful target	Q9NIH7
+TTDS00431	ATP-sensitive inward rectifier potassium channel 10	Successful target	P78508
+TTDS00432	Calmodulin	Successful target	P62158
+TTDS00433	Carnitine O-palmitoyltransferase I	Successful target	P50416; Q92523
+TTDS00435	Complement C5	Successful target	P01031
+TTDS00436	Elongation factor G	Successful target	C1CC62
+TTDS00437	Ferrochelatase	Successful target	P22830
+TTDS00438	Follicle stimulating hormone receptor	Successful target	P23945
+TTDS00439	Glucagon receptor	Successful target	P47871
+TTDS00440	Glucagon-like peptide 1 receptor	Successful target	P43220
+TTDS00441	Glutamate carboxypeptidase II	Successful target	Q04609
+TTDS00442	Granulocyte-macrophage colony-stimulating factor receptor alpha chain	Successful target	P15509
+TTDS00444	Lymphocyte function-associated antigen 1	Successful target	P20701
+TTDS00445	Integrin alpha-4	Successful target	P13612
+TTDS00446	Growth hormone-releasing hormone receptor	Successful target	Q02643
+TTDS00447	Interleukin-1 beta	Successful target	P01584
+TTDS00448	Leukocyte elastase	Successful target	P08246
+TTDS00449	Neprilysin	Successful target	P08473
+TTDS00450	Mannose-6-phosphate isomerase	Successful target	P34948
+TTDS00451	Renin, renal	Successful target	P00797
+TTDS00452	Thyrotropin receptor	Successful target	P16473
+TTDS00453	T-lymphocyte activation antigen CD80	Successful target	P33681
+TTDS00454	Peripheral-type benzodiazepine receptor	Successful target	P30536
+TTDS00465	Transient receptor potential cation channel subfamily A member 1	Successful target	O75762
+TTDS00466	Diglyceride acyltransferase	Successful target	O75907
+TTDS00467	Antithrombin-III	Successful target	P01008
+TTDS00469	NADH dehydrogenase	Successful target	P03886; P03891; P03897
+TTDS00470	Vitamin K-dependent protein C	Successful target	P04070
+TTDS00471	HLA class II histocompatibility antigen, DRB1-1	Successful target	P04229
+TTDS00472	T-cell surface glycoprotein CD1a	Successful target	P06126
+TTDS00473	T-cell surface glycoprotein CD3 epsilon chain	Successful target	P07766
+TTDS00474	D-alanine-D-alanine ligase A	Successful target	P9WP31
+TTDS00475	Cytochrome P450 2D6	Successful target	P10635
+TTDS00476	Indoleamine 2,3-dioxygenase	Successful target	P14902
+TTDS00477	Interferon-gamma receptor	Successful target	P15260; P38484
+TTDS00478	Atrial natriuretic peptide receptor A	Successful target	P16066
+TTDS00479	Urease	Successful target	P18314
+TTDS00480	B-cell receptor CD22	Successful target	P20273
+TTDS00481	Mannose-6-phosphate receptor	Successful target	P20645
+TTDS00482	Methylmalonyl-CoA mutase	Successful target	P22033
+TTDS00484	High affinity immunoglobulin epsilon receptor	Successful target	P12319; Q01362£» P30273
+TTDS00485	Calcitonin receptor	Successful target	P30988
+TTDS00486	Vitamin K-dependent gamma-carboxylase	Successful target	P38435
+TTDS00487	Carcinoembryonic antigen	Successful target	P40198
+TTDS00490	T-lymphocyte activation antigen CD86	Successful target	P42081
+TTDS00491	Secretin receptor	Successful target	P47872
+TTDS00492	Interferon-alpha/beta receptor	Successful target	P17181; P48551
+TTDS00494	Biliverdin reductase A	Successful target	P53004
+TTDS00495	Alpha-N-acetylglucosaminidase	Successful target	P54802
+TTDS00496	Synaptosomal-associated protein 25	Successful target	P60880
+TTDS00497	Somatostatin	Successful target	P61278
+TTDS00498	Hemoglobin	Successful target	P68871; P69905
+TTDS00499	Type IV phosphodiesterase	Successful target	Q08499
+TTDS00500	Adenylate cyclase type 1	Successful target	Q08828
+TTDS00501	Interleukin-11 receptor alpha chain	Successful target	Q14626
+TTDS00503	Voltage-gated sodium channel subunit alpha Nav1.7	Successful target	Q15858
+TTDS00504	Organic anion transporter 1	Successful target	Q4U2R8
+TTDS00505	Mannitol 2-dehydrogenase 	Successful target	Q4WQY4
+TTDS00506	Mannitol-1-phosphate 5-dehydrogenase	Successful target	Q4X1A4
+TTDS00507	Transient receptor potential cation channel subfamily M member 8	Successful target	Q7Z2W7
+TTDS00510	Integral membrane protein LmrP	Successful target	Q9CDQ3
+TTDS00511	Cycloinulo-oligosaccharide fructanotransferase	Successful target	Q9F0I5
+TTDS00512	Gamma-hydroxybutyrate receptor	Successful target	Q9HAB3
+TTDS00513	Sodium-dependent vitamin C transporter 2	Successful target	Q9UGH3
+TTDS00514	Sodium channel protein type 10 subunit alpha	Successful target	Q9Y5Y9
+TTDS00515	Low affinity immunoglobulin gamma Fc region receptor II-A	Successful target	P12318
+TTDS00516	Acyl-CoA desaturase	Successful target	P9WNZ2
+TTDS00519	HIV-1 integrase	Successful target	O56072
+TTDS00520	Neuronal acetylcholine receptor protein, alpha-7 chain	Successful target	P36544
+TTDS00521	Interleukin-6 receptor	Successful target	P08887; P40189
+TTDS00524	Thrombopoietin Receptor	Successful target	P40238
+TTDS00525	Type-2 angiotensin II receptor	Successful target	P50052
+TTDS00529	Voltage-dependent N-type calcium channel	Successful target	Q00975
+TTDS00530	Pyruvate decarboxylase	Successful target	P06958
+TTDS00531	Diacylglycerol O-acyltransferase 2	Successful target	Q96PD7
+TTDS00533	Carbamoyl-phosphate synthetase I	Successful target	P31327
+TTDS00534	Interleukin-23	Successful target	Q9NPF7
