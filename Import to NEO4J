@@ -15,3 +15,8 @@ MATCH (n) WHERE EXISTS(n.drugId) <RETURN DISTINCT "node" as entity, n.drugId AS 
 
 from py2neo import Graph
 graph = Graph("http://54.197.113.8:33354/browser/", username="neo4j", password="command-needs-bell")
+
+
+Query 
+
+MATCH (m:Drug) -[:ACTS_ON]-> (d:Disease) return d.name, count(m.name) as n order by n desc limit 50
