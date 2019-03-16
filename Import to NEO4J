@@ -10,3 +10,8 @@ MATCH (n) WHERE EXISTS(n.name) RETURN DISTINCT "node" as entity, n.name AS name 
 MATCH (n) WHERE EXISTS(n.drugId) <RETURN DISTINCT "node" as entity, n.drugId AS drugId LIMIT 25 UNION ALL MATCH ()-[r]-() WHERE EXISTS(r.drugId) RETURN DISTINCT "relationship" AS entity, r.drugId AS drugId LIMIT 25
 
 
+
+#Python:
+
+from py2neo import Graph
+graph = Graph("http://54.197.113.8:33354/browser/", username="neo4j", password="command-needs-bell")
